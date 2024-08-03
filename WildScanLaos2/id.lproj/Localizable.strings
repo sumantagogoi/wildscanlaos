@@ -1,0 +1,904 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Wed, 25 May 2016 15:42:36 +0100
+ */
+
+/*  */
+"blank" = "blank";
+
+/*  */
+"action_synchronize" = "Sinkronisasi data";
+
+/*  */
+"action_info" = "Bantuan & Info";
+
+/*  */
+"action_settings" = "Pengaturan";
+
+/*  */
+"info_title" = "Wildscan Info";
+
+/*  */
+"info_about" = "Tentang WildScan";
+
+/*  */
+"info_eula" = "Perjanjian Lisensi Pengguna Akhir";
+
+/*  */
+"info_consumer" = "Saran Umum Bagi Konsumen";
+
+/*  */
+"info_responder" = "Saran Umum Bagi Pemberi Respon Pertama";
+
+/*  */
+"info_law_enforcement" = "Saran Umum Bagi Penegak Hukum";
+
+/*  */
+"info_national_laws" = "Undang-Undang Satwa Liar Nasional";
+
+/*  */
+"info_contributors" = "Organisasi Pemberi Kontribusi";
+
+/*  */
+"info_credits" = "Kredit";
+
+/*  */
+"species_lib_header_title" = "Perpustakaan Spesies";
+
+/*  */
+"species_lib_header_btn_favorites" = "Favorit";
+
+/*  */
+"species_lib_header_btn_gallery" = "Lihat Galeri";
+
+/*  */
+"species_lib_header_btn_search" = "Cari";
+
+/*  */
+"species_lib_search_by_name_hint" = "Masukkan nama spesies";
+
+/*  */
+"species_lib_search_set_filter" = "Sortir sesuai tipe";
+
+/*  */
+"species_lib_select_dlg_text" = "Pilih spesies untuk pelaporan atau melihat rincian spesies";
+
+/*  */
+"species_lib_select_dlg_btn_select" = "Pilih spesies";
+
+/*  */
+"species_lib_select_dlg_btn_details" = "Melihat rincian";
+
+/*  */
+"species_details_label_cites" = "CITES Lampiran";
+
+/*  */
+"species_details_label_cites_appendix_1" = "Lampiran I";
+
+/*  */
+"species_details_label_cites_appendix_2" = "Lampiran II";
+
+/*  */
+"species_details_label_cites_appendix_3" = "Lampiran III";
+
+/*  */
+"species_details_label_status" = "Status Daftar Merah IUCN";
+
+/*  */
+"species_details_label_status_lc" = "LC- Risiko rendah";
+
+/*  */
+"species_details_label_status_nt" = "NT- Hampir terancam";
+
+/*  */
+"species_details_label_status_vu" = "VU- Rentan";
+
+/*  */
+"species_details_label_status_en" = "EN- Terancam Punah";
+
+/*  */
+"species_details_label_status_cr" = "CR -Kritis terancam punah";
+
+/*  */
+"species_details_label_status_ew" = "EW- Extinct in the Wild";
+
+/*  */
+"species_details_label_status_ex" = "Punah";
+
+/*  */
+"species_details_label_status_na" = "NA - Informasi tidak cukup";
+
+/*  */
+"species_details_label_warning" = "Peringatan";
+
+/*  */
+"species_details_label_warning_disease_risk" = "Risiko penyakit";
+
+/*  */
+"species_details_label_warning_disease_risk_low" = "Rendah";
+
+/*  */
+"species_details_label_warning_disease_risk_medium" = "Sedang";
+
+/*  */
+"species_details_label_warning_disease_risk_high" = "Tinggi";
+
+/*  */
+"species_details_label_warning_dangerous" = "Berbahaya";
+
+/*  */
+"species_details_label_warning_poisonous" = "Beracun";
+
+/*  */
+"species_details_label_warning_nocturnal" = "Nokturnal";
+
+/*  */
+"species_details_label_id_clues" = "Petunjuk Identifikasi dasar";
+
+/*  */
+"species_details_label_similar" = "Hewan sejenis";
+
+/*  */
+"species_details_label_enforcement" = "Saran penegakan";
+
+/*  */
+"species_details_label_consumer" = "Saran konsumen";
+
+/*  */
+"species_details_label_responder" = "Responden pertama (spesies tertentu)";
+
+/*  */
+"species_details_label_traded_as" = "Diperdagangkan sebagai / produk derivatif";
+
+/*  */
+"species_details_label_common_methods" = "Metode perdagangan umum";
+
+/*  */
+"species_details_label_aka" = "Juga dikenal sebagai";
+
+/*  */
+"species_details_label_distribution" = "Negara yang masih ada";
+
+/*  */
+"species_details_label_size" = "Ukuran rata-rata dan berat";
+
+/*  */
+"species_details_label_habitat" = "Habitat";
+
+/*  */
+"species_details_label_diseases" = "Penyakit Zoonosis";
+
+/*  */
+"species_details_label_notes" = "catatan";
+
+/*  */
+"species_details_photo_license" = "Lisensi hak cipta:\n%1$s";
+
+/*  */
+"species_details_failed_set_fav" = "Gagal pengaturan favorit";
+
+/*  */
+"species_details_no_images" = "Tidak ada gambar spesies saat ini tersedia";
+
+/*  */
+"contacts_list_header_title" = "Direktori Kontak";
+
+/*  */
+"contacts_list_header_btn_favorites" = "Favorit";
+
+/*  */
+"contacts_list_header_btn_search" = "Cari";
+
+/*  */
+"contacts_list_search_by_name_hint" = "Masukkan nama kontak";
+
+/*  */
+"contacts_list_label_email" = "Email";
+
+/*  */
+"contacts_list_label_phone" = "Telepon";
+
+/*  */
+"events_list_header_title" = "Daftar Kejadian";
+
+/*  */
+"events_list_header_btn_favorites" = "Favorit";
+
+/*  */
+"events_list_header_btn_show_on_map" = "Tunjukan di peta";
+
+/*  */
+"events_list_header_btn_view_more" = "Melihat yang lainnya";
+
+/*  */
+"events_list_fragment_title" = "Peritiwa/kejadian terbaru";
+
+/*  */
+"events_list_fragment_tag_on_home" = "EventsListFragmentOnHomeScreen";
+
+/*  */
+"events_list_fragment_tag" = "EventsListFragment";
+
+/*  */
+"events_list_loading_text" = "Mengambil peristiwa/kejadian…";
+
+/*  */
+"events_list_empty_text" = "Tidak ada peristiwa/kejadian";
+
+/*  */
+"event_hint_country" = "Negara tidak diketahui";
+
+/*  */
+"event_hint_date" = "Tanggal tidak diketahui";
+
+/*  */
+"event_hint_species" = "Spesies yang tidak ditentukan";
+
+/*  */
+"event_hint_description" = "Deskripsi insiden/kejadian kosong";
+
+/*  */
+"events_map_header_title" = "Peta kejadian";
+
+/*  */
+"events_map_header_btn_next" = "Berikutnya";
+
+/*  */
+"events_map_header_btn_show_list" = "Tampilkan Daftar";
+
+/*  */
+"event_details_offense_label" = "Pelanggaran";
+
+/*  */
+"event_details_address_label" = "Alamat";
+
+/*  */
+"event_details_country_label" = "Negara";
+
+/*  */
+"event_details_datetime_label" = "Tanggal dan waktu";
+
+/*  */
+"event_details_species_label" = "Spesies";
+
+/*  */
+"event_details_amount_label" = "Jumlah";
+
+/*  */
+"event_details_condition_label" = "Kondisi";
+
+/*  */
+"event_details_unknown" = "Tidak diketahui";
+
+/*  */
+"no_network_connection_toast" = "Tidak ada koneksi jaringan yang ditemukan";
+
+/*  */
+"species_id_wizard_header_title" = "Mengidentifikasi Spesies";
+
+/*  */
+"report_wizard_screen_1_title" = "Laporan Insiden (1) - Gambar Utama";
+
+/*  */
+"report_wizard_screen_2_title" = "Laporan Insiden (2) - Info Dasar";
+
+/*  */
+"report_wizard_screen_3_title" = "Laporan Insiden (3) - Rincian lebih lanjut";
+
+/*  */
+"report_wizard_screen_4_title" = "Laporan insiden (4) - Meninjau dan menyerahkan";
+
+/*  */
+"report_wizard_location_pick_title" = "Laporan Kejadian - Pilih Lokasi";
+
+/*  */
+"report_wizard_screen_1_capture_label" = "Memotret";
+
+/*  */
+"report_wizard_screen_1_browse_label" = "Memilih Gambar yang ada";
+
+/*  */
+"report_wizard_screen_2_time_label" = "Tanggal & Waktu";
+
+/*  */
+"report_wizard_screen_2_location_label" = "Lokasi";
+
+/*  */
+"report_wizard_screen_2_offense_label" = "Pelanggaran";
+
+/*  */
+"report_wizard_screen_2_offense_hint" = "Jelaskan pelanggaran secara singkat. Sebagai contoh: 'Penjualan reptil yang dilindungi.'";
+
+/*  */
+"report_wizard_screen_2_species_label" = "Spesies";
+
+/*  */
+"report_wizard_screen_2_species_hint" = "Mengetik nama umum spesies";
+
+/*  */
+"report_wizard_screen_2_amount_label" = "Jumlah";
+
+/*  */
+"report_wizard_screen_2_amount_unit_label" = "Individu";
+
+/*  */
+"report_wizard_screen_2_amount_weight_label" = "Kg";
+
+/*  */
+"report_wizard_screen_2_condition_label" = "Kondisi";
+
+/*  */
+"report_wizard_screen_2_condition_alive_label" = "hidup";
+
+/*  */
+"report_wizard_screen_2_condition_dead_label" = "mati";
+
+/*  */
+"report_wizard_screen_2_condition_mixed_label" = "campur";
+
+/*  */
+"report_wizard_screen_3_offense_details_label" = "Deskripsi pelanggaran terperinci";
+
+/*  */
+"report_wizard_screen_3_offense_details_hint" = "Memberikan Deskripsi rinci tentang pelanggaran (hingga 2048 karakter)";
+
+/*  */
+"report_wizard_screen_3_method_label" = "Metode";
+
+/*  */
+"report_wizard_screen_3_method_hint" = "Menjelaskan metode yang digunakan untuk melakukan pelanggaran (hingga 1024 karakter)";
+
+/*  */
+"report_wizard_screen_3_value_label" = "Perkiraan Nilai";
+
+/*  */
+"report_wizard_screen_3_value_usd" = "$US";
+
+/*  */
+"report_wizard_screen_3_zero_cents" = ".00";
+
+/*  */
+"report_wizard_screen_3_route_label" = "Rute";
+
+/*  */
+"report_wizard_screen_3_origin_label" = "Asal";
+
+/*  */
+"report_wizard_screen_3_destination_label" = "Tujuan";
+
+/*  */
+"report_wizard_screen_3_vessel_label" = "Deskripsi kendaraan / kapal";
+
+/*  */
+"report_wizard_screen_3_vessel_description_label" = "Deskripsi";
+
+/*  */
+"report_wizard_screen_3_vessel_id_label" = "Lisensi #";
+
+/*  */
+"report_wizard_screen_3_vessel_name_label" = "Nama kapal";
+
+/*  */
+"report_wizard_screen_4_share_title" = "Membagikan pilihan";
+
+/*  */
+"report_wizard_screen_4_add_contact" = "Menambah kontak";
+
+/*  */
+"report_wizard_screen_4_recipients_label" = "Kontak";
+
+/*  */
+"report_wizard_screen_4_share_text" = "Secara default, laporan Anda akan dikirim ke tim WildScan yang akan meneruskannya ke pihak otoritas terkait. Anda juga dapat menambahkan kontak tertentu yang akan menerima laporan tersebut.";
+
+/*  */
+"report_wizard_screen_4_share_email_label" = "Berbagi laporan melalui e-mail";
+
+/*  */
+"report_wizard_screen_4_share_email_text" = "Jika dicek, aplikasi e-mail klien Anda akan dibuka dengan pesan baru yang berisi rincian laporan.";
+
+/*  */
+"report_wizard_screen_4_photos_label" = "Gambar";
+
+/*  */
+"report_wizard_screen_4_add_photo_label" = "Foto-foto ini akan disertakan dalam laporan. Klik untuk menambahkan foto yang lain (maks. 3)";
+
+/*  */
+"report_wizard_screen_4_private_label" = "Tandai laporan sebagai pribadi";
+
+/*  */
+"report_wizard_screen_4_private_text" = "Laporan pribadi tidak akan dibagikan ke penguna WildScan lain";
+
+/*  */
+"report_wizard_confirm_discard_title" = "Membuang laporan?";
+
+/*  */
+"report_wizard_confirm_discard_message" = "Semua informasi akan dibuang";
+
+/*  */
+"report_wizard_warning_dialog_title" = "Pelaporan perdagangan/penyelundupan dan kejahatan satwa liar mempunyai potensi menjadi berbahaya. Pengguna WildScan harus selalu berhati-hati ketika memotret tersangka kejahatan satwa liar dan seharusnya tidak menempatkan dirinya dalam bahaya untuk melaporkan kejahatan tersebut.";
+
+/*  */
+"report_wizard_warning_dialog_message" = "Pelaporan perdagangan/penyelundupan dan kejahatan satwa liar mempunyai potensi menjadi berbahaya.\n                                                        Pengguna WildScan harus selalu berhati-hati ketika memotret tersangka kejahatan \n                                                        satwa liar dan seharusnya tidak menempatkan dirinya dalam bahaya untuk melaporkan kejahatan tersebut.";
+
+/*  */
+"report_wizard_location_loading" = "Retrieving Address…";
+
+/*  */
+"report_wizard_location_hint" = "Masukkan Lokasi";
+
+/*  */
+"report_submit_dialog_title" = "Menyerahkan Laporan";
+
+/*  */
+"report_submit_message" = "Mengirimkan laporan ke WildScan…";
+
+/*  */
+"report_submit_success" = "Laporan disampaikan dengan sukses dan akan ditinjau oleh WildScan";
+
+/*  */
+"report_submit_fail" = "Pengiriman gagal. Laporan akan diajukan selama sinkronisasi berikutnya";
+
+/*  */
+"report_email_title" = "Laporan Otomatis Aplikasi WildScan [%1$s]";
+
+/*  */
+"report_email_section_name_datetime" = "Tanggal/Waktu";
+
+/*  */
+"report_email_section_name_location_lat" = "Lokasi Garis lintang";
+
+/*  */
+"report_email_section_name_location_lon" = "Lokasi Garis bujur";
+
+/*  */
+"report_email_section_name_description" = "Deskripsi kejadian";
+
+/*  */
+"report_email_section_name_species" = "Spesies";
+
+/*  */
+"report_email_section_name_amount" = "Nomor";
+
+/*  */
+"report_email_section_name_condition" = "Kondisi";
+
+/*  */
+"report_email_section_name_details" = "Rincian pelanggaran";
+
+/*  */
+"report_email_section_name_method" = "Metode";
+
+/*  */
+"report_email_section_name_value" = "Perkiraan Nilai (USD)";
+
+/*  */
+"report_email_section_name_origin_address" = "Alamat asal";
+
+/*  */
+"report_email_section_name_origin_lat" = "Garis lintang asal";
+
+/*  */
+"report_email_section_name_origin_lon" = "Garis bujur asal";
+
+/*  */
+"report_email_section_name_dest_address" = "Alamat tujuan";
+
+/*  */
+"report_email_section_name_dest_lat" = "Garis lintang tujuan";
+
+/*  */
+"report_email_section_name_dest_lon" = "Garis bujur tujuan";
+
+/*  */
+"report_email_section_name_vessel_description" = "Deskripsi kendaraan / kapal";
+
+/*  */
+"report_email_section_name_vessel_id" = "Nomor lisensi kendaraan / kapal";
+
+/*  */
+"report_email_section_name_vessel_name" = "Nama kapal";
+
+/*  */
+"location_picker_map_target_title" = "Mengenal Lokasi";
+
+/*  */
+"date_time_picker_dialog_title" = "Atur tanggal dan waktu";
+
+/*  */
+"sync_wifi_unavailable" = "Jaringan Wifi tidak tersedia. Silahkan hubungkan ke wifi untuk melakukan sinkronisasi.";
+
+/*  */
+"sync_initial_starting_message" = "Melakukan sinkronisasi pertama kali, ini mungkin memerlukan beberapa menit tergantung pada kecepatan koneksi Anda";
+
+/*  */
+"sync_starting_message" = "Sinkronisasi data";
+
+/*  */
+"sign_in_request_message" = "WildScan mengharuskan setiap pengguna untuk masuk ke aplikasi untuk memastikan keamanan informasi yang dikirim melalui laporan. Silakan memverifikasi identitas Anda dengan masuk menggunakan akun Google Anda";
+
+/*  */
+"status_signing_in" = "Masuk'log in'…";
+
+/*  */
+"status_signed_out" = "Keluar'log out'";
+
+/*  */
+"status_signed_in_as" = "Masuk/log in sebagai %1$s";
+
+/*  */
+"status_sign_in_hint" = "Status masuk'log in'";
+
+/*  */
+"status_play_services_error" = "Kesalahan Pelayanan Google Play";
+
+/*  */
+"status_retrieve_id" = "Mengambil ID Google";
+
+/*  */
+"status_registration_fail" = "Pendaftaran akun registrasi gagal";
+
+/*  */
+"status_new_user_signin_fail" = "Pendaftaran pengguna baru gagal, silahkan mencoba untuk memulai ulang aplikasi";
+
+/*  */
+"status_login_failed" = "Login gagal";
+
+/*  */
+"status_server_error" = "Kesalahan server. Silakan coba lagi nanti";
+
+/*  */
+"status_server_error_code" = "Kesalahan server (%1$d)";
+
+/*  */
+"status_registering" = "Mendaftarkan akun dengan WildScan";
+
+/*  */
+"status_signup_failed" = "Mendaftar'signup' gagal";
+
+/*  */
+"status_signin_failed_abort" = "Mendaftar'signup' gagal";
+
+/*  */
+"status_verification_failed" = "Verifikasi pengguna gagal";
+
+/*  */
+"status_verify" = "Memverifikasi akun";
+
+/*  */
+"status_apk_exp_dl_fail_abort" = "Gagal untuk mengunduh ekspansi file APK";
+
+/*  */
+"status_apk_exp_download" = "Mengunduh file ekspansi APK (%1$d%%)";
+
+/*  */
+"pref_screen_title" = "Pengaturan WildSScan";
+
+/*  */
+"pref_label_sync" = "Pengaturan sinkronisasi";
+
+/*  */
+"pref_summary_sync" = "Memungkinkan sinkronisasi hanya ketika terhubung ke Wi-Fi";
+
+/*  */
+"pref_label_gallery_view" = "Tampilan secara default/otomatis galeri spesies";
+
+/*  */
+"pref_summary_gallery_view" = "Pilih perilaku secara default/otomatis perpustakaan spesies";
+
+/*  */
+"pref_label_language" = "Atur konten bahasa";
+
+/*  */
+"pref_summary_language" = "Pilih bahasa untuk tampilan konten aplikasi";
+
+/*  */
+"pref_entry_device_language" = "Gunakan perangkat bahasa";
+
+/*  */
+"pref_entry_current_supported" = "Hanya %1$s tersedia saat ini";
+
+/*  */
+"pref_label_auto_contacts" = "Default/otomatis penerima laporan";
+
+/*  */
+"pref_summary_auto_contacts" = "Tentukan kontak yang akan ditambahkan secara default/otomatis ke daftar penerima laporan";
+
+/*  */
+"pref_label_save_report" = "Simpan laporan";
+
+/*  */
+"pref_summary_save_report" = "Menyimpan salinan laporan setelah sukses pengiriman";
+
+/*  */
+"pref_label_show_warning" = "Tampilkan peringatan laporan";
+
+/*  */
+"pref_summary_show_warning" = "Tampilkan peringatan 'popup' ketika memulai sebuah laporan baru";
+
+/*  */
+"msg_map_no_events" = "Tidak ada peristiwa/kejadian untuk menunjukkan pada peta";
+
+/*  */
+"msg_contact_fav_empty" = "Favorit tidak ditetapkan, menampilkan semua kontak";
+
+/*  */
+"msg_species_lib_no_close_events" = "Tidak ada peristiwa/kejadian terdekat terakhir ini, menampilan semua spesies";
+
+/*  */
+"msg_species_lib_no_location" = "Tidak bisa mengambil lokasi terkini, menampilkan semua spesies";
+
+/*  */
+"msg_species_lib_wizard_empty" = "Tidak ada spesies yang cocok dengan jawaban Anda, silahkan coba lagi atau kirim sebagai laporan spesies yang tidak dikenal/diketahui";
+
+/*  */
+"msg_species_lib_filter_empty" = "Tidak ada spesies yang cocok dengan sortir yang dipilih, silahkan pilih jenis lain";
+
+/*  */
+"msg_species_lib_list_empty" = "Daftar spesies kosong";
+
+/*  */
+"msg_species_lib_fav_empty" = "Favorit tidak ditetapkan, menampilkan semua kontak";
+
+/*  */
+"msg_species_lib_search_not_found" = "Spesies tidak ditemukan dalam daftar (apakah anda memiliki sortir/favorit yang telah ditetapkan?";
+
+/*  */
+"msg_report_contact_no_email" = "Kontak %1$s tidak memiliki alamat email dan tidak akan ditambahkan ke penerima email";
+
+/*  */
+"msg_report_gallery_photo_added" = "Gambar tambahan dari galeri ditambahkan ke laporan";
+
+/*  */
+"msg_no_adress_found" = "Alamat tidak ditemukan";
+
+/*  */
+"msg_no_adress_for_location" = "Alamat tidak ditemukan untuk lokasi\n(lat: %1$5.2f, lon: %2$5.2f)";
+
+/*  */
+"msg_crc_check_fail" = "Fatal: CRC pengecekan gagal, batal";
+
+/* button text labels */
+"OK" = "OK";
+
+/*  */
+"yes" = "Ya";
+
+/*  */
+"no" = "Tidak";
+
+/*  */
+"apply" = "Terapkan";
+
+/*  */
+"cancel" = "Membatalkan";
+
+/*  */
+"close" = "Tutup";
+
+/*  */
+"skip" = "Lewatkan";
+
+/*  */
+"next" = "Berikutnya";
+
+/*  */
+"capture" = "Memotret";
+
+/*  */
+"recapture" = "Mengambil gambar lainnya";
+
+/*  */
+"browse" = "Memilih yang ada";
+
+/*  */
+"rebrowse" = "Memilih lain yang ada";
+
+/*  */
+"identify" = "Mengidentifikasi";
+
+/*  */
+"back" = "Kembali";
+
+/*  */
+"submit" = "Menyerahkan Laporan";
+
+/*  */
+"details" = "Rincian lebih lanjut";
+
+/*  */
+"set" = "Atur";
+
+/*  */
+"done" = "Selesai";
+
+/*  */
+"discard" = "Buang";
+
+/*  */
+"dismiss" = "Memberhentikan";
+
+/*  */
+"do_not_show" = "Jangan tampilkan pesan ini lagi";
+
+/*  */
+"error" = "Kesalahan";
+
+/*  */
+"exit" = "Keluar";
+
+/*  */
+"retry" = "Coba lagi";
+
+/* Region Dialog text */
+"region_dialog_title" = "Pilih wilayah Anda";
+
+/*  */
+"region_dialog_heading1" = "Wilayah pelaoran Anda";
+
+/*  */
+"region_dialog_heading2" = "Spesies dan wilayah kontak";
+
+/*  */
+"region_dialog_sub_title" = "Unduh tambahan spesies spesifik wilayah dan kontak";
+
+/*  */
+"region_dialog_global" = "Global (default/otomatis))";
+
+/*  */
+"region_dialog_south_asia" = "Asia Tenggara";
+
+/*  */
+"region_dialog_africa" = "Afrika";
+
+/*  */
+"region_dialog_south_america" = "Amerika Selatan";
+
+/*  */
+"region_species" = "Spesies";
+
+/*  */
+"region_contacts" = "Kontak";
+
+/*  */
+"text_coming_soon" = "Segera";
+
+/*  */
+"pass1" = "9oB8y2yd17U1nE7217Sq2UoX80ol0I82MB617E2e";
+
+/*  */
+"action_region" = "Ubah wilayah";
+
+/*  */
+"region_global" = "Global (default/otomatis)";
+
+/*  */
+"region_south_east_asia" = "Asia Tenggara";
+
+/*  */
+"region_africa" = "Afrika";
+
+/*  */
+"region_south_america" = "Amerika Selatan";
+
+/*  */
+"dialog_tutorial_message" = "Anda dapat mengunduh spesies tambahan dan kontak disini";
+
+
+"species_filters_all" = "All";
+
+"species_filters_mammal" = "Hewan Mamalia";
+
+"species_filters_bird"  = "Burung";
+
+"species_filters_fish" = "Ikan";
+
+"species_filters_reptile" = "Reptil";
+
+"species_filters_amphibian" = "Hewan Ampibi";
+
+"species_filters_invetebrate" = "Hewan invertebrata";
+
+"species_filters_plants"  = "Tanaman";
+
+"species_filters_product"  = "Produk derivatif";
+
+"species_filters_close_species"  = "Menutup Spesies";
+
+/* Wizard Questions */
+"id_wizard_questions_live_deceased" = "Apakah hewan utuh (hidup atau mati), atau suatu bagian hewan / produk derivatif?";
+"id_wizard_questions_primary_covering" = "Apa penutup utama tubuh hewan?";
+"id_wizard_questions_legs" = "Berapa banyak kaki yang dimiliki oleh hewan?";
+"id_wizard_questions_color" = "Apa warna utama hewan?";
+"id_wizard_questions_size" = "Berapakah perkiraan ukuran hewan?";
+"id_wizard_questions_special_features" = "Apakah binatang itu memiliki ciri-ciri yang khusus? (Cek semua yang berlaku)";
+"id_wizard_questions_part_product" = "Apa tujuan yang jelas dari bagian / produk?";
+"id_wizard_questions_material" = "Bagian/produk tsb terbuat dari material apa?";
+"id_wizard_questions_body_part" = "Bagian mana dari tubuh hewan itu?";
+
+/*Intact/Animal */
+"id_wizard_prod_ani_intact_animal" = "Hewan utuh";
+"id_wizard_prod_ani_animal_part_product" = "Bagian / produk hewan";
+
+/* Covering */
+"id_wizard_covering_scales" = "Sisik";
+"id_wizard_covering_fur" = "Bulu";
+"id_wizard_covering_feathers" = "bulu unggas";
+"id_wizard_covering_skin" = "Kulit";
+"id_wizard_covering_not_sure" = "Lainnya / tidak yakin";
+
+/* Colors */
+"id_wizard_color_red" = "Merah";
+"id_wizard_color_orange" ="Oranye";
+"id_wizard_color_yellow" ="Kuning";
+"id_wizard_color_green" ="Hijau";
+"id_wizard_color_blue" ="Biru";
+"id_wizard_color_purple" ="Ungu";
+"id_wizard_color_gray" ="Abu-abu";
+"id_wizard_color_brown" ="Coklat";
+"id_wizard_color_white" ="Putih";
+"id_wizard_color_black" ="Hitam";
+"id_wizard_color_not_sure" ="Lainnya / tidak yakin";
+
+/* Size */
+"id_wizard_size_small_hand" = "Lebih kecil dari tangan Anda";
+"id_wizard_size_average_dog" = "Lebih kecil dari rata-rata anjing";
+"id_wizard_size_smaller_than_you" = "Lebih kecil dari Anda";
+"id_wizard_size_larger_than_you" = "Lebih besar dari Anda";
+"id_wizard_size_not_sure" = "Tidak yakin";
+
+
+/* Food Clothing etc */
+"id_wizard_purpose_food" = "Makanan";
+"id_wizard_purpose_clothing" = "Pakaian";
+"id_wizard_purpose_jewelry" = "Perhiasan";
+"id_wizard_purpose_trophy" = "Trofi/ Ornamen";
+"id_wizard_purpose_medicine" = "Obat";
+"id_wizard_purpose_not_sure" = "Lainnya / Tidak yakin";
+
+
+
+
+
+/*Bone Leather etc */
+"id_wizard_material_bone" = "Tulang";
+"id_wizard_material_pelt" = "Bulu/Kulit";
+"id_wizard_material_shell" = "Kerang";
+"id_wizard_material_poweder" = "Bubuk";
+"id_wizard_material_meat" = "Daging";
+"id_wizard_material_not_sure" = "Lainnya/Tidak Yakin";
+
+
+
+
+/* Horn Tusk etc */
+"id_wizard_part_horn" = "Tanduk";
+"id_wizard_part_tusk" = "Gading";
+"id_wizard_part_skin" = "Kulit";
+"id_wizard_part_paw" = "Tapak Kaki";
+"id_wizard_part_claw" = "Gigi/kuku";
+"id_wizard_part_not_sure" = "Lainnya / Tidak yakin";
+
+
+/* Gallery Options */
+"pref_gallery_view_gallery" = "Galeri";
+"pref_gallery_view_list" = "Daftar";
+"pref_gallery_view_as_left" = "Ketika saya meninggalkan";
+
+
+
+/* Sync Messages */
+"sync_progress_reports" = "Memeriksa laporan tertunda...";
+"sync_progress_content" = "Memperbarui konten...";
+"sync_progress_contents" = "Memperbarui konten...";
+"sync_progress_contacts" = "Memperbarui kontak...";
+"sync_progress_species" = "Memperbarui spesies...";
+"sync_progress_sp" = "Memperbarui spesies...";
+"sync_progress_events" = "Memeriksa peristiwa/kejadian baru....";
+"sync_progress_translations" = "Memperbarui terjemahan...";
+"sync_progress_photos" = "Memverifikasi foto...";
+"sync_progress_regions" = "Daerah memperbarui...";
+"sync_progress_regions_stat" = "Memperbarui daerah statistik...";

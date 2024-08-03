@@ -1,0 +1,373 @@
+
+/* Class = "UITextField"; text = "បញ្ចូលឈ្មោះប្រភេទសត្វ"; ObjectID = "03n-Df-QBL"; */
+"03n-Df-QBL.text" = "បញ្ចូលឈ្មោះប្រភេទសត្វ";
+
+/* Class = "UITextView"; text = "ផ្តល់នូវការពណ៌នាពិស្តារនៃបទល្មើសនេះ (អតិបរមា 2048 តួអក្សរ)"; ObjectID = "16h-T6-ZiK"; */
+"16h-T6-ZiK.text" = "ផ្តល់នូវការពណ៌នាពិស្តារនៃបទល្មើសនេះ (អតិបរមា 2048 តួអក្សរ)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1OE-Lt-nCI"; */
+"1OE-Lt-nCI.text" = "Label";
+
+/* Class = "UILabel"; text = "ចែករំលែករបាយការណ៍តាមរយៈអ៊ីម៉ែល"; ObjectID = "1au-Le-8Um"; */
+"1au-Le-8Um.text" = "ចែករំលែករបាយការណ៍តាមរយៈអ៊ីម៉ែល";
+
+/* Class = "UIButton"; normalTitle = "ថតរូប"; ObjectID = "2Gf-1N-NUk"; */
+"2Gf-1N-NUk.normalTitle" = "ថតរូប";
+
+/* Class = "UILabel"; text = "ឈ្មោះយានជំនិះ"; ObjectID = "32a-Rv-LtA"; */
+"32a-Rv-LtA.text" = "ឈ្មោះយានជំនិះ";
+
+/* Class = "UILabel"; text = "លក្ខ័ខណ្ឌ័"; ObjectID = "3Ou-dk-WO6"; */
+"3Ou-dk-WO6.text" = "លក្ខ័ខណ្ឌ័";
+
+/* Class = "UILabel"; text = "ការកំណត់អត្តសញ្ញាណប្រភេទសត្វ"; ObjectID = "4RC-YF-IS2"; */
+"4RC-YF-IS2.text" = "ការកំណត់អត្តសញ្ញាណប្រភេទសត្វ";
+
+/* Class = "UIButton"; normalTitle = "លុបចោល"; ObjectID = "4Sb-bV-4yr"; */
+"4Sb-bV-4yr.normalTitle" = "លុបចោល";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel"; ObjectID = "4VI-lH-81m"; */
+"4VI-lH-81m.text" = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel";
+
+/* Class = "UIButton"; normalTitle = "យល់ព្រម"; ObjectID = "4Zu-06-RBZ"; */
+"4Zu-06-RBZ.normalTitle" = "យល់ព្រម";
+
+/* Class = "UILabel"; text = "ស្លាប់"; ObjectID = "5dq-eV-nJ5"; */
+"5dq-eV-nJ5.text" = "ស្លាប់";
+
+/* Class = "UIButton"; normalTitle = "បង្ហាញការរាយបញ្ជី"; ObjectID = "6VA-mK-jjK"; */
+"6VA-mK-jjK.normalTitle" = "បង្ហាញការរាយបញ្ជី";
+
+/* Class = "UIButton"; normalTitle = "ត្រូវបានគេធ្វើពាណិជ្ជកម្មជា/ផលិតផលដែលយកចេញពី"; ObjectID = "6dQ-lD-yUO"; */
+"6dQ-lD-yUO.normalTitle" = "ត្រូវបានគេធ្វើពាណិជ្ជកម្មជា/ផលិតផលដែលយកចេញពី";
+
+/* Class = "UILabel"; text = "កុំបង្ហាញសារនេះម្តងទៀត"; ObjectID = "6qk-Be-9Tk"; */
+"6qk-Be-9Tk.text" = "កុំបង្ហាញសារនេះម្តងទៀត";
+
+/* Class = "UILabel"; text = "កន្ទុយ"; ObjectID = "7Bo-Ai-ux2"; */
+"7Bo-Ai-ux2.text" = "កន្ទុយ";
+
+/* Class = "UILabel"; text = "ការរាយការណ៍ឧបទ្ទវហេតុ (2) – ព័ត៌មានមូលដ្ឋាន"; ObjectID = "7ZU-AF-wnd"; */
+"7ZU-AF-wnd.text" = "ការរាយការណ៍ឧបទ្ទវហេតុ (2) – ព័ត៌មានមូលដ្ឋាន";
+
+/* Class = "UITextField"; text = "បញ្ចូល ឈ្មោះទំនាក់ទំនង"; ObjectID = "7ih-aN-MpT"; */
+"7ih-aN-MpT.text" = "បញ្ចូល ឈ្មោះទំនាក់ទំនង";
+
+/* Class = "UILabel"; text = "ឈ្មោះនាវា"; ObjectID = "7mH-U4-hFE"; */
+"7mH-U4-hFE.text" = "ឈ្មោះនាវា";
+
+/* Class = "UIButton"; normalTitle = "លុបចោល"; ObjectID = "84J-Sx-rYS"; */
+"84J-Sx-rYS.normalTitle" = "លុបចោល";
+
+/* Class = "UIButton"; normalTitle = "បក្សី"; ObjectID = "AY4-hH-c23"; */
+"AY4-hH-c23.normalTitle" = "បក្សី";
+
+/* Class = "UIButton"; normalTitle = "ប្រភេទទាំងអស់"; ObjectID = "AZ1-5k-iqN"; */
+"AZ1-5k-iqN.normalTitle" = "ប្រភេទទាំងអស់";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AkB-dl-D9D"; */
+"AkB-dl-D9D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ល្មូន"; ObjectID = "B3x-5t-Nda"; */
+"B3x-5t-Nda.normalTitle" = "ល្មូន";
+
+/* Class = "UILabel"; text = "ការរាយបញ្ជីព្រឹត្តិការណ៍"; ObjectID = "B8h-Xa-TED"; */
+"B8h-Xa-TED.text" = "ការរាយបញ្ជីព្រឹត្តិការណ៍";
+
+/* Class = "UITextView"; text = "រៀបរាប់ពីវិធីសាស្រ្តដែលត្រូវបានប្រើដើម្បីប្រព្រឹត្តបទល្មើស (អតិបរមា 2048 តួអក្សរ)"; ObjectID = "BIO-Y5-xaI"; */
+"BIO-Y5-xaI.text" = "រៀបរាប់ពីវិធីសាស្រ្តដែលត្រូវបានប្រើដើម្បីប្រព្រឹត្តបទល្មើស (អតិបរមា 2048 តួអក្សរ)";
+
+/* Class = "UITextField"; text = "បញ្ចូលទីតាំង"; ObjectID = "BkY-yt-OX2"; */
+"BkY-yt-OX2.text" = "បញ្ចូលទីតាំង";
+
+/* Class = "UIButton"; normalTitle = "ថនិកសត្វ"; ObjectID = "CF9-MO-aCt"; */
+"CF9-MO-aCt.normalTitle" = "ថនិកសត្វ";
+
+/* Class = "UIButton"; normalTitle = "ជ្រើសរើសផ្សេងមួយទៀតដែលមានស្រាប់"; ObjectID = "Cyy-Cx-tt5"; */
+"Cyy-Cx-tt5.normalTitle" = "ជ្រើសរើសផ្សេងមួយទៀតដែលមានស្រាប់";
+
+/* Class = "UILabel"; text = "ថតរូប"; ObjectID = "DKF-7l-Rc2"; */
+"DKF-7l-Rc2.text" = "ថតរូប";
+
+/* Class = "UILabel"; text = "ការពណ៌នា បទល្មើស ពិស្តារ     ផ្តល់ការពណ៌នា ពិស្តារនៃបទល្មើស (សរសេរបានដល់ទៅ ២០៤៨ពាក្យ )"; ObjectID = "DNO-lK-Rub"; */
+"DNO-lK-Rub.text" = "ការពណ៌នា បទល្មើស ពិស្តារ     ផ្តល់ការពណ៌នា ពិស្តារនៃបទល្មើស (សរសេរបានដល់ទៅ ២០៤៨ពាក្យ )
+";
+
+/* Class = "UIButton"; normalTitle = "បន្ទាប់ទៀត"; ObjectID = "DQm-xg-H8D"; */
+"DQm-xg-H8D.normalTitle" = "បន្ទាប់ទៀត";
+
+/* Class = "UIButton"; normalTitle = "ដាក់បញ្ជូនរបាយការណ៍"; ObjectID = "DTg-fK-28A"; */
+"DTg-fK-28A.normalTitle" = "ដាក់បញ្ជូនរបាយការណ៍";
+
+/* Class = "UILabel"; text = "ver 1.0"; ObjectID = "E3z-Dn-By3"; */
+"E3z-Dn-By3.text" = "ver 1.0";
+
+/* Class = "UILabel"; text = ".00"; ObjectID = "FEW-c7-VY6"; */
+"FEW-c7-VY6.text" = ".00";
+
+/* Class = "UIButton"; normalTitle = "ធ្វើរួច"; ObjectID = "Fyk-48-F40"; */
+"Fyk-48-F40.normalTitle" = "ធ្វើរួច";
+
+/* Class = "UILabel"; text = "សៀវភៅបញ្ជីឈ្មោះទំនាក់ទំនង"; ObjectID = "H20-Kc-re2"; */
+"H20-Kc-re2.text" = "សៀវភៅបញ្ជីឈ្មោះទំនាក់ទំនង";
+
+/* Class = "UILabel"; text = "គូសរបាយការណ៍ជាឯកជន"; ObjectID = "H2c-BK-lI2"; */
+"H2c-BK-lI2.text" = "គូសរបាយការណ៍ជាឯកជន";
+
+/* Class = "UIButton"; normalTitle = "យល់ព្រម"; ObjectID = "HhH-GM-gQV"; */
+"HhH-GM-gQV.normalTitle" = "យល់ព្រម";
+
+/* Class = "UILabel"; text = "តំបន់របាយការណ៍របស់អ្នក"; ObjectID = "JHE-hC-saw"; */
+"JHE-hC-saw.text" = "តំបន់របាយការណ៍របស់អ្នក";
+
+/* Class = "UILabel"; text = "វិធីសាស្ត្រ"; ObjectID = "JPz-MI-OLe"; */
+"JPz-MI-OLe.text" = "វិធីសាស្ត្រ";
+
+/* Class = "UILabel"; text = "ប្រភេទសត្វ: 114"; ObjectID = "JY9-pU-pVU"; */
+"JY9-pU-pVU.text" = "ប្រភេទសត្វ: 114";
+
+/* Class = "UILabel"; text = "ចំពុះ"; ObjectID = "KLe-D0-bhR"; */
+"KLe-D0-bhR.text" = "ចំពុះ";
+
+/* Class = "UILabel"; text = "អ្នកអាចទាញយកប្រភេទសត្វនិងទំនាក់ទំនងបន្ថែមទៀតនៅទីនេះ។"; ObjectID = "KRt-sp-dxd"; */
+"KRt-sp-dxd.text" = "អ្នកអាចទាញយកប្រភេទសត្វនិងទំនាក់ទំនងបន្ថែមទៀតនៅទីនេះ។";
+
+/* Class = "UITextField"; text = "បញ្ចូលទីតាំង"; ObjectID = "LX6-4X-edi"; */
+"LX6-4X-edi.text" = "បញ្ចូលទីតាំង";
+
+/* Class = "UILabel"; text = "សត្វទាំងមូល"; ObjectID = "Lu2-uz-9YM"; */
+"Lu2-uz-9YM.text" = "សត្វទាំងមូល";
+
+/* Class = "UIButton"; normalTitle = "បិទប្រភេទសត្វ"; ObjectID = "M2I-6N-NZ8"; */
+"M2I-6N-NZ8.normalTitle" = "បិទប្រភេទសត្វ";
+
+/* Class = "UILabel"; text = "$US"; ObjectID = "N1b-BT-MyG"; */
+"N1b-BT-MyG.text" = "$US";
+
+/* Class = "UILabel"; text = "បទល្មើស"; ObjectID = "OC5-Nx-vuw"; */
+"OC5-Nx-vuw.text" = "បទល្មើស";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OR1-5s-6sA"; */
+"OR1-5s-6sA.text" = "Label";
+
+/* Class = "UILabel"; text = "គោលដៅ"; ObjectID = "R7W-1E-ipW"; */
+"R7W-1E-ipW.text" = "គោលដៅ";
+
+/* Class = "UILabel"; text = "ពណ៌នាពិស្តារយានជំនិះ/មធ្យោបាយធ្វើដំណើរប្រព្រឹត្តបទល្មើស"; ObjectID = "RQv-Jl-00c"; */
+"RQv-Jl-00c.text" = "ពណ៌នាពិស្តារយានជំនិះ/មធ្យោបាយធ្វើដំណើរប្រព្រឹត្តបទល្មើស";
+
+/* Class = "UILabel"; text = "លេខយានជំនិះ"; ObjectID = "See-pJ-3OL"; */
+"See-pJ-3OL.text" = "លេខយានជំនិះ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "St6-X1-YNX"; */
+"St6-X1-YNX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "លប់ចោល"; ObjectID = "Swq-3w-wcN"; */
+"Swq-3w-wcN.normalTitle" = "លប់ចោល";
+
+/* Class = "UILabel"; text = "ការរាយបញ្ជីព្រឹត្តិការណ៍"; ObjectID = "TLp-gt-lcl"; */
+"TLp-gt-lcl.text" = "ការរាយបញ្ជីព្រឹត្តិការណ៍";
+
+/* Class = "UIButton"; normalTitle = "ថតរូបមួយទៀត"; ObjectID = "TrI-Wj-dCQ"; */
+"TrI-Wj-dCQ.normalTitle" = "ថតរូបមួយទៀត";
+
+/* Class = "UILabel"; text = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note"; ObjectID = "UGn-Aq-L7S"; */
+"UGn-Aq-L7S.text" = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note";
+
+/* Class = "UIButton"; normalTitle = "កំណត់"; ObjectID = "UHK-iv-wBr"; */
+"UHK-iv-wBr.normalTitle" = "កំណត់";
+
+/* Class = "UIButton"; normalTitle = "ពិស្តារបន្ថែមទៀត"; ObjectID = "ULM-J9-hCT"; */
+"ULM-J9-hCT.normalTitle" = "ពិស្តារបន្ថែមទៀត";
+
+/* Class = "UILabel"; text = "រាយការណ៍ការជួញដូរសត្វព្រៃ និង បទល្មើសអាចគ្រោះថ្នាក់ ។ អ្នកប្រើប្រាស់ WildScan គួរតែមានការប្រុងប្រយត្ន័ជានិច្ចនៅពេលថតរូបបទល្មើសសត្វព្រៃដែលគេសង្ស័យ ហើយមិនត្រូវធ្វើអោយខ្លួនឯងគ្រោះថ្នាក់នៅក្នុងការរាយការណ៍បទល្មើសនេះទេ ។"; ObjectID = "ULm-5E-8vy"; */
+"ULm-5E-8vy.text" = "រាយការណ៍ការជួញដូរសត្វព្រៃ និង បទល្មើសអាចគ្រោះថ្នាក់ ។ អ្នកប្រើប្រាស់ WildScan គួរតែមានការប្រុងប្រយត្ន័ជានិច្ចនៅពេលថតរូបបទល្មើសសត្វព្រៃដែលគេសង្ស័យ ហើយមិនត្រូវធ្វើអោយខ្លួនឯងគ្រោះថ្នាក់នៅក្នុងការរាយការណ៍បទល្មើសនេះទេ ។ ";
+
+/* Class = "UIButton"; normalTitle = "សត្វឆ្អឹងកង"; ObjectID = "UZR-AM-14A"; */
+"UZR-AM-14A.normalTitle" = "សត្វឆ្អឹងកង";
+
+/* Class = "UIButton"; normalTitle = "បង្ហាញនៅលើផែនទី"; ObjectID = "Uwc-tQ-L4Q"; */
+"Uwc-tQ-L4Q.normalTitle" = "បង្ហាញនៅលើផែនទី";
+
+/* Class = "UIButton"; normalTitle = "លុបចោល"; ObjectID = "V8i-ul-7if"; */
+"V8i-ul-7if.normalTitle" = "លុបចោល";
+
+/* Class = "UILabel"; text = "ប្រសិនបើបានធីក, កម្មវិធីម៉ាស៊ីនភ្ញៀវអ៊ីម៉ែលរបស់អ្នកនឹងត្រូវបានបើកដោយសារថ្មីមួយដែលមានសេចក្តីលម្អិតរបាយការណ៍។"; ObjectID = "V9m-AI-I5z"; */
+"V9m-AI-I5z.text" = "ប្រសិនបើបានធីក, កម្មវិធីម៉ាស៊ីនភ្ញៀវអ៊ីម៉ែលរបស់អ្នកនឹងត្រូវបានបើកដោយសារថ្មីមួយដែលមានសេចក្តីលម្អិតរបាយការណ៍។";
+
+/* Class = "UILabel"; text = "បុគ្គល"; ObjectID = "WnE-Fu-reX"; */
+"WnE-Fu-reX.text" = "បុគ្គល";
+
+/* Class = "UILabel"; text = "ទីតាំង"; ObjectID = "Wt0-g5-jtO"; */
+"Wt0-g5-jtO.text" = "ទីតាំង";
+
+/* Class = "UIButton"; normalTitle = "ប្រភេទទាំងអស់"; ObjectID = "XKR-ff-aaT"; */
+"XKR-ff-aaT.normalTitle" = "ប្រភេទទាំងអស់";
+
+/* Class = "UIButton"; normalTitle = "ប៊ូតុង"; ObjectID = "Xe6-to-W4X"; */
+"Xe6-to-W4X.normalTitle" = "ប៊ូតុង";
+
+/* Class = "UITextField"; placeholder = "ប្រភេទសត្វ ប្រភេទសត្វ ឈ្មោះទូទៅ"; ObjectID = "Y2n-zI-Brb"; */
+"Y2n-zI-Brb.placeholder" = "ប្រភេទសត្វ ប្រភេទសត្វ ឈ្មោះទូទៅ";
+
+/* Class = "UILabel"; text = "បណ្ណាល័យប្រភេទសត្វ"; ObjectID = "YQu-Ui-zWI"; */
+"YQu-Ui-zWI.text" = "បណ្ណាល័យប្រភេទសត្វ";
+
+/* Class = "UILabel"; text = "ឈ្មោះ \nname"; ObjectID = "YWa-OZ-BHa"; */
+"YWa-OZ-BHa.text" = "ឈ្មោះ \nname";
+
+/* Class = "UILabel"; text = "imagecopyright"; ObjectID = "Zgt-Hc-HlE"; */
+"Zgt-Hc-HlE.text" = "imagecopyright";
+
+/* Class = "UILabel"; text = "កាលបរិច្ឆេទ & ពេលវេលា"; ObjectID = "Zrj-ta-eCI"; */
+"Zrj-ta-eCI.text" = "កាលបរិច្ឆេទ & ពេលវេលា";
+
+/* Class = "UIButton"; normalTitle = "ជ្រើសរើសមានស្រាប់"; ObjectID = "atg-N1-KJs"; */
+"atg-N1-KJs.normalTitle" = "ជ្រើសរើសមានស្រាប់";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "avo-Gn-9B5"; */
+"avo-Gn-9B5.text" = "Label";
+
+/* Class = "UILabel"; text = "អ្នកទទួលរបាយការណ៍លំនាំដើម"; ObjectID = "bH8-t5-Iri"; */
+"bH8-t5-Iri.text" = "អ្នកទទួលរបាយការណ៍លំនាំដើម";
+
+/* Class = "UILabel"; text = "លាយគ្នា"; ObjectID = "bR1-If-5ZC"; */
+"bR1-If-5ZC.text" = "លាយគ្នា";
+
+/* Class = "UILabel"; text = "CHECKING FOR NEW CONTACTS"; ObjectID = "bWf-Yt-5Kz"; */
+"bWf-Yt-5Kz.text" = "CHECKING FOR NEW CONTACTS";
+
+/* Class = "UILabel"; text = "ព្រឹត្តិការណ៍នៅលើផែនទី"; ObjectID = "bqF-5g-3l2"; */
+"bqF-5g-3l2.text" = "ព្រឹត្តិការណ៍នៅលើផែនទី";
+
+/* Class = "UILabel"; text = "ទំនាក់ទំនង"; ObjectID = "cCh-PJ-OV8"; */
+"cCh-PJ-OV8.text" = "ទំនាក់ទំនង";
+
+/* Class = "UILabel"; text = "សកល"; ObjectID = "dFS-Sb-4MH"; */
+"dFS-Sb-4MH.text" = "សកល";
+
+/* Class = "UIButton"; normalTitle = "លុបចោល"; ObjectID = "dPT-Cc-ums"; */
+"dPT-Cc-ums.normalTitle" = "លុបចោល";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "do4-gQ-gr5"; */
+"do4-gQ-gr5.text" = "Label";
+
+/* Class = "UILabel"; text = "ប្រភព"; ObjectID = "eDI-gi-Hst"; */
+"eDI-gi-Hst.text" = "ប្រភព";
+
+/* Class = "UILabel"; text = "សមកាលកម្មទិន្នន័យ"; ObjectID = "efA-Q7-SGd"; */
+"efA-Q7-SGd.text" = "សមកាលកម្មទិន្នន័យ";
+
+/* Class = "UILabel"; text = "រូបថត"; ObjectID = "fMs-D3-6vG"; */
+"fMs-D3-6vG.text" = "រូបថត";
+
+/* Class = "UILabel"; text = "សូមប្រុងប្រយត្ន័!"; ObjectID = "fet-hI-lmj"; */
+"fet-hI-lmj.text" = "សូមប្រុងប្រយត្ន័!";
+
+/* Class = "UILabel"; text = "របាយការណ៍ឯកជននឹងមិនត្រូវបានផ្សព្វផ្សាយដល់អ្នកប្រើប្រាស់ WildScan ដទៃទៀតទេ "; ObjectID = "g25-wx-JF8"; */
+"g25-wx-JF8.text" = "របាយការណ៍ឯកជននឹងមិនត្រូវបានផ្សព្វផ្សាយដល់អ្នកប្រើប្រាស់ WildScan ដទៃទៀតទេ ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g2e-vl-n2A"; */
+"g2e-vl-n2A.text" = "Label";
+
+/* Class = "UILabel"; text = "សកល"; ObjectID = "hGV-it-zv0"; */
+"hGV-it-zv0.text" = "សកល";
+
+/* Class = "UILabel"; text = "តម្លៃប៉ាន់ប្រមាណ (USD)"; ObjectID = "hUg-r4-O0b"; */
+"hUg-r4-O0b.text" = "តម្លៃប៉ាន់ប្រមាណ (USD)";
+
+/* Class = "UILabel"; text = "របាយការណ៍ឧបទ្ទវហេតុ  (4) – មើលឡើងវិញ និង បញ្ជូន"; ObjectID = "hiY-Jz-M2O"; */
+"hiY-Jz-M2O.text" = "របាយការណ៍ឧបទ្ទវហេតុ  (4) – មើលឡើងវិញ និង បញ្ជូន";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j25-vV-NRF"; */
+"j25-vV-NRF.text" = "Label";
+
+/* Class = "UILabel"; text = "នៅរស់"; ObjectID = "kf9-i5-f4Q"; */
+"kf9-i5-f4Q.text" = "នៅរស់";
+
+/* Class = "UILabel"; text = "សំបក"; ObjectID = "l2I-yP-8Q2"; */
+"l2I-yP-8Q2.text" = "សំបក";
+
+/* Class = "UILabel"; text = "ស្លាប"; ObjectID = "lU7-IS-JqN"; */
+"lU7-IS-JqN.text" = "ស្លាប";
+
+/* Class = "UILabel"; text = "Kg"; ObjectID = "lXi-hm-Dwt"; */
+"lXi-hm-Dwt.text" = "Kg";
+
+/* Class = "UILabel"; text = "ផ្លូវ"; ObjectID = "laT-aB-cTC"; */
+"laT-aB-cTC.text" = "ផ្លូវ";
+
+/* Class = "UILabel"; text = "ប្រភេទសត្វនិងទំនាក់ទំនងតំបន់"; ObjectID = "lff-ln-Nkz"; */
+"lff-ln-Nkz.text" = "ប្រភេទសត្វនិងទំនាក់ទំនងតំបន់";
+
+/* Class = "UIButton"; normalTitle = "រុក្ខជាតិ"; ObjectID = "lnz-SC-jJA"; */
+"lnz-SC-jJA.normalTitle" = "រុក្ខជាតិ";
+
+/* Class = "UIButton"; normalTitle = "កំណត់អត្តសញ្ញាណ"; ObjectID = "m9q-kv-N0H"; */
+"m9q-kv-N0H.normalTitle" = "កំណត់អត្តសញ្ញាណ";
+
+/* Class = "UIButton"; normalTitle = "លប់ចោល"; ObjectID = "nov-8U-EcS"; */
+"nov-8U-EcS.normalTitle" = "លប់ចោល";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oNw-P2-ZkS"; */
+"oNw-P2-ZkS.text" = "Label";
+
+/* Class = "UILabel"; text = "ដោយការកំណត់ស្រាប់ របាយការណ៍របស់អ្នកនឹងត្រូវបានបញ្ជូនទៅកាន់ក្រុម Wildscan ដែលនឹងបញ្ជូនបន្តទៅកាន់អាជ្ញាធរពាក់ពន្ឋ័ ។ អ្នកអាចបន្ថែមអ្នកទំនាក់ទំនងជាក់លាក់ដែលនឹងទទួលរបាយការណ៍ ។"; ObjectID = "ohw-RM-5Gk"; */
+"ohw-RM-5Gk.text" = "ដោយការកំណត់ស្រាប់ របាយការណ៍របស់អ្នកនឹងត្រូវបានបញ្ជូនទៅកាន់ក្រុម Wildscan ដែលនឹងបញ្ជូនបន្តទៅកាន់អាជ្ញាធរពាក់ពន្ឋ័ ។ អ្នកអាចបន្ថែមអ្នកទំនាក់ទំនងជាក់លាក់ដែលនឹងទទួលរបាយការណ៍ ។";
+
+/* Class = "UIButton"; normalTitle = "សត្វឥតឆ្អឹងខ្នង"; ObjectID = "oj2-vd-589"; */
+"oj2-vd-589.normalTitle" = "សត្វឥតឆ្អឹងខ្នង";
+
+/* Class = "UILabel"; text = "Mar 27, 2016 12:18:34 AM"; ObjectID = "rT4-A3-mdQ"; */
+"rT4-A3-mdQ.text" = "Mar 27, 2016 12:18:34 AM";
+
+/* Class = "UILabel"; text = "ទំនាក់ទំនង: 14"; ObjectID = "uMC-HK-66J"; */
+"uMC-HK-66J.text" = "ទំនាក់ទំនង: 14";
+
+/* Class = "UILabel"; text = "ទិដ្ឋភាពវិចិត្រសាលប្រភេទសត្វលំនាំដើម"; ObjectID = "vbC-6o-aRA"; */
+"vbC-6o-aRA.text" = "ទិដ្ឋភាពវិចិត្រសាលប្រភេទសត្វលំនាំដើម";
+
+/* Class = "UILabel"; text = "បញ្ចូលទីតាំង"; ObjectID = "vlo-7R-i9W"; */
+"vlo-7R-i9W.text" = "បញ្ចូលទីតាំង";
+
+/* Class = "UIButton"; normalTitle = "បង្ហាញនៅលើផែនទី"; ObjectID = "w1X-9e-QGT"; */
+"w1X-9e-QGT.normalTitle" = "បង្ហាញនៅលើផែនទី";
+
+/* Class = "UILabel"; text = "ទាញយកប្រភេទសត្វជាក់លាក់តាមតំបន់បន្ថែម និងទំនាក់ទំនង"; ObjectID = "w7g-vm-V7v"; */
+"w7g-vm-V7v.text" = "ទាញយកប្រភេទសត្វជាក់លាក់តាមតំបន់បន្ថែម និងទំនាក់ទំនង";
+
+/* Class = "UIButton"; normalTitle = "ជ្រើសរើសរូបថតដែលមានស្រាប់"; ObjectID = "wLo-zJ-ZEI"; */
+"wLo-zJ-ZEI.normalTitle" = "ជ្រើសរើសរូបថតដែលមានស្រាប់";
+
+/* Class = "UILabel"; text = "តូចជាងដៃរបស់អ្នក"; ObjectID = "wSi-jA-9Ff"; */
+"wSi-jA-9Ff.text" = "តូចជាងដៃរបស់អ្នក";
+
+/* Class = "UILabel"; text = "ព្រុយ"; ObjectID = "xQA-cp-2Vn"; */
+"xQA-cp-2Vn.text" = "ព្រុយ";
+
+/* Class = "UITextView"; text = "រៀបរាប់ដោយសង្ខេប បទល្មើសនេះ។ ឧទាហរណ៍: " លក់ ល្មូន ការពារ " ។"; ObjectID = "xpw-I4-onO"; */
+"xpw-I4-onO.text" = "រៀបរាប់ដោយសង្ខេប បទល្មើសនេះ។ ឧទាហរណ៍: " លក់ ល្មូន ការពារ " ។";
+
+/* Class = "UIButton"; normalTitle = "ថតរូប"; ObjectID = "xt8-QP-YaD"; */
+"xt8-QP-YaD.normalTitle" = "ថតរូប";
+
+/* Class = "UILabel"; text = "របាយការណ៍ឧប្បត្តិហេតុ - ជ្រើសទីតាំង"; ObjectID = "xxR-Rf-XeI"; */
+"xxR-Rf-XeI.text" = "របាយការណ៍ឧប្បត្តិហេតុ - ជ្រើសទីតាំង";
+
+/* Class = "UIButton"; normalTitle = "លុបចោល"; ObjectID = "yB8-1M-NlO"; */
+"yB8-1M-NlO.normalTitle" = "លុបចោល";
+
+/* Class = "UILabel"; text = "ចំនួន"; ObjectID = "yUd-gW-Q9U"; */
+"yUd-gW-Q9U.text" = "ចំនួន";
+
+/* Class = "UIButton"; normalTitle = "មើលបន្ថែមទៀត"; ObjectID = "ygX-CO-Wcu"; */
+"ygX-CO-Wcu.normalTitle" = "មើលបន្ថែមទៀត";
+
+/* Class = "UIButton"; normalTitle = "ត្រី"; ObjectID = "z7N-RI-hy0"; */
+"z7N-RI-hy0.normalTitle" = "ត្រី";
+
+/* Class = "UIButton"; normalTitle = "បញ្ជូនរបាយការណ៍"; ObjectID = "zFt-iH-Vbc"; */
+"zFt-iH-Vbc.normalTitle" = "បញ្ជូនរបាយការណ៍";
+
+/* Class = "UILabel"; text = "ប្រភេទសត្វ"; ObjectID = "zMw-M7-tKN"; */
+"zMw-M7-tKN.text" = "ប្រភេទសត្វ";

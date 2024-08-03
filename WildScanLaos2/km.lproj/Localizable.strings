@@ -1,0 +1,903 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Wed, 25 May 2016 15:43:49 +0100
+ */
+
+/*  */
+"blank" = "blank";
+
+/*  */
+"action_synchronize" = "ធ្វើសមកាលកម្មទិន្នន័យ";
+
+/*  */
+"action_info" = "ជំនួយ & ព័ត៌មាន";
+
+/*  */
+"action_settings" = "ការកំណត់";
+
+/*  */
+"info_title" = "ព័ត៌មាន Wildscan";
+
+/*  */
+"info_about" = "អំពី Wildscan";
+
+/*  */
+"info_eula" = "កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណអ្នកប្រើប្រាស់";
+
+/*  */
+"info_consumer" = "ដំបូន្មានទូទៅសម្រាប់អតិថិជន";
+
+/*  */
+"info_responder" = "ដំបូន្មានទូទៅសម្រាប់ការឆ្លើយតបដំបូង";
+
+/*  */
+"info_law_enforcement" = "ដំបូន្មានទូទៅសម្រាប់អនុវត្តច្បាប់";
+
+/*  */
+"info_national_laws" = "ច្បាប់សត្វព្រៃជាតិ";
+
+/*  */
+"info_contributors" = "ការរួមចំណែកអង្គការ";
+
+/*  */
+"info_credits" = "សេវាឥណទាន";
+
+/*  */
+"species_lib_header_title" = "បណ្ណាល័យប្រភេទសត្វ";
+
+/*  */
+"species_lib_header_btn_favorites" = "ចំនូលចិត្ត";
+
+/*  */
+"species_lib_header_btn_gallery" = "ទិដ្ឋភាពវិចិត្រសាល";
+
+/*  */
+"species_lib_header_btn_search" = "ការស្វែងរក";
+
+/*  */
+"species_lib_search_by_name_hint" = "បញ្ចូលឈ្មោះប្រភេទសត្វ";
+
+/*  */
+"species_lib_search_set_filter" = "ត្រងតាមប្រភេទ";
+
+/*  */
+"species_lib_select_dlg_text" = "ជ្រើសប្រភេទសត្វសម្រាប់សេចក្ដីលម្អិតអំពីរបាយការណ៍ឬមើលប្រភេទសត្វ?";
+
+/*  */
+"species_lib_select_dlg_btn_select" = "ជ្រើសប្រភេទសត្វ";
+
+/*  */
+"species_lib_select_dlg_btn_details" = "មើលលម្អិត";
+
+/*  */
+"species_details_label_cites" = "CITES សេចក្តីបន្ថែម";
+
+/*  */
+"species_details_label_cites_appendix_1" = "សេចក្តីបន្ថែម  I";
+
+/*  */
+"species_details_label_cites_appendix_2" = "សេចក្តីបន្ថែម II";
+
+/*  */
+"species_details_label_cites_appendix_3" = "សេចក្តីបន្ថែម  III";
+
+/*  */
+"species_details_label_status" = "ស្ថានភាពបញ្ជីក្រហម IUCN";
+
+/*  */
+"species_details_label_status_lc" = "LC - មានការព្រួយបារម្ភតិចតួច";
+
+/*  */
+"species_details_label_status_nt" = "NT - ជិតមានការគំរាមកំហែង";
+
+/*  */
+"species_details_label_status_vu" = "VU - ងាយរងគ្រោះ";
+
+/*  */
+"species_details_label_status_en" = "EN -ជិតផុតពូជ";
+
+/*  */
+"species_details_label_status_cr" = "CR -ជិតផុតពូជខ្លាំង";
+
+/*  */
+"species_details_label_status_ew" = "EW - ផុតពូជនៅក្នុងព្រៃ";
+
+/*  */
+"species_details_label_status_ex" = "ផុតពូជ";
+
+/*  */
+"species_details_label_status_na" = "NA -មិនមានព័ត៌មានគ្រប់គ្រាន់";
+
+/*  */
+"species_details_label_warning" = "ប្រុងប្រយត្ន័";
+
+/*  */
+"species_details_label_warning_disease_risk" = "ហានិភ័យជំងឺ";
+
+/*  */
+"species_details_label_warning_disease_risk_low" = "ទាប";
+
+/*  */
+"species_details_label_warning_disease_risk_medium" = "មធ្យម";
+
+/*  */
+"species_details_label_warning_disease_risk_high" = "ខ្ពស់";
+
+/*  */
+"species_details_label_warning_dangerous" = "គ្រោះថ្នាក់";
+
+/*  */
+"species_details_label_warning_poisonous" = "ពិស​";
+
+/*  */
+"species_details_label_warning_nocturnal" = "រាត្រីចរ";
+
+/*  */
+"species_details_label_id_clues" = "តំរុយកំណត់អត្តសញ្ញាណមូលដ្ឋាន";
+
+/*  */
+"species_details_label_similar" = "សត្វស្រដៀងគ្នា";
+
+/*  */
+"species_details_label_enforcement" = "ដំបូន្មានមន្ត្រីអនុវត្តច្បាប់";
+
+/*  */
+"species_details_label_consumer" = "ដំបូន្មានសម្រាប់អតិថិជន";
+
+/*  */
+"species_details_label_responder" = "អ្នកអន្តរាគមន៍បឋម (ប្រភេទសត្វជាក់លាក់)";
+
+/*  */
+"species_details_label_traded_as" = "ត្រូវបានគេធ្វើពាណិជ្ជកម្មជា/ផលិតផលដែលយកចេញពី";
+
+/*  */
+"species_details_label_common_methods" = "វិធីសាស្ត្រជួញដូរទូទៅ";
+
+/*  */
+"species_details_label_aka" = "ត្រូវបានគេផងដែរជា";
+
+/*  */
+"species_details_label_distribution" = "ប្រទេសដែលនៅមាន";
+
+/*  */
+"species_details_label_size" = "ទំហំ និង ទំងន់មធ្យម";
+
+/*  */
+"species_details_no_images" = "គ្មានរូបភាព ប្រភេទសត្វដែល អាចប្រើបានបច្ចុប្បន្";
+
+
+/*  */
+"species_details_label_habitat" = "ទីកន្លែងរស់នៅ";
+
+/*  */
+"species_details_label_diseases" = "ជំងឺ Zoonotic";
+
+/*  */
+"species_details_label_notes" = "កំណត់សំគាល់";
+
+/*  */
+"species_details_photo_license" = "អាជ្ញាបណ្ណ័រក្សាសិទ្ឋិ :\n%1$s";
+
+/*  */
+"species_details_failed_set_fav" = "បរាជ័យក្នុងការកំណត់ដែលអ្នកចូលចិត្ត";
+
+/*  */
+"contacts_list_header_title" = "សៀវភៅបញ្ជីឈ្មោះទំនាក់ទំនង";
+
+/*  */
+"contacts_list_header_btn_favorites" = "ចំនូលចិត្ត";
+
+/*  */
+"contacts_list_header_btn_search" = "ស្វែងរក";
+
+/*  */
+"contacts_list_search_by_name_hint" = "បញ្ចូលឈ្មោះទំនាក់ទំនង";
+
+/*  */
+"contacts_list_label_email" = "អ៊ីម៉ែល";
+
+/*  */
+"contacts_list_label_phone" = "ទូរស័ព្ទ";
+
+/*  */
+"events_list_header_title" = "ការរាយបញ្ជីព្រឹត្តិការណ៍";
+
+/*  */
+"events_list_header_btn_favorites" = "ចំនូលចិត្ត";
+
+/*  */
+"events_list_header_btn_show_on_map" = "បង្ហាញនៅលើផែនទី";
+
+/*  */
+"events_list_header_btn_view_more" = "មើលបន្ថែមទៀត";
+
+/*  */
+"events_list_fragment_title" = "ព្រឹត្តិការណ៍ថ្មី";
+
+/*  */
+"events_list_fragment_tag_on_home" = "EventsListFragmentOnHomeScreen";
+
+/*  */
+"events_list_fragment_tag" = "EventsListFragment";
+
+/*  */
+"events_list_loading_text" = "កំពុងទាញយកព្រឹត្តិការណ៍…";
+
+/*  */
+"events_list_empty_text" = "មិនមានព្រឹត្តិការណ៍";
+
+/*  */
+"event_hint_country" = "មិនស្គាល់ប្រទេស";
+
+/*  */
+"event_hint_date" = "មិនស្គាល់កាលបរិច្ឆេទ";
+
+/*  */
+"event_hint_species" = "ប្រភេទសត្វមិនជាក់លាក់";
+
+/*  */
+"event_hint_description" = "ការរៀបរាប់ឧប្បត្តិហេតុគឺទទេ";
+
+/*  */
+"events_map_header_title" = "ព្រឹត្តិការណ៍នៅលើផែនទី";
+
+/*  */
+"events_map_header_btn_next" = "បន្ទាប់ទៀត";
+
+/*  */
+"events_map_header_btn_show_list" = "បង្ហាញការរាយបញ្ជី";
+
+/*  */
+"event_details_offense_label" = "បទល្មើស";
+
+/*  */
+"event_details_address_label" = "អាសយដ្ឋាន";
+
+/*  */
+"event_details_country_label" = "ប្រទេស";
+
+/*  */
+"event_details_datetime_label" = "កាលបរិច្ឆេទ/ពេលវេលា";
+
+/*  */
+"event_details_species_label" = "ប្រភេទសត្វ";
+
+/*  */
+"event_details_amount_label" = "ចំនួន";
+
+/*  */
+"event_details_condition_label" = "លក្ខខណ្ឌ";
+
+/*  */
+"event_details_unknown" = "មិនស្គាល់";
+
+/*  */
+"no_network_connection_toast" = "មិនមានការតភ្ជាប់បណ្តាញ";
+
+/*  */
+"species_id_wizard_header_title" = "ការកំណត់អត្តសញ្ញាណប្រភេទសត្វ";
+
+/*  */
+"report_wizard_screen_1_title" = "រាយការណ៍ឧបទ្ទវហេតុ (1) – រូបថតសំខាន់";
+
+/*  */
+"report_wizard_screen_2_title" = "ការរាយការណ៍ឧបទ្ទវហេតុ (2) – ព័ត៌មានមូលដ្ឋាន";
+
+/*  */
+"report_wizard_screen_3_title" = "រាយការណ៍ឧបទ្ទវហេតុ (3) – ពិស្តារបន្ថែមទៀត";
+
+/*  */
+"report_wizard_screen_4_title" = "របាយការណ៍ឧបទ្ទវហេតុ  (4) – មើលឡើងវិញ និង បញ្ជូន";
+
+/*  */
+"report_wizard_location_pick_title" = "របាយការណ៍ឧប្បត្តិហេតុ - ជ្រើសទីតាំង";
+
+/*  */
+"report_wizard_screen_1_capture_label" = "ថតរូប";
+
+/*  */
+"report_wizard_screen_1_browse_label" = "ជ្រើសរើសមានស្រាប់";
+
+/*  */
+"report_wizard_screen_2_time_label" = "កាលបរិច្ឆេទ & ពេលវេលា";
+
+/*  */
+"report_wizard_screen_2_location_label" = "អាសយដ្ឋានទីតាំង";
+
+/*  */
+"report_wizard_screen_2_offense_label" = "បទល្មើស";
+
+/*  */
+"report_wizard_screen_2_offense_hint" = "ពណ៌នាខ្លីៗពីបទល្មើស។  ឧទាហរណ៍ :  'លក់សត្វល្មូនដែលគេ ការពារ។ '";
+
+/*  */
+"report_wizard_screen_2_species_label" = "ប្រភេទសត្វ";
+
+/*  */
+"report_wizard_screen_2_species_hint" = "ប្រភេទសត្វ ឈ្មោះទូទៅ";
+
+/*  */
+"report_wizard_screen_2_amount_label" = "ចំនួន";
+
+/*  */
+"report_wizard_screen_2_amount_unit_label" = "បុគ្គល";
+
+/*  */
+"report_wizard_screen_2_amount_weight_label" = "គីឡូក្រាម";
+
+/*  */
+"report_wizard_screen_2_condition_label" = "លក្ខ័ខណ្ឌ័";
+
+/*  */
+"report_wizard_screen_2_condition_alive_label" = "នៅរស់";
+
+/*  */
+"report_wizard_screen_2_condition_dead_label" = "ស្លាប់";
+
+/*  */
+"report_wizard_screen_2_condition_mixed_label" = "លាយគ្នា";
+
+/*  */
+"report_wizard_screen_3_offense_details_label" = "បទល្មើសពិស្តារ";
+
+/*  */
+"report_wizard_screen_3_offense_details_hint" = "ផ្តល់ការពណ៌នា ពិស្តារនៃបទល្មើស (សរសេរបានដល់ទៅ ២០៤៨ពាក្យ )";
+
+/*  */
+"report_wizard_screen_3_method_label" = "វិធីសាស្ត្រ";
+
+/*  */
+"report_wizard_screen_3_method_hint" = "ត្រូវបានគេប្រើក្នុងការ ប្រព្រឹត្តបទល្មើស (សរសេរបានរហូតដល់ទៅ១០២៤ ពាក្យ )";
+
+/*  */
+"report_wizard_screen_3_value_label" = "តម្លៃប៉ាន់ប្រមាណ";
+
+/*  */
+"report_wizard_screen_3_value_usd" = "$US";
+
+/*  */
+"report_wizard_screen_3_zero_cents" = ".00";
+
+/*  */
+"report_wizard_screen_3_route_label" = "ផ្លូវពិស្តារ";
+
+/*  */
+"report_wizard_screen_3_origin_label" = "អាសយដ្ឋានដើម";
+
+/*  */
+"report_wizard_screen_3_destination_label" = "អាសយដ្ឋានគោលដៅ";
+
+/*  */
+"report_wizard_screen_3_vessel_label" = "ពណ៌នាយានជំនិះ/មធ្យោបានធ្វើដំណើរ";
+
+/*  */
+"report_wizard_screen_3_vessel_description_label" = "លេខយានជំនិះ";
+
+/*  */
+"report_wizard_screen_3_vessel_id_label" = "ស្លាកលេខយានជំនិះ/មធ្យោបានធ្វើដំណើរ";
+
+/*  */
+"report_wizard_screen_3_vessel_name_label" = "ឈ្មោះនាវា";
+
+/*  */
+"report_wizard_screen_4_share_title" = "ចែករំលែកជម្រើស";
+
+/*  */
+"report_wizard_screen_4_add_contact" = "បន្ថែមទំនាក់ទំនង";
+
+/*  */
+"report_wizard_screen_4_recipients_label" = "ទំនាក់ទំនង";
+
+/*  */
+"report_wizard_screen_4_share_text" = "តាមលំនាំដើម, របាយការណ៍របស់អ្នកនឹងត្រូវបានផ្ញើទៅកាន់ក្រុម Wildscan ដែលនឹងបញ្ជូនវាទៅអាជ្ញាធរពាក់ព័ន្ធ។ អ្នកអាចបន្ថែមទំនាក់ទំនងជាក់លាក់ដែលនឹងទទួលបានរបាយការណ៍នេះ។";
+
+/*  */
+"report_wizard_screen_4_share_email_label" = "ចែកបន្តគ្នាតាមរយៈ app និង អ៊ីម៉ែល";
+
+/*  */
+"report_wizard_screen_4_share_email_text" = "ប្រសិនបើបានធីក, កម្មវិធីម៉ាស៊ីនភ្ញៀវអ៊ីម៉ែលរបស់អ្នកនឹងត្រូវបានបើកដោយសារថ្មីមួយដែលមានសេចក្តីលម្អិតរបាយការណ៍។";
+
+/*  */
+"report_wizard_screen_4_photos_label" = "រូបថត";
+
+/*  */
+"report_wizard_screen_4_add_photo_label" = "រូបថតទាំងនេះនឹងត្រូវបានរួមបញ្ចូលនៅក្នុងរបាយការណ៍នេះ។ ចុចដើម្បីបន្ថែមរូបថតមួយផ្សេងទៀត (ជាអតិបរមា 3)";
+
+/*  */
+"report_wizard_screen_4_private_label" = "គូសរបាយការណ៍ជាឯកជន";
+
+/*  */
+"report_wizard_screen_4_private_text" = "របាយការណ៍ឯកជននឹងមិនត្រូវបានផ្សព្វផ្សាយដល់អ្នកប្រើប្រាស់ WildScanដទៃទៀតទេ";
+
+/*  */
+"report_wizard_confirm_discard_title" = "បោះបង់របាយការណ៍ចោល?";
+
+/*  */
+"report_wizard_confirm_discard_message" = "ព័ត៌មានទាំងអស់នឹងត្រូវបានបោះចោល";
+
+/*  */
+"report_wizard_warning_dialog_title" = "ប្រុងប្រយត្ន័";
+
+/*  */
+"report_wizard_warning_dialog_message" = "រាយការណ៍ការជួញដូរសត្វព្រៃ និង បទល្មើសអាចគ្រោះថ្នាក់ ។ អ្នកប្រើប្រាស់ WildScan គួរតែមានការប្រុងប្រយត្ន័ជានិច្ចនៅពេលថតរូបបទល្មើសសត្វព្រៃដែលគេសង្ស័យ ហើយមិនត្រូវធ្វើអោយខ្លួនឯងគ្រោះថ្នាក់នៅក្នុងការរាយការណ៍បទល្មើសនេះទេ ។";
+
+/*  */
+"report_wizard_location_loading" = "ការទាញយកអាសយដ្ឋាន…";
+
+/*  */
+"report_wizard_location_hint" = "ទីតាំង បញ្ចូលទីតាំង";
+
+/*  */
+"report_submit_dialog_title" = "ដាក់់បញ្ជូនរបាយការណ៍";
+
+/*  */
+"report_submit_message" = "ដាក់ស្នើរបាយការណ៍ទៅ WildScan…";
+
+/*  */
+"report_submit_success" = "របាយការណ៍ត្រូវបានដាក់បញ្ជូនបានសម្រេចនឹងត្រូវបានមើលឡើងវិញ WildScan";
+
+/*  */
+"report_submit_fail" = "ការដាក់ស្នើបរាជ័យ។ របាយការណ៍នេះនឹងត្រូវបានដាក់ជូនក្នុងអំឡុងពេលធ្វើសមកាលកម្មបន្ទាប់ទៀត";
+
+/*  */
+"report_email_title" = "របាយការណ៍ ស្វ័យប្រវត្តិកម្មវិធីWildscan  [%1$s]";
+
+/*  */
+"report_email_section_name_datetime" = "កាលបរិច្ឆេទ/ពេលវេលា";
+
+/*  */
+"report_email_section_name_location_lat" = "រយៈទទឹងទីតាំង";
+
+/*  */
+"report_email_section_name_location_lon" = "រយៈបណ្តោយទីតាំង";
+
+/*  */
+"report_email_section_name_description" = "ឧបទ្ទវហេតុពិស្តារ";
+
+/*  */
+"report_email_section_name_species" = "ប្រភេទសត្វ";
+
+/*  */
+"report_email_section_name_amount" = "Nចំនួន";
+
+/*  */
+"report_email_section_name_condition" = "លក្ខ័ខណ្ឌ័";
+
+/*  */
+"report_email_section_name_details" = "បទល្មើសពិស្តារ";
+
+/*  */
+"report_email_section_name_method" = "វិធីសាស្ត្រ";
+
+/*  */
+"report_email_section_name_value" = "តម្លៃប៉ាន់ប្រមាណ (USD)";
+
+/*  */
+"report_email_section_name_origin_address" = "អាសយដ្ឋានដើម";
+
+/*  */
+"report_email_section_name_origin_lat" = "រយៈទទឹងដើម";
+
+/*  */
+"report_email_section_name_origin_lon" = "រយៈបណ្តោយដើម";
+
+/*  */
+"report_email_section_name_dest_address" = "អាសយដ្ឋានគោលដៅ";
+
+/*  */
+"report_email_section_name_dest_lat" = "រយៈទទឹង ប្រទេសគោលដៅ";
+
+/*  */
+"report_email_section_name_dest_lon" = "រយៈបណ្តោយ ប្រទេសគោលដៅ";
+
+/*  */
+"report_email_section_name_vessel_description" = "ពណ៌នាយានជំនិះ/មធ្យោបានធ្វើដំណើរ";
+
+/*  */
+"report_email_section_name_vessel_id" = "ស្លាកលេខយានជំនិះ/មធ្យោបានធ្វើដំណើរ";
+
+/*  */
+"report_email_section_name_vessel_name" = "ឈ្មោះនាវា";
+
+/*  */
+"location_picker_map_target_title" = "ទីតាំងឧប្បត្តិហេតុ";
+
+/*  */
+"date_time_picker_dialog_title" = "កំណត់កាលបរិច្ឆេទនិងពេលវេលា";
+
+/*  */
+"sync_wifi_unavailable" = "បណ្តាញសេវាអ៊ីនធឺណិតគ្មានខ្សែមិនអាចប្រើបាន។ សូមតភ្ជាប់ទៅអ៊ីនធឺណិតគ្មានខ្សែដើម្បីអនុវត្តការធ្វើសមកាលកម្ម។";
+
+/*  */
+"sync_initial_starting_message" = "ការសម្តែងធ្វើសមកាលកម្មលើកដំបូងនេះអាចចំណាយពេលច្រើននាទីអាស្រ័យលើល្បឿនការតភ្ជាប់របស់អ្នក";
+
+/*  */
+"sync_starting_message" = "សមកាលកម្មទិន្នន័យ";
+
+/*  */
+"sign_in_request_message" = "WildScan តម្រូវឱ្យអ្នកប្រើនីមួយៗចូលទៅក្នុងកម្មវិធីនេះដើម្បីធានាឱ្យបាននូវសន្តិសុខពត័មានដែលបានផ្ញើតាមរយៈរបាយការណ៍។ សូមផ្ទៀងផ្ទាត់អត្តសញ្ញាណរបស់អ្នកដោយចូលទៅក្នុងគណនី Google របស់អ្នក";
+
+/*  */
+"status_signing_in" = "ការចូល…";
+
+/*  */
+"status_signed_out" = "ចាកចេញពីកម្មវិធី";
+
+/*  */
+"status_signed_in_as" = "បានចុះឈ្មោះជា %1$s";
+
+/*  */
+"status_sign_in_hint" = "ស្ថានភាពចុះឈ្មោះចូល";
+
+/*  */
+"status_play_services_error" = "សេវាកម្ម Google Play មានបញ្ហា !!";
+
+/*  */
+"status_retrieve_id" = "កំពុងទាញយកអត្តសញ្ញាណរបស់ Google";
+
+/*  */
+"status_registration_fail" = "បរាជ័យក្នុងការចុះឈ្មោះគណនី";
+
+/*  */
+"status_new_user_signin_fail" = "អ្នកប្រើថ្មីចុះឈ្មោះមិនបានសម្រេច សូមព្យាយាមចាប់ផ្តើមកម្មវិធីនេះម្តងទៀត";
+
+/*  */
+"status_login_failed" = "ការចូលបរាជ័យ";
+
+/*  */
+"status_server_error" = "ម៉ាស៊ីនសឺវឺមានបញ្ហា ។ សូម​ព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ";
+
+/*  */
+"status_server_error_code" = "ម៉ាស៊ីនសឺវឺមានបញ្ហា (%1$d)";
+
+/*  */
+"status_registering" = "ចុះឈ្មោះគណនីមួយជាមួយ WildScan";
+
+/*  */
+"status_signup_failed" = "ការចុះឈ្មោះបានបរាជ័យ";
+
+/*  */
+"status_signin_failed_abort" = "ការចុះឈ្មោះបានបរាជ័យ";
+
+/*  */
+"status_verification_failed" = "ការផ្ទៀងផ្ទាត់បានបរាជ័យដោយអ្នកប្រើ";
+
+/*  */
+"status_verify" = "ការផ្ទៀងផ្ទាត់គណនី";
+
+/*  */
+"status_apk_exp_dl_fail_abort" = "បរាជ័យក្នុងការទាញយកឯកសារពង្រីក APK ។ កម្មវិធីនឹងត្រូវបានបញ្ចប់";
+
+/*  */
+"status_apk_exp_download" = "ទាញយកឯកសារពង្រីក APK (%1$d%%)";
+
+/*  */
+"pref_screen_title" = "ការកំណត់ Wildscan";
+
+/*  */
+"pref_label_sync" = "ការកំណត់ធ្វើសមកាលកម្ម";
+
+/*  */
+"pref_summary_sync" = "អនុញ្ញាតឱ្យធ្វើសមកាលកម្មបានតែនៅពេលដែលបានតភ្ជាប់ទៅនឹងប្រព័ន្ធ Wifi";
+
+/*  */
+"pref_label_gallery_view" = "ទិដ្ឋភាពវិចិត្រសាលប្រភេទសត្វលំនាំដើម";
+
+/*  */
+"pref_summary_gallery_view" = "ជ្រើសឥរិយាបថលំនាំដើមនៃបណ្ណាល័យប្រភេទសត្វ";
+
+/*  */
+"pref_label_language" = "កំណត់មាតិកាភាសា";
+
+/*  */
+"pref_summary_language" = "ជ្រើសភាសាសម្រាប់បង្ហាញមាតិកាកម្មវិធី";
+
+/*  */
+"pref_entry_device_language" = "ការប្រើប្រាស់ឧបករណ៍ភាសា";
+
+/*  */
+"pref_entry_current_supported" = "បច្ចុប្បន្ន មានតែ %1$s គឺអាចប្រើបាន";
+
+/*  */
+"pref_label_auto_contacts" = "អ្នកទទួលរបាយការណ៍លំនាំដើម";
+
+/*  */
+"pref_summary_auto_contacts" = "ទំនាក់ទំនងជាក់លាក់ដែលនឹងត្រូវបានបន្ថែមដោយលំនាំដើមទៅបញ្ជីនៃអ្នកទទួលរបាយការណ៍នេះ";
+
+/*  */
+"pref_label_save_report" = "រក្សាទុករបាយការណ៍";
+
+/*  */
+"pref_summary_save_report" = "រក្សាទុកច្បាប់ចម្លងបម្រុងទុកបន្ទាប់ពីការដាក់ស្នើរបាយការណ៍នៃការទទួលបានជោគជ័យ";
+
+/*  */
+"pref_label_show_warning" = "របាយការណ៍បានបង្ហាញការព្រមាន";
+
+/*  */
+"pref_summary_show_warning" = "បង្ហាញការព្រមានលេចឡើងនៅពេលដែលចាប់ផ្តើមរបាយការណ៍ថ្មីមួយ";
+
+/*  */
+"msg_map_no_events" = "គ្មានព្រឹត្តិការណ៍ដើម្បីបង្ហាញនៅលើផែនទី";
+
+/*  */
+"msg_contact_fav_empty" = "គ្មាន ការកំណត់ចំនូលចិត្ត (favorite set) ការបង្ហាញទំនាក់ទំនងទាំងអស់";
+
+/*  */
+"msg_species_lib_no_close_events" = "គ្មានព្រឹត្តិការណ៍ថ្មីនៅក្បែរ, ការបង្ហាញប្រភេទសត្វទាំងអស់";
+
+/*  */
+"msg_species_lib_no_location" = "មិនអាចទាញយកទីតាំងបច្ចុប្បន្ន  បង្ហាញពីប្រភេទសត្វទាំងអស់";
+
+/*  */
+"msg_species_lib_wizard_empty" = "គ្មានប្រភេទសត្វដែលត្រូវគ្នានឹងចម្លើយរបស់អ្នក, សូមព្យាយាមម្តងទៀតឬដាក់ស្នើរបាយការណ៍ប្រភេទសត្វដែលមិនស្គាល់";
+
+/*  */
+"msg_species_lib_filter_empty" = "គ្មានប្រភេទសត្វដែលត្រូវគ្នាទៅនឹងត្រង( filter) ដែលបានជ្រើសរើស សូមជ្រើសប្រភេទមួយទៀត";
+
+/*  */
+"msg_species_lib_list_empty" = "បញ្ជីប្រភេទសត្វទទេ";
+
+/*  */
+"msg_species_lib_fav_empty" = "អត់មានការកំណត់ចំនូលចិត្ត( favorites set) បង្ហាញប្រភេទសត្វទាំងអស់";
+
+/*  */
+"msg_species_lib_search_not_found" = "រកមិនឃើញប្រភេទសត្វនៅក្នុងបញ្ជី (តើអ្នកមាន filter Set ទេ?)";
+
+/*  */
+"msg_report_contact_no_email" = "ទំនាក់ទំនងមិនមានអាសយដ្ឋានអ៊ីម៉ែល ហើយនឹងមិនត្រូវបានបន្ថែមទៅក្នុងអ្នកទទួលអ៊ីម៉ែល";
+
+/*  */
+"msg_report_gallery_photo_added" = "រូបភាពបន្ថែមទៀតពីវិចិត្រសាលត្រូវបានបន្ថែមដើម្បីរាយការណ៍";
+
+/*  */
+"msg_no_adress_found" = "រកអត់ឃើញអាសយដ្ឋាន";
+
+/*  */
+"msg_no_adress_for_location" = "រកអត់ឃើញអាសយដ្ឋានសម្រាប់ទីតាំង\n(lat: %1$5.2f, lon: %2$5.2f)";
+
+/*  */
+"msg_crc_check_fail" = "ធ្ងន់ធ្ងរ:ការពិនិត្យ CRC មិនបានសម្រេច បញ្ឈប់";
+
+/* button text labels */
+"OK" = "យល់ព្រម";
+
+/*  */
+"yes" = "បាទ";
+
+/*  */
+"no" = "គ្មាន";
+
+/*  */
+"apply" = "អនុវត្ត";
+
+/*  */
+"cancel" = "លប់ចោល";
+
+/*  */
+"close" = "បិទ";
+
+/*  */
+"skip" = "រំលង";
+
+/*  */
+"next" = "បន្ទាប់ទៀត";
+
+/*  */
+"capture" = "ថតរូប";
+
+/*  */
+"recapture" = "ថតរូបមួយទៀត";
+
+/*  */
+"browse" = "ជ្រើសរើសរូបថតដែលមានស្រាប់";
+
+/*  */
+"rebrowse" = "ជ្រើសរើសផ្សេងមួយទៀតដែលមានស្រាប់";
+
+/*  */
+"identify" = "កំណត់អត្តសញ្ញាណ";
+
+/*  */
+"back" = "ត្រលប់ក្រោយ";
+
+/*  */
+"submit" = "ដាក់់បញ្ជូនរបាយការណ៍";
+
+/*  */
+"details" = "ពិស្តារបន្ថែមទៀត";
+
+/*  */
+"set" = "កំណត់";
+
+/*  */
+"done" = "ធ្វើរួច";
+
+/*  */
+"discard" = "បោះបង់";
+
+/*  */
+"dismiss" = "បដិសេធចោល";
+
+/*  */
+"do_not_show" = "កុំបង្ហាញសារនេះម្តងទៀត";
+
+/*  */
+"error" = "កំហុស";
+
+/*  */
+"exit" = "ការចាកចេញ";
+
+/*  */
+"retry" = "ព្យាយាមម្ដងទៀត";
+
+/* Region Dialog text */
+"region_dialog_title" = "ជ្រើសតំបន់របស់អ្នក";
+
+/*  */
+"region_dialog_heading1" = "តំបន់របាយការណ៍របស់អ្នក";
+
+/*  */
+"region_dialog_heading2" = "ប្រភេទសត្វនិងទំនាក់ទំនងតំបន់";
+
+/*  */
+"region_dialog_sub_title" = "ទាញយកប្រភេទសត្វជាក់លាក់តាមតំបន់បន្ថែម និងទំនាក់ទំនង";
+
+/*  */
+"region_dialog_global" = "សកល";
+
+/*  */
+"region_dialog_south_asia" = "អាស៊ី​អា​គ្នេ​យ៏";
+
+/*  */
+"region_dialog_africa" = "ទ្វីបអាហ្រ្វិក";
+
+/*  */
+"region_dialog_south_america" = "អាមេរិក​ខាង​ត្បូង";
+
+/*  */
+"region_species" = "ប្រភេទសត្វ";
+
+/*  */
+"region_contacts" = "ទំនាក់ទំនង";
+
+/*  */
+"text_coming_soon" = "ជិតចេញមកហើយ";
+
+/*  */
+"pass1" = "9oB8y2yd17U1nE7217Sq2UoX80ol0I82MB617E2e";
+
+/*  */
+"action_region" = "ការផ្លាស់ប្តូរតំបន់";
+
+/*  */
+"region_global" = "សកល (Default)";
+
+/*  */
+"region_south_east_asia" = "អាស៊ី​អា​គ្នេ​យ៏";
+
+/*  */
+"region_africa" = "ទ្វីបអាហ្រ្វិក";
+
+/*  */
+"region_south_america" = "អាមេរិក​ខាង​ត្បូង";
+
+/*  */
+"dialog_tutorial_message" = "អ្នកអាចទាញយកប្រភេទសត្វនិងទំនាក់ទំនងបន្ថែមទៀតនៅទីនេះ។";
+
+
+"species_filters_all" = "គ្រប់ប្រភេទទាំងអស់";
+
+"species_filters_mammal" = "ថនិកសត្វ";
+
+"species_filters_bird"  = "បក្សី";
+
+"species_filters_fish" = "ត្រី";
+
+"species_filters_reptile" = "ល្មូន";
+
+"species_filters_amphibian" = "សត្វឆ្អឹងកង";
+
+"species_filters_invetebrate" = "សត្វឥតឆ្អឹងខ្នង";
+
+"species_filters_plants"  = "រុក្ខជាតិ";
+
+"species_filters_product"  = "ផលិតផលដែលយកចេញពីសត្";
+
+"species_filters_close_species"  = "បិទប្រភេទសត្";
+/* Wizard Questions */
+"id_wizard_questions_live_deceased" = "តើវាគឺជាសត្វទាំងមូល(រស់ឬស្លាប់) ឬក៏ជាផ្នែករបស់សត្វ/ផលិតផលចេញមកពីសត្វ?";
+"id_wizard_questions_primary_covering" = "តើអ្វីគ្របដណ្តបចម្បងនៅលើរាងកាយរបស់សត្វ?";
+"id_wizard_questions_legs" = "How many legs does the animal have?";
+"id_wizard_questions_color" = "តើពណ៌សំខាន់របស់សត្វគឺជាពណ៌អ្វី?";
+"id_wizard_questions_size" = "តើទំហំសត្វប្រហែលប៉ុន្មាន?";
+"id_wizard_questions_special_features" = "តើសត្វមានលក្ខណៈពិសេសអ្វីទេ? (សូមត្រួតពិនិត្យមើលទាំងអស់)";
+"id_wizard_questions_part_product" = "តើអ្វីគឺជាគោលបំណងជាក់ស្តែងនៃផ្នែក/ផលិតផល?";
+"id_wizard_questions_material" = "តើផលិតផលផលិតមកពីអ្វី?";
+"id_wizard_questions_body_part" = "តើផ្នែកសរីរាង្គរបស់សត្វមួយណា?";
+
+
+/*Intact/Animal */
+"id_wizard_prod_ani_intact_animal" = "សត្វទាំងមូល";
+"id_wizard_prod_ani_animal_part_product" = "ផលិតផលសត្វ /​ ផ្នែករបស់សត្វ";
+
+/* Covering */
+"id_wizard_covering_scales" = "ស្រកា";
+"id_wizard_covering_fur" = "រោម";
+"id_wizard_covering_feathers" = "ស្លាប";
+"id_wizard_covering_skin" = "ស្បែក";
+"id_wizard_covering_not_sure" = "ដទៃទៀត/មិនច្បាស់";
+
+/* Colors */
+"id_wizard_color_red" = "ពណ៌ក្រហម";
+"id_wizard_color_orange" ="ពណ៌ទឹករូច";
+"id_wizard_color_yellow" ="ពណ៌លឿង";
+"id_wizard_color_green" ="ពណ៌បៃតង";
+"id_wizard_color_blue" ="ពណ៌ខៀវ";
+"id_wizard_color_purple" ="ពណ៌ស្វាយ";
+"id_wizard_color_gray" ="ពណ៌ប្រផេះ";
+"id_wizard_color_brown" ="ពណ៌ត្នោត";
+"id_wizard_color_white" ="ពណ៌ស";
+"id_wizard_color_black" ="ពណ៌ខ្មៅ";
+"id_wizard_color_not_sure" ="ដទៃទៀត/មិនច្បាស់";
+
+/* Size */
+"id_wizard_size_small_hand" = "តូចជាងដៃរបស់អ្នក";
+"id_wizard_size_average_dog" = "តូចជាង   សត្វឆ្កែដែល";
+"id_wizard_size_smaller_than_you" = "មានទំហំមធ្យម តូចជាងអ្នក";
+"id_wizard_size_larger_than_you" = "ធំជាងអ្នក";
+"id_wizard_size_not_sure" = "មិនច្បាស់";
+
+
+/* Food Clothing etc */
+"id_wizard_purpose_food" = "អាហារ";
+"id_wizard_purpose_clothing" = "ខោអាវ គ្រឿងអលង្កា";
+"id_wizard_purpose_jewelry" = "ពាន់";
+"id_wizard_purpose_trophy" = "រង្វាន់ /  គ្រឿងតុបតែង";
+"id_wizard_purpose_medicine" = "ថ្នាំពេទ្យ";
+"id_wizard_purpose_not_sure" = "ដទៃទៀត/ មិនច្បាស់";
+
+
+
+/*Bone Leather etc */
+"id_wizard_material_bone" = "ឆ្អឹង";
+"id_wizard_material_pelt" = "ស្បែក";
+"id_wizard_material_shell" = "ស្នូក";
+"id_wizard_material_poweder" = "ម្សៅ";
+"id_wizard_material_meat" = "សាច់";
+"id_wizard_material_not_sure" = "ផ្សេងទៀត";
+
+
+
+
+
+/* Horn Tusk etc */
+"id_wizard_part_horn" = "ស្នែង";
+"id_wizard_part_tusk" = "ភ្លុក";
+"id_wizard_part_skin" = "ស្បែក";
+"id_wizard_part_paw" = "ក្រញាំ";
+"id_wizard_part_claw" = "មេញ / ក្រញាំ";
+"id_wizard_part_not_sure" = "ដទៃទៀត/ មិន  ច្បាស់";
+
+
+/* Gallery Options */
+"pref_gallery_view_gallery" = "វិចិត្រសាល";
+"pref_gallery_view_list" = "បញ្ជី";
+"pref_gallery_view_as_left" = "ដូចដែលខ្ញុំបានចាកចេញពីវា";
+
+/* Sync Messages */
+"sync_progress_reports" = "ពិនិត្យមើលរបាយការណ៍ដែលមិនទាន់សម្រេច...";
+"sync_progress_content" = "ការធ្វើបច្ចុប្បន្នភាពមាតិកា...";
+"sync_progress_contents" = "ការធ្វើបច្ចុប្បន្នភាពមាតិកា...";
+"sync_progress_contacts" = "ការធ្វើបច្ចុប្បន្នភាពទំនាក់ទំនង...";
+"sync_progress_species" = "ការធ្វើបច្ចុប្បន្នភាពប្រភេទសត្...";
+"sync_progress_sp" = "ការធ្វើបច្ចុប្បន្នភាពប្រភេទសត្...";
+"sync_progress_events" = "ការត្រួតពិនិត្យមើលព្រឹត្តិការណ៍ថ្....";
+"sync_progress_translations" = "ការធ្វើបច្ចុប្បន្នភាពការបកប្រែ...";
+"sync_progress_photos" = "ការផ្ទៀងផ្ទាត់រូបថត...";
+"sync_progress_regions" = "តំបន់ធ្វើឱ្យទាន់សម័យ...";
+"sync_progress_regions_stat" = "ធ្វើឱ្យទាន់សម័យស្ថិតិតំបន់...";
+

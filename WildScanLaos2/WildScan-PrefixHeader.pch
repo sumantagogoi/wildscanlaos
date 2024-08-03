@@ -1,0 +1,33 @@
+//
+//  WildScan-PrefixHeader.pch
+//  WildScan
+//
+//  Created by Shabir Jan on 14/03/2016.
+//  Copyright © 2016 Shabir Jan. All rights reserved.
+//
+
+#ifndef WildScan_PrefixHeader_pch
+#define WildScan_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "AppDelegate.h"
+#import "ViewController.h"
+#import "UAProgressView.h"
+#import "ServiceHelper.h"
+#import "Contacts+CoreDataProperties.h"
+#import "Contacts.h"
+#import "ContactsViewController.h"
+#import "ContactTableViewCell.h"
+#import "DashboardViewController.h"
+#import "SVProgressHUD.h"
+#import "Species.h"
+#import "ContactsTranslation.h"
+#import "SpeciesTranslation.h"
+#import "SpeciesImages.h"
+#import "AppDelegate.h"
+#import "SpeciesLibraryViewController.h"
+#import "SpecieCollectionViewCell.h"
+#import "SpecieTableViewCell.h"
+#import "SpecieDetailViewController.h"
+#endif /* WildScan_PrefixHeader_pch */

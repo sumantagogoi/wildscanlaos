@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15D21" minimumToolsVersion="Automatic">
+    <entity name="Contacts" representedClassName="Contacts" syncable="YES">
+        <attribute name="contactAddress1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactAddress2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactAgency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactAvailability" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactAvatarUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactCity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactCountry" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactCreatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactCreatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactJurisdicationScope" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactLat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactLon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactPhone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactRegion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactSelectedForReport" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="contactSpecialCapacityScope" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactUpdatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactUpdatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactUTM" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactWebsite" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isContactFavorite" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="contactTranslation" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ContactsTranslation" inverseName="contactID" inverseEntity="ContactsTranslation" syncable="YES"/>
+    </entity>
+    <entity name="ContactsTranslation" representedClassName="ContactsTranslation" syncable="YES">
+        <attribute name="contactAddress1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactAddress2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactAgency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactCity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactLanguage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactSpecailityNote" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="contactID" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Contacts" inverseName="contactTranslation" inverseEntity="Contacts" syncable="YES"/>
+    </entity>
+    <entity name="Content" representedClassName="Content" syncable="YES">
+        <attribute name="contentBody" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contentCreatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contentCreatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contentLanguage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contentType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Events" representedClassName="Events" syncable="YES">
+        <attribute name="eventCountry" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventCreatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventCreatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventDateTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventDestinationAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventDestinationCountry" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventDestinationLat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventDestinationLon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventImageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventIncident" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventIncidentCondition" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventIncidentDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventInternetIncident" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventLocationAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventLocationLat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventLocationLong" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventMethod" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventNumberUnit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventOffenseDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventOffenseType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventOriginAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventOriginCountry" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventOriginLat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventOriginLong" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventRegion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventShareWith" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventSpecies" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventSyndicate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventUpdatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventUpdatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventValueEstimatedUSD" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventVehicleVesselDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventVehicleVesselLicenseNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventVesselName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eventWebAddress" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Region" representedClassName="Region" syncable="YES">
+        <attribute name="regionCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionReportEmail" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RegionStats" representedClassName="RegionStats" syncable="YES">
+        <attribute name="regionIsDownloaded" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="regionStatRID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionStatTotalContacts" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionStatTotalSpecies" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="regionStatTotalUsers" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Species" representedClassName="Species" syncable="YES">
+        <attribute name="specieAverageSizeWeight" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieBasicIDCues" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCities" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCitiesOther" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCommonName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCommonTrafficking" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieConsumerAdvice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCreatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCreatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieDieaseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieDieaseRiskLevel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieEnforcementAdvice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieExtantCountries" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieFirstResponder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieHabitat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieImageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieIsFavorite" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="specieIsGlobal" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieIsImageDownloaded" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="specieKeywordTags" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieKnownAs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieNotes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieReferences" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieRegion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieScientificName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieSimilarAnimals" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieTradedAs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieUpdatedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieUpdatedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieWarnings" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="specieTranslation" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SpeciesTranslation" inverseName="specieID" inverseEntity="SpeciesTranslation" syncable="YES"/>
+    </entity>
+    <entity name="SpeciesImages" representedClassName="SpeciesImages" syncable="YES">
+        <attribute name="specieImageCredit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieImageLicence" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieImageOrder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieImagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieImageSpecieID" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SpeciesTranslation" representedClassName="SpeciesTranslation" syncable="YES">
+        <attribute name="specieAverageSizeWeight" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieBasicIDCues" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCommonName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieCommonTrafficking" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieConsumerAdvice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieDieaseName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieEnforcementAdvice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieFirstResponder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieHabitat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieKnownAs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieLanguage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieNotes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieSimilarAnimals" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specieTradedAs" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="specieID" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Species" inverseName="specieTranslation" inverseEntity="Species" syncable="YES"/>
+    </entity>
+    <entity name="UserReport" representedClassName="UserReport" syncable="YES">
+        <attribute name="userReportIsSubmitted" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="userReportString" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Contacts" positionX="-63" positionY="-18" width="128" height="435"/>
+        <element name="ContactsTranslation" positionX="-63" positionY="135" width="128" height="165"/>
+        <element name="Content" positionX="-54" positionY="135" width="128" height="120"/>
+        <element name="Events" positionX="-54" positionY="135" width="128" height="615"/>
+        <element name="Region" positionX="-54" positionY="135" width="128" height="120"/>
+        <element name="RegionStats" positionX="-54" positionY="135" width="128" height="120"/>
+        <element name="Species" positionX="-63" positionY="135" width="128" height="555"/>
+        <element name="SpeciesImages" positionX="-45" positionY="144" width="128" height="120"/>
+        <element name="SpeciesTranslation" positionX="-54" positionY="135" width="128" height="270"/>
+        <element name="UserReport" positionX="-45" positionY="144" width="128" height="75"/>
+    </elements>
+</model>

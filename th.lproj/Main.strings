@@ -1,0 +1,372 @@
+
+/* Class = "UITextField"; text = "ป้อนชื่อชนิดพันธุ์สัตว์"; ObjectID = "03n-Df-QBL"; */
+"03n-Df-QBL.text" = "ป้อนชื่อชนิดพันธุ์สัตว์";
+
+/* Class = "UITextView"; text = "ให้รายละเอียดเพิ่มเติมเกี่ยวกับการกระทำผิด (สูงสุดไม่เกิน 2048 ตัวอักษร)"; ObjectID = "16h-T6-ZiK"; */
+"16h-T6-ZiK.text" = "ให้รายละเอียดเพิ่มเติมเกี่ยวกับการกระทำผิด (สูงสุดไม่เกิน 2048 ตัวอักษร)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1OE-Lt-nCI"; */
+"1OE-Lt-nCI.text" = "Label";
+
+/* Class = "UILabel"; text = "แชร์ข้อมูลผ่านอีเมล์"; ObjectID = "1au-Le-8Um"; */
+"1au-Le-8Um.text" = "แชร์ข้อมูลผ่านอีเมล์";
+
+/* Class = "UIButton"; normalTitle = "ถ่ายภาพ"; ObjectID = "2Gf-1N-NUk"; */
+"2Gf-1N-NUk.normalTitle" = "ถ่ายภาพ";
+
+/* Class = "UILabel"; text = "ป้ายทะเบียน"; ObjectID = "32a-Rv-LtA"; */
+"32a-Rv-LtA.text" = "ป้ายทะเบียน";
+
+/* Class = "UILabel"; text = "สภาพ"; ObjectID = "3Ou-dk-WO6"; */
+"3Ou-dk-WO6.text" = "สภาพ";
+
+/* Class = "UILabel"; text = "ระบุชนิดพันธุ์สัตว์"; ObjectID = "4RC-YF-IS2"; */
+"4RC-YF-IS2.text" = "ระบุชนิดพันธุ์สัตว์";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "4Sb-bV-4yr"; */
+"4Sb-bV-4yr.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel"; ObjectID = "4VI-lH-81m"; */
+"4VI-lH-81m.text" = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel";
+
+/* Class = "UIButton"; normalTitle = "ตกลง"; ObjectID = "4Zu-06-RBZ"; */
+"4Zu-06-RBZ.normalTitle" = "ตกลง";
+
+/* Class = "UILabel"; text = "ตาย"; ObjectID = "5dq-eV-nJ5"; */
+"5dq-eV-nJ5.text" = "ตาย";
+
+/* Class = "UIButton"; normalTitle = "แสดงรายการ"; ObjectID = "6VA-mK-jjK"; */
+"6VA-mK-jjK.normalTitle" = "แสดงรายการ";
+
+/* Class = "UIButton"; normalTitle = "ผลิตภัณฑ์ที่ได้จากสัตว์"; ObjectID = "6dQ-lD-yUO"; */
+"6dQ-lD-yUO.normalTitle" = "ผลิตภัณฑ์ที่ได้จากสัตว์";
+
+/* Class = "UILabel"; text = "อย่าแสดงข้อความนี้อีก again"; ObjectID = "6qk-Be-9Tk"; */
+"6qk-Be-9Tk.text" = "อย่าแสดงข้อความนี้อีก";
+
+/* Class = "UILabel"; text = "หาง"; ObjectID = "7Bo-Ai-ux2"; */
+"7Bo-Ai-ux2.text" = "หาง";
+
+/* Class = "UILabel"; text = "การแจ้งเหตุที่เกิดขึ้น (2) - ข้อมูลพื้นฐาน"; ObjectID = "7ZU-AF-wnd"; */
+"7ZU-AF-wnd.text" = "การแจ้งเหตุที่เกิดขึ้น (2) - ข้อมูลพื้นฐาน";
+
+/* Class = "UITextField"; text = "ป้อนหน่วยงานติดต่อ"; ObjectID = "7ih-aN-MpT"; */
+"7ih-aN-MpT.text" = "ป้อนหน่วยงานติดต่อ";
+
+/* Class = "UILabel"; text = "ชื่อของเรือขนส่ง"; ObjectID = "7mH-U4-hFE"; */
+"7mH-U4-hFE.text" = "ชื่อของเรือขนส่ง";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "84J-Sx-rYS"; */
+"84J-Sx-rYS.normalTitle" = "ยกเลิก";
+
+/* Class = "UIButton"; normalTitle = "นก"; ObjectID = "AY4-hH-c23"; */
+"AY4-hH-c23.normalTitle" = "นก";
+
+/* Class = "UIButton"; normalTitle = "ทุกชนิด"; ObjectID = "AZ1-5k-iqN"; */
+"AZ1-5k-iqN.normalTitle" = "ทุกชนิด";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AkB-dl-D9D"; */
+"AkB-dl-D9D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "สัตว์เลื้อยคลาน"; ObjectID = "B3x-5t-Nda"; */
+"B3x-5t-Nda.normalTitle" = "สัตว์เลื้อยคลาน";
+
+/* Class = "UILabel"; text = "รายการเหตุการณ์"; ObjectID = "B8h-Xa-TED"; */
+"B8h-Xa-TED.text" = "รายการเหตุการณ์";
+
+/* Class = "UITextView"; text = "อธิบายวิธีการที่ใช้ในการกระทำผิด (สูงสุดไม่เกิน 2048 ตัวอักษร)"; ObjectID = "BIO-Y5-xaI"; */
+"BIO-Y5-xaI.text" = "อธิบายวิธีการที่ใช้ในการกระทำผิด (สูงสุดไม่เกิน 2048 ตัวอักษร)";
+
+/* Class = "UITextField"; text = "ป้อนข้อมูลสถานที่"; ObjectID = "BkY-yt-OX2"; */
+"BkY-yt-OX2.text" = "ป้อนข้อมูลสถานที่";
+
+/* Class = "UIButton"; normalTitle = "สัตว์เลี้ยงลูกด้วยนม"; ObjectID = "CF9-MO-aCt"; */
+"CF9-MO-aCt.normalTitle" = "สัตว์เลี้ยงลูกด้วยนม";
+
+/* Class = "UIButton"; normalTitle = "เลือกภาพอื่นที่มีอยู่เพิ่มเติม"; ObjectID = "Cyy-Cx-tt5"; */
+"Cyy-Cx-tt5.normalTitle" = "เลือกภาพอื่นที่มีอยู่เพิ่มเติม";
+
+/* Class = "UILabel"; text = "ถ่ายภาพ"; ObjectID = "DKF-7l-Rc2"; */
+"DKF-7l-Rc2.text" = "ถ่ายภาพ";
+
+/* Class = "UILabel"; text = "รายละเอียดการกระทำผิดเพิ่มเติม"; ObjectID = "DNO-lK-Rub"; */
+"DNO-lK-Rub.text" = "รายละเอียดการกระทำผิดเพิ่มเติม";
+
+/* Class = "UIButton"; normalTitle = "ถัดไป"; ObjectID = "DQm-xg-H8D"; */
+"DQm-xg-H8D.normalTitle" = "ถัดไป";
+
+/* Class = "UIButton"; normalTitle = "ส่งการแจ้งข้อมูล"; ObjectID = "DTg-fK-28A"; */
+"DTg-fK-28A.normalTitle" = "ส่งการแจ้งข้อมูล";
+
+/* Class = "UILabel"; text = "ver 1.0"; ObjectID = "E3z-Dn-By3"; */
+"E3z-Dn-By3.text" = "ver 1.0";
+
+/* Class = "UILabel"; text = ".00"; ObjectID = "FEW-c7-VY6"; */
+"FEW-c7-VY6.text" = ".00";
+
+/* Class = "UIButton"; normalTitle = "สำเร็จ"; ObjectID = "Fyk-48-F40"; */
+"Fyk-48-F40.normalTitle" = "สำเร็จ";
+
+/* Class = "UILabel"; text = "สมุดรายชื่อหน่วยงานติดต่อ"; ObjectID = "H20-Kc-re2"; */
+"H20-Kc-re2.text" = "สมุดรายชื่อหน่วยงานติดต่อ";
+
+/* Class = "UILabel"; text = "แจ้งรายงานเป็นการส่วนตัว"; ObjectID = "H2c-BK-lI2"; */
+"H2c-BK-lI2.text" = "แจ้งรายงานเป็นการส่วนตัว";
+
+/* Class = "UIButton"; normalTitle = "ตกลง"; ObjectID = "HhH-GM-gQV"; */
+"HhH-GM-gQV.normalTitle" = "ตกลง";
+
+/* Class = "UILabel"; text = "เลือกภูมิภาคสำหรับการรายงานของคุณ"; ObjectID = "JHE-hC-saw"; */
+"JHE-hC-saw.text" = "เลือกภูมิภาคสำหรับการรายงานของคุณ";
+
+/* Class = "UILabel"; text = "วิธีการ"; ObjectID = "JPz-MI-OLe"; */
+"JPz-MI-OLe.text" = "วิธีการ";
+
+/* Class = "UILabel"; text = "ชนิดพันธุ์: 114"; ObjectID = "JY9-pU-pVU"; */
+"JY9-pU-pVU.text" = "ชนิดพันธุ์: 114";
+
+/* Class = "UILabel"; text = "จะงอยปาก"; ObjectID = "KLe-D0-bhR"; */
+"KLe-D0-bhR.text" = "จะงอยปาก";
+
+/* Class = "UILabel"; text = "You can download additional species and contacts here."; ObjectID = "KRt-sp-dxd"; */
+"KRt-sp-dxd.text" = "คุณสามารถดาวน์โหลด ชนิด เพิ่มเติม และรายชื่อ ที่นี่";
+
+/* Class = "UITextField"; text = "ป้อนข้อมูลสถานที่"; ObjectID = "LX6-4X-edi"; */
+"LX6-4X-edi.text" = "ป้อนข้อมูลสถานที่";
+
+/* Class = "UILabel"; text = "สัตว์ทั้งตัว"; ObjectID = "Lu2-uz-9YM"; */
+"Lu2-uz-9YM.text" = "สัตว์ทั้งตัว";
+
+/* Class = "UIButton"; normalTitle = "ปิดชนิดพันธุ์สัตว์"; ObjectID = "M2I-6N-NZ8"; */
+"M2I-6N-NZ8.normalTitle" = "ปิดชนิดพันธุ์สัตว์";
+
+/* Class = "UILabel"; text = "$US"; ObjectID = "N1b-BT-MyG"; */
+"N1b-BT-MyG.text" = "$US";
+
+/* Class = "UILabel"; text = "การกระทำผิด"; ObjectID = "OC5-Nx-vuw"; */
+"OC5-Nx-vuw.text" = "การกระทำผิด";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OR1-5s-6sA"; */
+"OR1-5s-6sA.text" = "Label";
+
+/* Class = "UILabel"; text = "ปลายทาง"; ObjectID = "R7W-1E-ipW"; */
+"R7W-1E-ipW.text" = "ปลายทาง";
+
+/* Class = "UILabel"; text = "รายละเอียดยานพาหนะ/เรือที่ใช้กระทำผิด"; ObjectID = "RQv-Jl-00c"; */
+"RQv-Jl-00c.text" = "รายละเอียดยานพาหนะ/เรือที่ใช้กระทำผิด";
+
+/* Class = "UILabel"; text = "รายละเอียด"; ObjectID = "See-pJ-3OL"; */
+"See-pJ-3OL.text" = "รายละเอียด";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "St6-X1-YNX"; */
+"St6-X1-YNX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "Swq-3w-wcN"; */
+"Swq-3w-wcN.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "รายการเหตุการณ์"; ObjectID = "TLp-gt-lcl"; */
+"TLp-gt-lcl.text" = "รายการเหตุการณ์";
+
+/* Class = "UIButton"; normalTitle = "ถ่ายภาพอื่นเพิ่มเติม"; ObjectID = "TrI-Wj-dCQ"; */
+"TrI-Wj-dCQ.normalTitle" = "ถ่ายภาพอื่นเพิ่มเติม";
+
+/* Class = "UILabel"; text = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note"; ObjectID = "UGn-Aq-L7S"; */
+"UGn-Aq-L7S.text" = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note";
+
+/* Class = "UIButton"; normalTitle = "ตั้งค่า"; ObjectID = "UHK-iv-wBr"; */
+"UHK-iv-wBr.normalTitle" = "ตั้งค่า";
+
+/* Class = "UIButton"; normalTitle = "รายละเอียดเพิ่มเติม"; ObjectID = "ULM-J9-hCT"; */
+"ULM-J9-hCT.normalTitle" = "รายละเอียดเพิ่มเติม";
+
+/* Class = "UILabel"; text = "การแจ้งข้อมูลการลักลอบค้าสัตว์ป่าและการกระทำผิดกฎหมายสัตว์ป่ามีโอกาสที่จะได้รับอันตราย ผู้ใช้ WildScan ควรจะกระทำการด้วยความระมัดระวังเมื่อถ่ายภาพการกระทำผิดกฎหมายสัตว์ป่าที่น่าสงสัยและไม่ควรนำตัวเองเข้าไปเสี่ยงในกรณีที่อาจจะเกิดอันตรายจากการแจ้งข้อมูลการกระทำผิดดังกล่าว"; ObjectID = "ULm-5E-8vy"; */
+"ULm-5E-8vy.text" = "การแจ้งข้อมูลการลักลอบค้าสัตว์ป่าและการกระทำผิดกฎหมายสัตว์ป่ามีโอกาสที่จะได้รับอันตราย ผู้ใช้ WildScan ควรจะกระทำการด้วยความระมัดระวังเมื่อถ่ายภาพการกระทำผิดกฎหมายสัตว์ป่าที่น่าสงสัยและไม่ควรนำตัวเองเข้าไปเสี่ยงในกรณีที่อาจจะเกิดอันตรายจากการแจ้งข้อมูลการกระทำผิดดังกล่าว";
+
+/* Class = "UIButton"; normalTitle = "สัตว์สะเทิ้นน้ำสะเทิ้นบก"; ObjectID = "UZR-AM-14A"; */
+"UZR-AM-14A.normalTitle" = "สัตว์สะเทิ้นน้ำสะเทิ้นบก";
+
+/* Class = "UIButton"; normalTitle = "แสดงบนแผนที่"; ObjectID = "Uwc-tQ-L4Q"; */
+"Uwc-tQ-L4Q.normalTitle" = "แสดงบนแผนที่";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "V8i-ul-7if"; */
+"V8i-ul-7if.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "หากเลือกช่องนี้ โปรแกรมอีเมลบนหน้าจอจะเปิดขึ้นโดยมีรายงานฉบับนี้เป็นไฟล์แนบโดยอัตโนมัติ"; ObjectID = "V9m-AI-I5z"; */
+"V9m-AI-I5z.text" = "หากเลือกช่องนี้ โปรแกรมอีเมลบนหน้าจอจะเปิดขึ้นโดยมีรายงานฉบับนี้เป็นไฟล์แนบโดยอัตโนมัติ";
+
+/* Class = "UILabel"; text = "ตัว"; ObjectID = "WnE-Fu-reX"; */
+"WnE-Fu-reX.text" = "ตัว";
+
+/* Class = "UILabel"; text = "สถานที่"; ObjectID = "Wt0-g5-jtO"; */
+"Wt0-g5-jtO.text" = "สถานที่";
+
+/* Class = "UIButton"; normalTitle = "ทุกชนิด"; ObjectID = "XKR-ff-aaT"; */
+"XKR-ff-aaT.normalTitle" = "ทุกชนิด";
+
+/* Class = "UIButton"; normalTitle = "ปุ่ม"; ObjectID = "Xe6-to-W4X"; */
+"Xe6-to-W4X.normalTitle" = "ปุ่ม";
+
+/* Class = "UITextField"; placeholder = "พิมพ์ชื่อสามัญของชนิดพันธุ์สัตว์"; ObjectID = "Y2n-zI-Brb"; */
+"Y2n-zI-Brb.placeholder" = "พิมพ์ชื่อสามัญของชนิดพันธุ์สัตว์";
+
+/* Class = "UILabel"; text = "คลังข้อมูลชนิดพันธุ์สัตว์"; ObjectID = "YQu-Ui-zWI"; */
+"YQu-Ui-zWI.text" = "คลังข้อมูลชนิดพันธุ์สัตว์";
+
+/* Class = "UILabel"; text = "name \nname"; ObjectID = "YWa-OZ-BHa"; */
+"YWa-OZ-BHa.text" = "name \nname";
+
+/* Class = "UILabel"; text = "imagecopyright"; ObjectID = "Zgt-Hc-HlE"; */
+"Zgt-Hc-HlE.text" = "imagecopyright";
+
+/* Class = "UILabel"; text = "วันที่และเวลา"; ObjectID = "Zrj-ta-eCI"; */
+"Zrj-ta-eCI.text" = "วันที่และเวลา";
+
+/* Class = "UIButton"; normalTitle = "เลือกภาพถ่ายที่มีอยู่"; ObjectID = "atg-N1-KJs"; */
+"atg-N1-KJs.normalTitle" = "เลือกภาพถ่ายที่มีอยู่";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "avo-Gn-9B5"; */
+"avo-Gn-9B5.text" = "Label";
+
+/* Class = "UILabel"; text = "ค่าเริ่มต้นผู้รับรายงาน"; ObjectID = "bH8-t5-Iri"; */
+"bH8-t5-Iri.text" = "ค่าเริ่มต้นผู้รับรายงาน";
+
+/* Class = "UILabel"; text = "รวมกัน"; ObjectID = "bR1-If-5ZC"; */
+"bR1-If-5ZC.text" = "รวมกัน";
+
+/* Class = "UILabel"; text = "CHECKING FOR NEW CONTACTS"; ObjectID = "bWf-Yt-5Kz"; */
+"bWf-Yt-5Kz.text" = "CHECKING FOR NEW CONTACTS";
+
+/* Class = "UILabel"; text = "แผนที่เหตุการณ์"; ObjectID = "bqF-5g-3l2"; */
+"bqF-5g-3l2.text" = "แผนที่เหตุการณ์";
+
+/* Class = "UILabel"; text = "หน่วยงานติดต่อ"; ObjectID = "cCh-PJ-OV8"; */
+"cCh-PJ-OV8.text" = "หน่วยงานติดต่อ";
+
+/* Class = "UILabel"; text = "ทั่วโลก (หน้าหลัก)"; ObjectID = "dFS-Sb-4MH"; */
+"dFS-Sb-4MH.text" = "ทั่วโลก (หน้าหลัก)";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "dPT-Cc-ums"; */
+"dPT-Cc-ums.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "do4-gQ-gr5"; */
+"do4-gQ-gr5.text" = "Label";
+
+/* Class = "UILabel"; text = "ต้นทาง"; ObjectID = "eDI-gi-Hst"; */
+"eDI-gi-Hst.text" = "ต้นทาง";
+
+/* Class = "UILabel"; text = "กำลังเชื่อมต่อข้อมูล"; ObjectID = "efA-Q7-SGd"; */
+"efA-Q7-SGd.text" = "กำลังเชื่อมต่อข้อมูล";
+
+/* Class = "UILabel"; text = "ภาพถ่าย"; ObjectID = "fMs-D3-6vG"; */
+"fMs-D3-6vG.text" = "ภาพถ่าย";
+
+/* Class = "UILabel"; text = "คำเตือน!"; ObjectID = "fet-hI-lmj"; */
+"fet-hI-lmj.text" = "คำเตือน!";
+
+/* Class = "UILabel"; text = "การแจ้งข้อมูลเป็นการส่วนตัวจะไม่ถูกนำไปรวมกับผู้ใช้ WildScan รายอื่น"; ObjectID = "g25-wx-JF8"; */
+"g25-wx-JF8.text" = "การแจ้งข้อมูลเป็นการส่วนตัวจะไม่ถูกนำไปรวมกับผู้ใช้ WildScan รายอื่น";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g2e-vl-n2A"; */
+"g2e-vl-n2A.text" = "Label";
+
+/* Class = "UILabel"; text = "ทั่วโลก (หน้าหลัก)"; ObjectID = "hGV-it-zv0"; */
+"hGV-it-zv0.text" = "ทั่วโลก (หน้าหลัก)";
+
+/* Class = "UILabel"; text = "มูลค่าโดยประมาณ ดอลลาร์สหรัฐ"; ObjectID = "hUg-r4-O0b"; */
+"hUg-r4-O0b.text" = "มูลค่าโดยประมาณ ดอลลาร์สหรัฐ";
+
+/* Class = "UILabel"; text = "การแจ้งเหตุที่เกิดขึ้น (4) - ทบทวนและส่งข้อมูล"; ObjectID = "hiY-Jz-M2O"; */
+"hiY-Jz-M2O.text" = "การแจ้งเหตุที่เกิดขึ้น (4) - ทบทวนและส่งข้อมูล";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j25-vV-NRF"; */
+"j25-vV-NRF.text" = "Label";
+
+/* Class = "UILabel"; text = "มีชีวิตอยู่"; ObjectID = "kf9-i5-f4Q"; */
+"kf9-i5-f4Q.text" = "มีชีวิตอยู่";
+
+/* Class = "UILabel"; text = "กระดอง"; ObjectID = "l2I-yP-8Q2"; */
+"l2I-yP-8Q2.text" = "กระดอง";
+
+/* Class = "UILabel"; text = "ปีก"; ObjectID = "lU7-IS-JqN"; */
+"lU7-IS-JqN.text" = "ปีก";
+
+/* Class = "UILabel"; text = "กก"; ObjectID = "lXi-hm-Dwt"; */
+"lXi-hm-Dwt.text" = "กก";
+
+/* Class = "UILabel"; text = "เส้นทาง"; ObjectID = "laT-aB-cTC"; */
+"laT-aB-cTC.text" = "เส้นทาง";
+
+/* Class = "UILabel"; text = "สายพันธุ์ และ ข้อมูลการติดต่อในภูมิภาค"; ObjectID = "lff-ln-Nkz"; */
+"lff-ln-Nkz.text" = "สายพันธุ์ และ ข้อมูลการติดต่อในภูมิภาค";
+
+/* Class = "UIButton"; normalTitle = "พืช"; ObjectID = "lnz-SC-jJA"; */
+"lnz-SC-jJA.normalTitle" = "พืช";
+
+/* Class = "UIButton"; normalTitle = "ระบุชนิดพันธุ์สัตว์"; ObjectID = "m9q-kv-N0H"; */
+"m9q-kv-N0H.normalTitle" = "ระบุชนิดพันธุ์สัตว์";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "nov-8U-EcS"; */
+"nov-8U-EcS.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oNw-P2-ZkS"; */
+"oNw-P2-ZkS.text" = "Label";
+
+/* Class = "UILabel"; text = "การแจ้งรายงานของท่านจะถูกส่งไปยังทีมงานไวล์ดสแกนโดยอัตโนมัติ และทีมงานฯ จะส่งต่อไปยังหน่วยงานที่เกี่ยวข้องต่อไป ท่านยังสามารถเพิ่มหน่วยงานติดต่อที่ท่านต้องการแจ้งรายงานได้อีกด้วย"; ObjectID = "ohw-RM-5Gk"; */
+"ohw-RM-5Gk.text" = "การแจ้งรายงานของท่านจะถูกส่งไปยังทีมงานไวล์ดสแกนโดยอัตโนมัติ และทีมงานฯ จะส่งต่อไปยังหน่วยงานที่เกี่ยวข้องต่อไป ท่านยังสามารถเพิ่มหน่วยงานติดต่อที่ท่านต้องการแจ้งรายงานได้อีกด้วย";
+
+/* Class = "UIButton"; normalTitle = "สัตว์ไม่มีกระดูกสันหลัง"; ObjectID = "oj2-vd-589"; */
+"oj2-vd-589.normalTitle" = "สัตว์ไม่มีกระดูกสันหลัง";
+
+/* Class = "UILabel"; text = "Mar 27, 2016 12:18:34 AM"; ObjectID = "rT4-A3-mdQ"; */
+"rT4-A3-mdQ.text" = "Mar 27, 2016 12:18:34 AM";
+
+/* Class = "UILabel"; text = "หน่วยงานติดต่อ: 14"; ObjectID = "uMC-HK-66J"; */
+"uMC-HK-66J.text" = "หน่วยงานติดต่อ: 14";
+
+/* Class = "UILabel"; text = "ค่าเริ่มต้นมุมมองการแสดงภาพ"; ObjectID = "vbC-6o-aRA"; */
+"vbC-6o-aRA.text" = "ค่าเริ่มต้นมุมมองการแสดงภาพ";
+
+/* Class = "UILabel"; text = "ป้อนข้อมูลสถานที่"; ObjectID = "vlo-7R-i9W"; */
+"vlo-7R-i9W.text" = "ป้อนข้อมูลสถานที่";
+
+/* Class = "UIButton"; normalTitle = "แสดงบนแผนที่"; ObjectID = "w1X-9e-QGT"; */
+"w1X-9e-QGT.normalTitle" = "แสดงบนแผนที่";
+
+/* Class = "UILabel"; text = "ดาวน์โหลดสายพันธุ์ท้องถิ่นและข้อมูลการติดต่อของภูมิภาคอื่น"; ObjectID = "w7g-vm-V7v"; */
+"w7g-vm-V7v.text" = "ดาวน์โหลดสายพันธุ์ท้องถิ่นและข้อมูลการติดต่อของภูมิภาคอื่น";
+
+/* Class = "UIButton"; normalTitle = "เลือกภาพถ่ายที่มีอยู่"; ObjectID = "wLo-zJ-ZEI"; */
+"wLo-zJ-ZEI.normalTitle" = "เลือกภาพถ่ายที่มีอยู่";
+
+/* Class = "UILabel"; text = "เล็กกว่ามือของคุณ"; ObjectID = "wSi-jA-9Ff"; */
+"wSi-jA-9Ff.text" = "เล็กกว่ามือของคุณ";
+
+/* Class = "UILabel"; text = "ครีบ"; ObjectID = "xQA-cp-2Vn"; */
+"xQA-cp-2Vn.text" = "ครีบ";
+
+/* Class = "UITextView"; text = "อธิบายการกระทำผิดโดยสังเขป ตัวอย่างเช่น \'การขายสัตว์เลื้อยคลานที่ได้รับความคุ้มครอง\'"; ObjectID = "xpw-I4-onO"; */
+"xpw-I4-onO.text" = "อธิบายการกระทำผิดโดยสังเขป ตัวอย่างเช่น \'การขายสัตว์เลื้อยคลานที่ได้รับความคุ้มครอง\'";
+
+/* Class = "UIButton"; normalTitle = "ถ่ายภาพ"; ObjectID = "xt8-QP-YaD"; */
+"xt8-QP-YaD.normalTitle" = "ถ่ายภาพ";
+
+/* Class = "UILabel"; text = "การแจ้งเหตุที่เกิดขึ้น (1) - ภาพถ่ายหลัก"; ObjectID = "xxR-Rf-XeI"; */
+"xxR-Rf-XeI.text" = "การแจ้งเหตุที่เกิดขึ้น (1) - ภาพถ่ายหลัก";
+
+/* Class = "UIButton"; normalTitle = "ยกเลิก"; ObjectID = "yB8-1M-NlO"; */
+"yB8-1M-NlO.normalTitle" = "ยกเลิก";
+
+/* Class = "UILabel"; text = "จำนวน"; ObjectID = "yUd-gW-Q9U"; */
+"yUd-gW-Q9U.text" = "จำนวน";
+
+/* Class = "UIButton"; normalTitle = "ดูเพิ่มเติม"; ObjectID = "ygX-CO-Wcu"; */
+"ygX-CO-Wcu.normalTitle" = "ดูเพิ่มเติม";
+
+/* Class = "UIButton"; normalTitle = "ปลา"; ObjectID = "z7N-RI-hy0"; */
+"z7N-RI-hy0.normalTitle" = "ปลา";
+
+/* Class = "UIButton"; normalTitle = "ส่งการแจ้งข้อมูล"; ObjectID = "zFt-iH-Vbc"; */
+"zFt-iH-Vbc.normalTitle" = "ส่งการแจ้งข้อมูล";
+
+/* Class = "UILabel"; text = "ชนิดพันธุ์"; ObjectID = "zMw-M7-tKN"; */
+"zMw-M7-tKN.text" = "ชนิดพันธุ์";

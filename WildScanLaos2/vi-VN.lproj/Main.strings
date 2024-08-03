@@ -1,0 +1,372 @@
+
+/* Class = "UITextField"; text = "Nhập tên loài"; ObjectID = "03n-Df-QBL"; */
+"03n-Df-QBL.text" = "Nhập tên loài";
+
+/* Class = "UITextView"; text = "Cung cấp miêu tả chi tiết về hành vi vi phạm (tối đa 2048 kí tự)"; ObjectID = "16h-T6-ZiK"; */
+"16h-T6-ZiK.text" = "Cung cấp miêu tả chi tiết về hành vi vi phạm (tối đa 2048 kí tự)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1OE-Lt-nCI"; */
+"1OE-Lt-nCI.text" = "Label";
+
+/* Class = "UILabel"; text = "Chia sẻ qua email"; ObjectID = "1au-Le-8Um"; */
+"1au-Le-8Um.text" = "Chia sẻ qua email";
+
+/* Class = "UIButton"; normalTitle = "Chụp ảnh"; ObjectID = "2Gf-1N-NUk"; */
+"2Gf-1N-NUk.normalTitle" = "Chụp ảnh";
+
+/* Class = "UILabel"; text = "Giấy phép #"; ObjectID = "32a-Rv-LtA"; */
+"32a-Rv-LtA.text" = "Giấy phép #";
+
+/* Class = "UILabel"; text = "Tình trạng"; ObjectID = "3Ou-dk-WO6"; */
+"3Ou-dk-WO6.text" = "Tình trạng";
+
+/* Class = "UILabel"; text = "Đặc điểm nhận dạng loài"; ObjectID = "4RC-YF-IS2"; */
+"4RC-YF-IS2.text" = "Đặc điểm nhận dạng loài";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "4Sb-bV-4yr"; */
+"4Sb-bV-4yr.normalTitle" = "Hủy";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel"; ObjectID = "4VI-lH-81m"; */
+"4VI-lH-81m.text" = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel";
+
+/* Class = "UIButton"; normalTitle = "Chấp nhận"; ObjectID = "4Zu-06-RBZ"; */
+"4Zu-06-RBZ.normalTitle" = "Chấp nhận";
+
+/* Class = "UILabel"; text = "Đã chết"; ObjectID = "5dq-eV-nJ5"; */
+"5dq-eV-nJ5.text" = "Đã chết";
+
+/* Class = "UIButton"; normalTitle = "Xem danh sách"; ObjectID = "6VA-mK-jjK"; */
+"6VA-mK-jjK.normalTitle" = "Xem danh sách";
+
+/* Class = "UIButton"; normalTitle = "Sản phẩm"; ObjectID = "6dQ-lD-yUO"; */
+"6dQ-lD-yUO.normalTitle" = "Sản phẩm";
+
+/* Class = "UILabel"; text = "Không hiển thị lại thông điệp này"; ObjectID = "6qk-Be-9Tk"; */
+"6qk-Be-9Tk.text" = "Không hiển thị lại thông điệp này";
+
+/* Class = "UILabel"; text = "Đuôi"; ObjectID = "7Bo-Ai-ux2"; */
+"7Bo-Ai-ux2.text" = "Đuôi";
+
+/* Class = "UILabel"; text = "Báo cáo sự việc (2) - Thông tin cơ bản"; ObjectID = "7ZU-AF-wnd"; */
+"7ZU-AF-wnd.text" = "Báo cáo sự việc (2) - Thông tin cơ bản";
+
+/* Class = "UITextField"; text = "Nhập tên liên hệ"; ObjectID = "7ih-aN-MpT"; */
+"7ih-aN-MpT.text" = "Nhập tên liên hệ";
+
+/* Class = "UILabel"; text = "Tên tàu"; ObjectID = "7mH-U4-hFE"; */
+"7mH-U4-hFE.text" = "Tên tàu";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "84J-Sx-rYS"; */
+"84J-Sx-rYS.normalTitle" = "Hủy";
+
+/* Class = "UIButton"; normalTitle = "Bộ chim"; ObjectID = "AY4-hH-c23"; */
+"AY4-hH-c23.normalTitle" = "Bộ chim";
+
+/* Class = "UIButton"; normalTitle = "Tất cả các loại"; ObjectID = "AZ1-5k-iqN"; */
+"AZ1-5k-iqN.normalTitle" = "Tất cả các loại";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AkB-dl-D9D"; */
+"AkB-dl-D9D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Bò sát"; ObjectID = "B3x-5t-Nda"; */
+"B3x-5t-Nda.normalTitle" = "Bò sát";
+
+/* Class = "UILabel"; text = "Liệt kê các sự kiện"; ObjectID = "B8h-Xa-TED"; */
+"B8h-Xa-TED.text" = "Liệt kê các sự kiện";
+
+/* Class = "UITextView"; text = "Miêu tả các phương pháp được sử dụng để thực hiện hành vi vi phạm"; ObjectID = "BIO-Y5-xaI"; */
+"BIO-Y5-xaI.text" = "Miêu tả các phương pháp được sử dụng để thực hiện hành vi vi phạm";
+
+/* Class = "UITextField"; text = "Nhập vị trí"; ObjectID = "BkY-yt-OX2"; */
+"BkY-yt-OX2.text" = "Nhập vị trí";
+
+/* Class = "UIButton"; normalTitle = "Bộ thú"; ObjectID = "CF9-MO-aCt"; */
+"CF9-MO-aCt.normalTitle" = "Bộ thú";
+
+/* Class = "UIButton"; normalTitle = "Chọn một ảnh hiện có khác"; ObjectID = "Cyy-Cx-tt5"; */
+"Cyy-Cx-tt5.normalTitle" = "Chọn một ảnh hiện có khác";
+
+/* Class = "UILabel"; text = "Chụp ảnh"; ObjectID = "DKF-7l-Rc2"; */
+"DKF-7l-Rc2.text" = "Chụp ảnh";
+
+/* Class = "UILabel"; text = "Miêu tả chi tiết hành vi vi phạm"; ObjectID = "DNO-lK-Rub"; */
+"DNO-lK-Rub.text" = "Miêu tả chi tiết hành vi vi phạm";
+
+/* Class = "UIButton"; normalTitle = "Tiếp"; ObjectID = "DQm-xg-H8D"; */
+"DQm-xg-H8D.normalTitle" = "Tiếp";
+
+/* Class = "UIButton"; normalTitle = "Nộp báo cáo"; ObjectID = "DTg-fK-28A"; */
+"DTg-fK-28A.normalTitle" = "Nộp báo cáo";
+
+/* Class = "UILabel"; text = "ver 1.0"; ObjectID = "E3z-Dn-By3"; */
+"E3z-Dn-By3.text" = "ver 1.0";
+
+/* Class = "UILabel"; text = ".00"; ObjectID = "FEW-c7-VY6"; */
+"FEW-c7-VY6.text" = ".00";
+
+/* Class = "UIButton"; normalTitle = "Hoàn thành"; ObjectID = "Fyk-48-F40"; */
+"Fyk-48-F40.normalTitle" = "Hoàn thành";
+
+/* Class = "UILabel"; text = "Danh mục thông tin liên hệ"; ObjectID = "H20-Kc-re2"; */
+"H20-Kc-re2.text" = "Danh mục thông tin liên hệ";
+
+/* Class = "UILabel"; text = "Đánh dấu báo cáo cá nhân"; ObjectID = "H2c-BK-lI2"; */
+"H2c-BK-lI2.text" = "Đánh dấu báo cáo cá nhân";
+
+/* Class = "UIButton"; normalTitle = "Chấp nhận"; ObjectID = "HhH-GM-gQV"; */
+"HhH-GM-gQV.normalTitle" = "Chấp nhận";
+
+/* Class = "UILabel"; text = "Khu vực báo cáo của bạn"; ObjectID = "JHE-hC-saw"; */
+"JHE-hC-saw.text" = "Khu vực báo cáo của bạn";
+
+/* Class = "UILabel"; text = "Phương pháp"; ObjectID = "JPz-MI-OLe"; */
+"JPz-MI-OLe.text" = "Phương pháp";
+
+/* Class = "UILabel"; text = "Loài: 114"; ObjectID = "JY9-pU-pVU"; */
+"JY9-pU-pVU.text" = "Loài: 114";
+
+/* Class = "UILabel"; text = "Mỏ"; ObjectID = "KLe-D0-bhR"; */
+"KLe-D0-bhR.text" = "Mỏ";
+
+/* Class = "UILabel"; text = "You can download additional species and contacts here."; ObjectID = "KRt-sp-dxd"; */
+"KRt-sp-dxd.text" = "Bạn có thể tải về các loài bổ sung và liên hệ vào đây.";
+
+/* Class = "UITextField"; text = "Nhập vị trí"; ObjectID = "LX6-4X-edi"; */
+"LX6-4X-edi.text" = "Nhập vị trí";
+
+/* Class = "UILabel"; text = "Cá thể nguyên vẹn"; ObjectID = "Lu2-uz-9YM"; */
+"Lu2-uz-9YM.text" = "Cá thể nguyên vẹn";
+
+/* Class = "UIButton"; normalTitle = "Đóng mục Thư viện loài"; ObjectID = "M2I-6N-NZ8"; */
+"M2I-6N-NZ8.normalTitle" = "Đóng mục Thư viện loài";
+
+/* Class = "UILabel"; text = "$US"; ObjectID = "N1b-BT-MyG"; */
+"N1b-BT-MyG.text" = "$US";
+
+/* Class = "UILabel"; text = "Hành vi vi phạm"; ObjectID = "OC5-Nx-vuw"; */
+"OC5-Nx-vuw.text" = "Hành vi vi phạm";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OR1-5s-6sA"; */
+"OR1-5s-6sA.text" = "Label";
+
+/* Class = "UILabel"; text = "Điểm đến"; ObjectID = "R7W-1E-ipW"; */
+"R7W-1E-ipW.text" = "Điểm đến";
+
+/* Class = "UILabel"; text = "Chi tiết về phương tiện vi phạm"; ObjectID = "RQv-Jl-00c"; */
+"RQv-Jl-00c.text" = "Chi tiết về phương tiện vi phạm";
+
+/* Class = "UILabel"; text = "Miêu tả"; ObjectID = "See-pJ-3OL"; */
+"See-pJ-3OL.text" = "Miêu tả";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "St6-X1-YNX"; */
+"St6-X1-YNX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "Swq-3w-wcN"; */
+"Swq-3w-wcN.normalTitle" = "Hủy";
+
+/* Class = "UILabel"; text = "Liệt kê các sự kiện"; ObjectID = "TLp-gt-lcl"; */
+"TLp-gt-lcl.text" = "Liệt kê các sự kiện";
+
+/* Class = "UIButton"; normalTitle = "Chụp ảnh khác"; ObjectID = "TrI-Wj-dCQ"; */
+"TrI-Wj-dCQ.normalTitle" = "Chụp ảnh khác";
+
+/* Class = "UILabel"; text = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note"; ObjectID = "UGn-Aq-L7S"; */
+"UGn-Aq-L7S.text" = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note";
+
+/* Class = "UIButton"; normalTitle = "Cài đặt"; ObjectID = "UHK-iv-wBr"; */
+"UHK-iv-wBr.normalTitle" = "Cài đặt";
+
+/* Class = "UIButton"; normalTitle = "Chi tiết"; ObjectID = "ULM-J9-hCT"; */
+"ULM-J9-hCT.normalTitle" = "Chi tiết";
+
+/* Class = "UILabel"; text = "Việc thông báo các vụ việc buôn bán và tội phạm về ĐVHD có nguy cơ dẫn đến nguy hiểm cho người thông báo. Người sử dụng phần mềm WildScan luôn thận trọng khi chụp ảnh các vụ việc vi phạm về ĐVHD và không nên đặt mình vào tình huống nguy hiểm khi báo cáo vụ việc đó."; ObjectID = "ULm-5E-8vy"; */
+"ULm-5E-8vy.text" = "Việc thông báo các vụ việc buôn bán và tội phạm về ĐVHD có nguy cơ dẫn đến nguy hiểm cho người thông báo. Người sử dụng phần mềm WildScan luôn thận trọng khi chụp ảnh các vụ việc vi phạm về ĐVHD và không nên đặt mình vào tình huống nguy hiểm khi báo cáo vụ việc đó.";
+
+/* Class = "UIButton"; normalTitle = "Động vật lưỡng cư"; ObjectID = "UZR-AM-14A"; */
+"UZR-AM-14A.normalTitle" = "Động vật lưỡng cư";
+
+/* Class = "UIButton"; normalTitle = "Xem bản đồ"; ObjectID = "Uwc-tQ-L4Q"; */
+"Uwc-tQ-L4Q.normalTitle" = "Xem bản đồ";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "V8i-ul-7if"; */
+"V8i-ul-7if.normalTitle" = "Hủy";
+
+/* Class = "UILabel"; text = "Nếu chọn mục này, ứng dụng email của bạn sẽ được mở với một thông điệp mới chứa các thông tin chi tiết về báo cáo"; ObjectID = "V9m-AI-I5z"; */
+"V9m-AI-I5z.text" = "Nếu chọn mục này, ứng dụng email của bạn sẽ được mở với một thông điệp mới chứa các thông tin chi tiết về báo cáo";
+
+/* Class = "UILabel"; text = "Số cá thể loài"; ObjectID = "WnE-Fu-reX"; */
+"WnE-Fu-reX.text" = "Số cá thể loài";
+
+/* Class = "UILabel"; text = "Địa điểm"; ObjectID = "Wt0-g5-jtO"; */
+"Wt0-g5-jtO.text" = "Địa điểm";
+
+/* Class = "UIButton"; normalTitle = "Tất cả các loại"; ObjectID = "XKR-ff-aaT"; */
+"XKR-ff-aaT.normalTitle" = "Tất cả các loại";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xe6-to-W4X"; */
+"Xe6-to-W4X.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Nhập tên thông thường của loài"; ObjectID = "Y2n-zI-Brb"; */
+"Y2n-zI-Brb.placeholder" = "Nhập tên thông thường của loài";
+
+/* Class = "UILabel"; text = "Thư viện loài"; ObjectID = "YQu-Ui-zWI"; */
+"YQu-Ui-zWI.text" = "Thư viện loài";
+
+/* Class = "UILabel"; text = "name \nname"; ObjectID = "YWa-OZ-BHa"; */
+"YWa-OZ-BHa.text" = "name \nname";
+
+/* Class = "UILabel"; text = "imagecopyright"; ObjectID = "Zgt-Hc-HlE"; */
+"Zgt-Hc-HlE.text" = "imagecopyright";
+
+/* Class = "UILabel"; text = "Ngày tháng năm"; ObjectID = "Zrj-ta-eCI"; */
+"Zrj-ta-eCI.text" = "Ngày tháng năm";
+
+/* Class = "UIButton"; normalTitle = "Chọn ảnh hiện có"; ObjectID = "atg-N1-KJs"; */
+"atg-N1-KJs.normalTitle" = "Chọn ảnh hiện có";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "avo-Gn-9B5"; */
+"avo-Gn-9B5.text" = "Label";
+
+/* Class = "UILabel"; text = "Người nhận báo cáo mặc định"; ObjectID = "bH8-t5-Iri"; */
+"bH8-t5-Iri.text" = "Người nhận báo cáo mặc định";
+
+/* Class = "UILabel"; text = "Cả hai"; ObjectID = "bR1-If-5ZC"; */
+"bR1-If-5ZC.text" = "Cả hai";
+
+/* Class = "UILabel"; text = "CHECKING FOR NEW CONTACTS"; ObjectID = "bWf-Yt-5Kz"; */
+"bWf-Yt-5Kz.text" = "CHECKING FOR NEW CONTACTS";
+
+/* Class = "UILabel"; text = "Bản đồ sự kiện"; ObjectID = "bqF-5g-3l2"; */
+"bqF-5g-3l2.text" = "Bản đồ sự kiện";
+
+/* Class = "UILabel"; text = "Liên hệ"; ObjectID = "cCh-PJ-OV8"; */
+"cCh-PJ-OV8.text" = "Liên hệ";
+
+/* Class = "UILabel"; text = "Toàn cầu ( Mặc định)"; ObjectID = "dFS-Sb-4MH"; */
+"dFS-Sb-4MH.text" = "Toàn cầu ( Mặc định)";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "dPT-Cc-ums"; */
+"dPT-Cc-ums.normalTitle" = "Hủy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "do4-gQ-gr5"; */
+"do4-gQ-gr5.text" = "Label";
+
+/* Class = "UILabel"; text = "Nguồn gốc"; ObjectID = "eDI-gi-Hst"; */
+"eDI-gi-Hst.text" = "Nguồn gốc";
+
+/* Class = "UILabel"; text = "Đồng bộ dữ liệu"; ObjectID = "efA-Q7-SGd"; */
+"efA-Q7-SGd.text" = "Đồng bộ dữ liệu";
+
+/* Class = "UILabel"; text = "Ảnh"; ObjectID = "fMs-D3-6vG"; */
+"fMs-D3-6vG.text" = "Ảnh";
+
+/* Class = "UILabel"; text = "Cảnh báo!"; ObjectID = "fet-hI-lmj"; */
+"fet-hI-lmj.text" = "Cảnh báo!";
+
+/* Class = "UILabel"; text = "Các báo cáo cá nhân sẽ không được chia sẻ cho những người sử dụng WildScan khác"; ObjectID = "g25-wx-JF8"; */
+"g25-wx-JF8.text" = "Các báo cáo cá nhân sẽ không được chia sẻ cho những người sử dụng WildScan khác";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g2e-vl-n2A"; */
+"g2e-vl-n2A.text" = "Label";
+
+/* Class = "UILabel"; text = "Toàn cầu ( Mặc định)"; ObjectID = "hGV-it-zv0"; */
+"hGV-it-zv0.text" = "Toàn cầu ( Mặc định)";
+
+/* Class = "UILabel"; text = "Giá trị ước tính (Đô la Mỹ)"; ObjectID = "hUg-r4-O0b"; */
+"hUg-r4-O0b.text" = "Giá trị ước tính (Đô la Mỹ)";
+
+/* Class = "UILabel"; text = "Báo cáo sự việc (4) - Xem lại và Nộp báo cáo"; ObjectID = "hiY-Jz-M2O"; */
+"hiY-Jz-M2O.text" = "Báo cáo sự việc (4) - Xem lại và Nộp báo cáo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j25-vV-NRF"; */
+"j25-vV-NRF.text" = "Label";
+
+/* Class = "UILabel"; text = "Còn sống"; ObjectID = "kf9-i5-f4Q"; */
+"kf9-i5-f4Q.text" = "Còn sống";
+
+/* Class = "UILabel"; text = "Vảy"; ObjectID = "l2I-yP-8Q2"; */
+"l2I-yP-8Q2.text" = "Vảy";
+
+/* Class = "UILabel"; text = "Cánh"; ObjectID = "lU7-IS-JqN"; */
+"lU7-IS-JqN.text" = "Cánh";
+
+/* Class = "UILabel"; text = "Khối lượng (Kg)"; ObjectID = "lXi-hm-Dwt"; */
+"lXi-hm-Dwt.text" = "Khối lượng (Kg)";
+
+/* Class = "UILabel"; text = "Tuyến đường"; ObjectID = "laT-aB-cTC"; */
+"laT-aB-cTC.text" = "Tuyến đường";
+
+/* Class = "UILabel"; text = "Loài &amp; địa chỉ liên lạc khu vực"; ObjectID = "lff-ln-Nkz"; */
+"lff-ln-Nkz.text" = "Loài &amp; địa chỉ liên lạc khu vực";
+
+/* Class = "UIButton"; normalTitle = "Thực vật"; ObjectID = "lnz-SC-jJA"; */
+"lnz-SC-jJA.normalTitle" = "Thực vật";
+
+/* Class = "UIButton"; normalTitle = "Nhận dạng"; ObjectID = "m9q-kv-N0H"; */
+"m9q-kv-N0H.normalTitle" = "Nhận dạng";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "nov-8U-EcS"; */
+"nov-8U-EcS.normalTitle" = "Hủy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oNw-P2-ZkS"; */
+"oNw-P2-ZkS.text" = "Label";
+
+/* Class = "UILabel"; text = "BMặc định, báo cáo của bạn sẽ được gửi đến nhóm WildScan và nhóm sẽ chịu trách nhiệm chuyển báo cáo lên cơ quan chức năng có thẩm quyền. Bạn cũng có thể thêm các thông tin liên hệ cụ thể sẽ nhận báo cáo của bạn"; ObjectID = "ohw-RM-5Gk"; */
+"ohw-RM-5Gk.text" = "Mặc định, báo cáo của bạn sẽ được gửi đến nhóm WildScan và nhóm sẽ chịu trách nhiệm chuyển báo cáo lên cơ quan chức năng có thẩm quyền. Bạn cũng có thể thêm các thông tin liên hệ cụ thể sẽ nhận báo cáo của bạn
+
+/* Class = "UIButton"; normalTitle = "Động vật không xương sống"; ObjectID = "oj2-vd-589"; */
+"oj2-vd-589.normalTitle" = "Động vật không xương sống";
+
+/* Class = "UILabel"; text = "Mar 27, 2016 12:18:34 AM"; ObjectID = "rT4-A3-mdQ"; */
+"rT4-A3-mdQ.text" = "Mar 27, 2016 12:18:34 AM";
+
+/* Class = "UILabel"; text = "Liên hệ: 14"; ObjectID = "uMC-HK-66J"; */
+"uMC-HK-66J.text" = "Liên hệ: 14";
+
+/* Class = "UILabel"; text = "Mặc định"; ObjectID = "vbC-6o-aRA"; */
+"vbC-6o-aRA.text" = "Mặc định";
+
+/* Class = "UILabel"; text = "Nhập vị trí"; ObjectID = "vlo-7R-i9W"; */
+"vlo-7R-i9W.text" = "Nhập vị trí";
+
+/* Class = "UIButton"; normalTitle = "Xem bản đồ"; ObjectID = "w1X-9e-QGT"; */
+"w1X-9e-QGT.normalTitle" = "Xem bản đồ";
+
+/* Class = "UILabel"; text = "Tải thêm Loài khu vực cụ thể và liên hệ"; ObjectID = "w7g-vm-V7v"; */
+"w7g-vm-V7v.text" = "Tải thêm Loài khu vực cụ thể và liên hệ";
+
+/* Class = "UIButton"; normalTitle = "Chọn ảnh hiện có"; ObjectID = "wLo-zJ-ZEI"; */
+"wLo-zJ-ZEI.normalTitle" = "Chọn ảnh hiện có";
+
+/* Class = "UILabel"; text = "Nhỏ hơn tay bạn"; ObjectID = "wSi-jA-9Ff"; */
+"wSi-jA-9Ff.text" = "Nhỏ hơn tay bạn";
+
+/* Class = "UILabel"; text = "Vây"; ObjectID = "xQA-cp-2Vn"; */
+"xQA-cp-2Vn.text" = "Vây";
+
+/* Class = "UITextView"; text = "Miêu tả ngắn ngọn hành vi vi phạm. Ví dụ: \'Bán các loài bò sát được bảo vệ\'"; ObjectID = "xpw-I4-onO"; */
+"xpw-I4-onO.text" = "Miêu tả ngắn ngọn hành vi vi phạm. Ví dụ: \'Bán các loài bò sát được bảo vệ\'";
+
+/* Class = "UIButton"; normalTitle = "Chụp ảnh"; ObjectID = "xt8-QP-YaD"; */
+"xt8-QP-YaD.normalTitle" = "Chụp ảnh";
+
+/* Class = "UILabel"; text = "Báo cáo sự việc (1) - Ảnh chính"; ObjectID = "xxR-Rf-XeI"; */
+"xxR-Rf-XeI.text" = "Báo cáo sự việc (1) - Ảnh chính";
+
+/* Class = "UIButton"; normalTitle = "Hủy"; ObjectID = "yB8-1M-NlO"; */
+"yB8-1M-NlO.normalTitle" = "Hủy";
+
+/* Class = "UILabel"; text = "Số lượng"; ObjectID = "yUd-gW-Q9U"; */
+"yUd-gW-Q9U.text" = "Số lượng";
+
+/* Class = "UIButton"; normalTitle = "Xem chi tiết"; ObjectID = "ygX-CO-Wcu"; */
+"ygX-CO-Wcu.normalTitle" = "Xem chi tiết";
+
+/* Class = "UIButton"; normalTitle = "Bộ cá"; ObjectID = "z7N-RI-hy0"; */
+"z7N-RI-hy0.normalTitle" = "Bộ cá";
+
+/* Class = "UIButton"; normalTitle = "Nộp báo cáo"; ObjectID = "zFt-iH-Vbc"; */
+"zFt-iH-Vbc.normalTitle" = "Nộp báo cáo";
+
+/* Class = "UILabel"; text = "Loài"; ObjectID = "zMw-M7-tKN"; */
+"zMw-M7-tKN.text" = "Loài";

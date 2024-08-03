@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DashboardViewController tableView:cellForRowAtIndexPath:]:DashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentObj">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DashboardViewController viewDidLoad]:DashboardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "regions[0]-&gt;region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[RegionStats getRegionStatForID:moc:]:RegionStats.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,372 @@
+
+/* Class = "UITextField"; text = "Masukkan nama spesies"; ObjectID = "03n-Df-QBL"; */
+"03n-Df-QBL.text" = "Masukkan nama spesies";
+
+/* Class = "UITextView"; text = "Berikan penjelasan rinci tentang pelanggaran (hinga 2048 karakter)"; ObjectID = "16h-T6-ZiK"; */
+"16h-T6-ZiK.text" = "Berikan penjelasan rinci tentang pelanggaran (hinga 2048 karakter)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1OE-Lt-nCI"; */
+"1OE-Lt-nCI.text" = "Label";
+
+/* Class = "UILabel"; text = "Berbagi laporan melalui e-mail"; ObjectID = "1au-Le-8Um"; */
+"1au-Le-8Um.text" = "Berbagi laporan melalui e-mail";
+
+/* Class = "UIButton"; normalTitle = "Memotret"; ObjectID = "2Gf-1N-NUk"; */
+"2Gf-1N-NUk.normalTitle" = "Memotret";
+
+/* Class = "UILabel"; text = "Nomor lisensi kendaraan / kapal"; ObjectID = "32a-Rv-LtA"; */
+"32a-Rv-LtA.text" = "Nomor lisensi kendaraan / kapal";
+
+/* Class = "UILabel"; text = "Kondisi"; ObjectID = "3Ou-dk-WO6"; */
+"3Ou-dk-WO6.text" = "Kondisi";
+
+/* Class = "UILabel"; text = "Mengidentifikasi Spesies"; ObjectID = "4RC-YF-IS2"; */
+"4RC-YF-IS2.text" = "Mengidentifikasi Spesies";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "4Sb-bV-4yr"; */
+"4Sb-bV-4yr.normalTitle" = "Membatalkan";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel"; ObjectID = "4VI-lH-81m"; */
+"4VI-lH-81m.text" = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "4Zu-06-RBZ"; */
+"4Zu-06-RBZ.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Mati"; ObjectID = "5dq-eV-nJ5"; */
+"5dq-eV-nJ5.text" = "Mati";
+
+/* Class = "UIButton"; normalTitle = "Tampilkan Daftar"; ObjectID = "6VA-mK-jjK"; */
+"6VA-mK-jjK.normalTitle" = "Tampilkan Daftar";
+
+/* Class = "UIButton"; normalTitle = "Diperdagangkan sebagai / produk derivatif"; ObjectID = "6dQ-lD-yUO"; */
+"6dQ-lD-yUO.normalTitle" = "Diperdagangkan sebagai / produk derivatif";
+
+/* Class = "UILabel"; text = "Jangan tampilkan pesan ini lagi"; ObjectID = "6qk-Be-9Tk"; */
+"6qk-Be-9Tk.text" = "Jangan tampilkan pesan ini lagi";
+
+/* Class = "UILabel"; text = "Ekor"; ObjectID = "7Bo-Ai-ux2"; */
+"7Bo-Ai-ux2.text" = "Ekor";
+
+/* Class = "UILabel"; text = "Laporan Insiden (2) - Info Dasar"; ObjectID = "7ZU-AF-wnd"; */
+"7ZU-AF-wnd.text" = "Laporan Insiden (2) - Info Dasar";
+
+/* Class = "UITextField"; text = "Masukkan nama kontak"; ObjectID = "7ih-aN-MpT"; */
+"7ih-aN-MpT.text" = "Masukkan nama kontak";
+
+/* Class = "UILabel"; text = "Nama kapal"; ObjectID = "7mH-U4-hFE"; */
+"7mH-U4-hFE.text" = "Nama kapal";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "84J-Sx-rYS"; */
+"84J-Sx-rYS.normalTitle" = "Membatalkan";
+
+/* Class = "UIButton"; normalTitle = "Burung"; ObjectID = "AY4-hH-c23"; */
+"AY4-hH-c23.normalTitle" = "Burung";
+
+/* Class = "UIButton"; normalTitle = "Semua jenis"; ObjectID = "AZ1-5k-iqN"; */
+"AZ1-5k-iqN.normalTitle" = "Semua jenis";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AkB-dl-D9D"; */
+"AkB-dl-D9D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reptil"; ObjectID = "B3x-5t-Nda"; */
+"B3x-5t-Nda.normalTitle" = "Reptil";
+
+/* Class = "UILabel"; text = "Daftar Kejadian"; ObjectID = "B8h-Xa-TED"; */
+"B8h-Xa-TED.text" = "Daftar Kejadian";
+
+/* Class = "UITextView"; text = "Menjelaskan metode yang digunakan untuk melakukan pelanggaran (hingga 2048 karakter)"; ObjectID = "BIO-Y5-xaI"; */
+"BIO-Y5-xaI.text" = "Menjelaskan metode yang digunakan untuk melakukan pelanggaran (hingga 2048 karakter)";
+
+/* Class = "UITextField"; text = "Masukkan Lokasi"; ObjectID = "BkY-yt-OX2"; */
+"BkY-yt-OX2.text" = "Masukkan Lokasi";
+
+/* Class = "UIButton"; normalTitle = "Hewan Mamalia"; ObjectID = "CF9-MO-aCt"; */
+"CF9-MO-aCt.normalTitle" = "Hewan Mamalia";
+
+/* Class = "UIButton"; normalTitle = "Memilih lain yang ada"; ObjectID = "Cyy-Cx-tt5"; */
+"Cyy-Cx-tt5.normalTitle" = "Memilih lain yang ada";
+
+/* Class = "UILabel"; text = "Memotret"; ObjectID = "DKF-7l-Rc2"; */
+"DKF-7l-Rc2.text" = "Memotret";
+
+/* Class = "UILabel"; text = "Deskripsi pelanggaran terperinci"; ObjectID = "DNO-lK-Rub"; */
+"DNO-lK-Rub.text" = "Deskripsi pelanggaran terperinci";
+
+/* Class = "UIButton"; normalTitle = "Berikutnya"; ObjectID = "DQm-xg-H8D"; */
+"DQm-xg-H8D.normalTitle" = "Berikutnya";
+
+/* Class = "UIButton"; normalTitle = "Menyerahkan Laporan"; ObjectID = "DTg-fK-28A"; */
+"DTg-fK-28A.normalTitle" = "Menyerahkan Laporan";
+
+/* Class = "UILabel"; text = "ver 1.0"; ObjectID = "E3z-Dn-By3"; */
+"E3z-Dn-By3.text" = "ver 1.0";
+
+/* Class = "UILabel"; text = ".00"; ObjectID = "FEW-c7-VY6"; */
+"FEW-c7-VY6.text" = ".00";
+
+/* Class = "UIButton"; normalTitle = "Selesai"; ObjectID = "Fyk-48-F40"; */
+"Fyk-48-F40.normalTitle" = "Selesai";
+
+/* Class = "UILabel"; text = "Direktori Kontak"; ObjectID = "H20-Kc-re2"; */
+"H20-Kc-re2.text" = "Direktori Kontak";
+
+/* Class = "UILabel"; text = "Tandai laporan sebagai pribadi"; ObjectID = "H2c-BK-lI2"; */
+"H2c-BK-lI2.text" = "Mark report as private";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "HhH-GM-gQV"; */
+"HhH-GM-gQV.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Wilayah pelaoran Anda"; ObjectID = "JHE-hC-saw"; */
+"JHE-hC-saw.text" = "Wilayah pelaoran Anda";
+
+/* Class = "UILabel"; text = "Metode"; ObjectID = "JPz-MI-OLe"; */
+"JPz-MI-OLe.text" = "Metode";
+
+/* Class = "UILabel"; text = "Spesies: 114"; ObjectID = "JY9-pU-pVU"; */
+"JY9-pU-pVU.text" = "Spesies: 114";
+
+/* Class = "UILabel"; text = "Paruh"; ObjectID = "KLe-D0-bhR"; */
+"KLe-D0-bhR.text" = "Paruh";
+
+/* Class = "UILabel"; text = "Anda dapat mengunduh spesies tambahan dan kontak disini"; ObjectID = "KRt-sp-dxd"; */
+"KRt-sp-dxd.text" = "Anda dapat mengunduh spesies tambahan dan kontak disini";
+
+/* Class = "UITextField"; text = "Masukkan Lokasi"; ObjectID = "LX6-4X-edi"; */
+"LX6-4X-edi.text" = "Masukkan Lokasi";
+
+/* Class = "UILabel"; text = "Hewan utuh"; ObjectID = "Lu2-uz-9YM"; */
+"Lu2-uz-9YM.text" = "Hewan utuh";
+
+/* Class = "UIButton"; normalTitle = "Menutup Spesies"; ObjectID = "M2I-6N-NZ8"; */
+"M2I-6N-NZ8.normalTitle" = "Menutup Spesies";
+
+/* Class = "UILabel"; text = "$US"; ObjectID = "N1b-BT-MyG"; */
+"N1b-BT-MyG.text" = "$US";
+
+/* Class = "UILabel"; text = "Pelanggaran"; ObjectID = "OC5-Nx-vuw"; */
+"OC5-Nx-vuw.text" = "Pelanggaran";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OR1-5s-6sA"; */
+"OR1-5s-6sA.text" = "Label";
+
+/* Class = "UILabel"; text = "Tujuan"; ObjectID = "R7W-1E-ipW"; */
+"R7W-1E-ipW.text" = "Tujuan";
+
+/* Class = "UILabel"; text = "Rincian kendaraan / kapal yang bersalah"; ObjectID = "RQv-Jl-00c"; */
+"RQv-Jl-00c.text" = "Rincian kendaraan / kapal yang bersalah";
+
+/* Class = "UILabel"; text = "Deskripsi"; ObjectID = "See-pJ-3OL"; */
+"See-pJ-3OL.text" = "Deskripsi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "St6-X1-YNX"; */
+"St6-X1-YNX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "Swq-3w-wcN"; */
+"Swq-3w-wcN.normalTitle" = "Membatalkan";
+
+/* Class = "UILabel"; text = "Daftar Kejadian"; ObjectID = "TLp-gt-lcl"; */
+"TLp-gt-lcl.text" = "Daftar Kejadian";
+
+/* Class = "UIButton"; normalTitle = "Mengambil gambar lainnya"; ObjectID = "TrI-Wj-dCQ"; */
+"TrI-Wj-dCQ.normalTitle" = "Mengambil gambar lainnya";
+
+/* Class = "UILabel"; text = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note"; ObjectID = "UGn-Aq-L7S"; */
+"UGn-Aq-L7S.text" = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note";
+
+/* Class = "UIButton"; normalTitle = "Atur"; ObjectID = "UHK-iv-wBr"; */
+"UHK-iv-wBr.normalTitle" = "Atur";
+
+/* Class = "UIButton"; normalTitle = "Rincian lebih lanjut"; ObjectID = "ULM-J9-hCT"; */
+"ULM-J9-hCT.normalTitle" = "Rincian lebih lanjut";
+
+/* Class = "UILabel"; text = "Pelaporan perdagangan/penyelundupan dan kejahatan satwa liar mempunyai potensi menjadi berbahaya. Pengguna WildScan harus selalu berhati-hati ketika memotret tersangka kejahatan satwa liar dan seharusnya tidak menempatkan dirinya dalam bahaya untuk melaporkan kejahatan tersebut."; ObjectID = "ULm-5E-8vy"; */
+"ULm-5E-8vy.text" = "Pelaporan perdagangan/penyelundupan dan kejahatan satwa liar mempunyai potensi menjadi berbahaya. Pengguna WildScan harus selalu berhati-hati ketika memotret tersangka kejahatan satwa liar dan seharusnya tidak menempatkan dirinya dalam bahaya untuk melaporkan kejahatan tersebut.";
+
+/* Class = "UIButton"; normalTitle = "Hewan Ampibi"; ObjectID = "UZR-AM-14A"; */
+"UZR-AM-14A.normalTitle" = "Hewan Ampibi";
+
+/* Class = "UIButton"; normalTitle = "Tampilkan di peta"; ObjectID = "Uwc-tQ-L4Q"; */
+"Uwc-tQ-L4Q.normalTitle" = "Tampilkan di peta";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "V8i-ul-7if"; */
+"V8i-ul-7if.normalTitle" = "Membatalkan";
+
+/* Class = "UILabel"; text = "Jika dicentang, aplikasi email klien Anda akan terbuka dengan pesan baru yang berisi rincian laporan"; ObjectID = "V9m-AI-I5z"; */
+"V9m-AI-I5z.text" = "Jika dicentang, aplikasi email klien Anda akan terbuka dengan pesan baru yang berisi rincian laporan";
+
+/* Class = "UILabel"; text = "Individu"; ObjectID = "WnE-Fu-reX"; */
+"WnE-Fu-reX.text" = "Individu";
+
+/* Class = "UILabel"; text = "Lokasi"; ObjectID = "Wt0-g5-jtO"; */
+"Wt0-g5-jtO.text" = "Lokasi";
+
+/* Class = "UIButton"; normalTitle = "Semua jenis"; ObjectID = "XKR-ff-aaT"; */
+"XKR-ff-aaT.normalTitle" = "Semua jenis";
+
+/* Class = "UIButton"; normalTitle = "Tombol"; ObjectID = "Xe6-to-W4X"; */
+"Xe6-to-W4X.normalTitle" = "Tombol";
+
+/* Class = "UITextField"; placeholder = "Mengetik nama umum spesies"; ObjectID = "Y2n-zI-Brb"; */
+"Y2n-zI-Brb.placeholder" = "Mengetik nama umum spesies";
+
+/* Class = "UILabel"; text = "Perpustakaan Spesies"; ObjectID = "YQu-Ui-zWI"; */
+"YQu-Ui-zWI.text" = "Perpustakaan Spesies";
+
+/* Class = "UILabel"; text = "Nama"; ObjectID = "YWa-OZ-BHa"; */
+"YWa-OZ-BHa.text" = "Nama";
+
+/* Class = "UILabel"; text = "Lisensi hak cipta"; ObjectID = "Zgt-Hc-HlE"; */
+"Zgt-Hc-HlE.text" = "Lisensi hak cipta";
+
+/* Class = "UILabel"; text = "Tanggal & Waktu"; ObjectID = "Zrj-ta-eCI"; */
+"Zrj-ta-eCI.text" = "Tanggal & Waktu";
+
+/* Class = "UIButton"; normalTitle = "Memilih yang ada"; ObjectID = "atg-N1-KJs"; */
+"atg-N1-KJs.normalTitle" = "Memilih yang ada";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "avo-Gn-9B5"; */
+"avo-Gn-9B5.text" = "Label";
+
+/* Class = "UILabel"; text = "Default/otomatis penerima laporan"; ObjectID = "bH8-t5-Iri"; */
+"bH8-t5-Iri.text" = "Default/otomatis penerima laporan";
+
+/* Class = "UILabel"; text = "Campur"; ObjectID = "bR1-If-5ZC"; */
+"bR1-If-5ZC.text" = "Campur";
+
+/* Class = "UILabel"; text = "Memeriksa kontak baru"; ObjectID = "bWf-Yt-5Kz"; */
+"bWf-Yt-5Kz.text" = "Memeriksa kontak baru";
+
+/* Class = "UILabel"; text = "Peta kejadian"; ObjectID = "bqF-5g-3l2"; */
+"bqF-5g-3l2.text" = "Peta kejadian";
+
+/* Class = "UILabel"; text = "Kontak"; ObjectID = "cCh-PJ-OV8"; */
+"cCh-PJ-OV8.text" = "Kontak";
+
+/* Class = "UILabel"; text = "Global (default/otomatis)"; ObjectID = "dFS-Sb-4MH"; */
+"dFS-Sb-4MH.text" = "Global (default/otomatis)";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "dPT-Cc-ums"; */
+"dPT-Cc-ums.normalTitle" = "Membatalkan";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "do4-gQ-gr5"; */
+"do4-gQ-gr5.text" = "Label";
+
+/* Class = "UILabel"; text = "Asal"; ObjectID = "eDI-gi-Hst"; */
+"eDI-gi-Hst.text" = "Asal";
+
+/* Class = "UILabel"; text = "Sinkronisasi data"; ObjectID = "efA-Q7-SGd"; */
+"efA-Q7-SGd.text" = "Sinkronisasi data";
+
+/* Class = "UILabel"; text = "Gambar"; ObjectID = "fMs-D3-6vG"; */
+"fMs-D3-6vG.text" = "Gambar";
+
+/* Class = "UILabel"; text = "Peringatan!"; ObjectID = "fet-hI-lmj"; */
+"fet-hI-lmj.text" = "Peringatan!";
+
+/* Class = "UILabel"; text = "Laporan pribadi tidak akan dibagikan ke penguna WildScan lain"; ObjectID = "g25-wx-JF8"; */
+"g25-wx-JF8.text" = "Laporan pribadi tidak akan dibagikan ke penguna WildScan lain";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g2e-vl-n2A"; */
+"g2e-vl-n2A.text" = "Label";
+
+/* Class = "UILabel"; text = "Global (default/otomatis)"; ObjectID = "hGV-it-zv0"; */
+"hGV-it-zv0.text" = "Global (default/otomatis)";
+
+/* Class = "UILabel"; text = "Perkiraan nilai (USD)"; ObjectID = "hUg-r4-O0b"; */
+"hUg-r4-O0b.text" = "Perkiraan nilai (USD)";
+
+/* Class = "UILabel"; text = "Laporan insiden (4) - Meninjau dan menyerahkan"; ObjectID = "hiY-Jz-M2O"; */
+"hiY-Jz-M2O.text" = "Laporan insiden (4) - Meninjau dan menyerahkan";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j25-vV-NRF"; */
+"j25-vV-NRF.text" = "Label";
+
+/* Class = "UILabel"; text = "Hidup"; ObjectID = "kf9-i5-f4Q"; */
+"kf9-i5-f4Q.text" = "Hidup";
+
+/* Class = "UILabel"; text = "|Kerang"; ObjectID = "l2I-yP-8Q2"; */
+"l2I-yP-8Q2.text" = "|Kerang";
+
+/* Class = "UILabel"; text = "Sayap"; ObjectID = "lU7-IS-JqN"; */
+"lU7-IS-JqN.text" = "Sayap";
+
+/* Class = "UILabel"; text = "Kg"; ObjectID = "lXi-hm-Dwt"; */
+"lXi-hm-Dwt.text" = "Kg";
+
+/* Class = "UILabel"; text = "Rute"; ObjectID = "laT-aB-cTC"; */
+"laT-aB-cTC.text" = "Rute";
+
+/* Class = "UILabel"; text = "Spesies dan wilayah kontak"; ObjectID = "lff-ln-Nkz"; */
+"lff-ln-Nkz.text" = "Spesies dan wilayah kontak";
+
+/* Class = "UIButton"; normalTitle = "Tanaman"; ObjectID = "lnz-SC-jJA"; */
+"lnz-SC-jJA.normalTitle" = "Tanaman";
+
+/* Class = "UIButton"; normalTitle = "Mengidentifikasi"; ObjectID = "m9q-kv-N0H"; */
+"m9q-kv-N0H.normalTitle" = "Mengidentifikasi";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "nov-8U-EcS"; */
+"nov-8U-EcS.normalTitle" = "Membatalkan";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oNw-P2-ZkS"; */
+"oNw-P2-ZkS.text" = "Label";
+
+/* Class = "UILabel"; text = "Secara default/otomatis, laporan Anda akan dikirimkan ke tim WildScan yang akan meneruskannya kepada pihak berwenang. Anda dapat menambahkan kontak tertentu/spesifik yang akan menerima laporan "; ObjectID = "ohw-RM-5Gk"; */
+"ohw-RM-5Gk.text" = "Secara default/otomatis, laporan Anda akan dikirimkan ke tim WildScan yang akan meneruskannya kepada pihak berwenang. Anda dapat menambahkan kontak tertentu/spesifik yang akan menerima laporan ";
+
+/* Class = "UIButton"; normalTitle = "Hewan invertebrata"; ObjectID = "oj2-vd-589"; */
+"oj2-vd-589.normalTitle" = "Hewan invertebrata";
+
+/* Class = "UILabel"; text = "Mar 27, 2016 12:18:34 AM"; ObjectID = "rT4-A3-mdQ"; */
+"rT4-A3-mdQ.text" = "Mar 27, 2016 12:18:34 AM";
+
+/* Class = "UILabel"; text = "Kontak: 14"; ObjectID = "uMC-HK-66J"; */
+"uMC-HK-66J.text" = "Kontak: 14";
+
+/* Class = "UILabel"; text = "Tampilan secara default/otomatis galeri spesies"; ObjectID = "vbC-6o-aRA"; */
+"vbC-6o-aRA.text" = "Tampilan secara default/otomatis galeri spesies";
+
+/* Class = "UILabel"; text = "Masukkan Lokasi"; ObjectID = "vlo-7R-i9W"; */
+"vlo-7R-i9W.text" = "Masukkan Lokasi";
+
+/* Class = "UIButton"; normalTitle = "Tampilkan di peta"; ObjectID = "w1X-9e-QGT"; */
+"w1X-9e-QGT.normalTitle" = "Tampilkan di peta";
+
+/* Class = "UILabel"; text = "Unduh tambahan spesies spesifik wilayah dan kontak"; ObjectID = "w7g-vm-V7v"; */
+"w7g-vm-V7v.text" = "Unduh tambahan spesies spesifik wilayah dan kontak";
+
+/* Class = "UIButton"; normalTitle = "Memilih yang ada"; ObjectID = "wLo-zJ-ZEI"; */
+"wLo-zJ-ZEI.normalTitle" = "Memilih yang ada";
+
+/* Class = "UILabel"; text = "Lebih kecil dari tangan Anda"; ObjectID = "wSi-jA-9Ff"; */
+"wSi-jA-9Ff.text" = "Lebih kecil dari tangan Anda";
+
+/* Class = "UILabel"; text = "Sirip"; ObjectID = "xQA-cp-2Vn"; */
+"xQA-cp-2Vn.text" = "Sirip";
+
+/* Class = "UITextView"; text = "Jelaskan pelanggaran secara singkat. Sebagai contoh: 'Penjualan reptil yang dilindungi.'"; ObjectID = "xpw-I4-onO"; */
+"xpw-I4-onO.text" = "Jelaskan pelanggaran secara singkat. Sebagai contoh: 'Penjualan reptil yang dilindungi.'";
+
+/* Class = "UIButton"; normalTitle = "Memotret"; ObjectID = "xt8-QP-YaD"; */
+"xt8-QP-YaD.normalTitle" = "Memotret";
+
+/* Class = "UILabel"; text = "Laporan Insiden (1) - Gambar Utama"; ObjectID = "xxR-Rf-XeI"; */
+"xxR-Rf-XeI.text" = "Laporan Insiden (1) - Gambar Utama";
+
+/* Class = "UIButton"; normalTitle = "Membatalkan"; ObjectID = "yB8-1M-NlO"; */
+"yB8-1M-NlO.normalTitle" = "Membatalkan";
+
+/* Class = "UILabel"; text = "Jumlah"; ObjectID = "yUd-gW-Q9U"; */
+"yUd-gW-Q9U.text" = "Jumlah";
+
+/* Class = "UIButton"; normalTitle = "Melihat yang lainnya"; ObjectID = "ygX-CO-Wcu"; */
+"ygX-CO-Wcu.normalTitle" = "Melihat yang lainnya";
+
+/* Class = "UIButton"; normalTitle = "Ikan"; ObjectID = "z7N-RI-hy0"; */
+"z7N-RI-hy0.normalTitle" = "Ikan";
+
+/* Class = "UIButton"; normalTitle = "Menyerahkan Laporan"; ObjectID = "zFt-iH-Vbc"; */
+"zFt-iH-Vbc.normalTitle" = "Menyerahkan Laporan";
+
+/* Class = "UILabel"; text = "Spesies"; ObjectID = "zMw-M7-tKN"; */
+"zMw-M7-tKN.text" = "Spesies";

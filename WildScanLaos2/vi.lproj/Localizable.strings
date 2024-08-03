@@ -1,0 +1,849 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Wed, 25 May 2016 15:46:00 +0100
+ */
+
+/*  */
+"action_synchronize" = "Đồng bộ dữ liệu";
+
+/*  */
+"action_info" = "Trợ giúp và Thông tin";
+
+/*  */
+"action_settings" = "Cài đặt";
+
+/*  */
+"info_title" = "Thông tin về WildScan";
+
+/*  */
+"info_about" = "Ứng dụng WildScan";
+
+/*  */
+"info_eula" = "Thỏa Thuận Giấy Phép Người Dùng Cuối";
+
+/*  */
+"info_consumer" = "Lời khuyên chung cho Người tiêu dùng";
+
+/*  */
+"info_responder" = "Lời khuyên chung cho Lực lượng Phản ứng kịp thời";
+
+/*  */
+"info_law_enforcement" = "Lời khuyên chung cho Cán bộ thực thi pháp luật";
+
+/*  */
+"info_national_laws" = "Luật pháp quốc gia về động vật hoang dã";
+
+/*  */
+"info_contributors" = "Tổ chức đóng góp";
+
+/*  */
+"info_credits" = "Bản quyền";
+
+/*  */
+"species_lib_header_title" = "Thư viện loài";
+
+/*  */
+"species_lib_search_by_name_hint" = "Nhập tên loài";
+
+/*  */
+"species_lib_select_dlg_text" = "Lựa chọn loài để báo cáo hoặc xem chi tiết về loài?";
+
+/*  */
+"species_lib_select_dlg_btn_select" = "Lựa chọn loài";
+
+/*  */
+"species_lib_select_dlg_btn_details" = "Xem chi tiết";
+
+/*  */
+"species_details_label_cites" = "Phụ lục của CITES";
+
+/*  */
+"species_details_label_cites_appendix_1" = "Phụ lục I";
+
+/*  */
+"species_details_label_cites_appendix_2" = "Phụ lục II";
+
+/*  */
+"species_details_label_cites_appendix_3" = "Phụ lục III";
+
+/*  */
+"species_details_label_status" = "Danh sách đỏ của IUCN";
+
+/*  */
+"species_details_label_status_lc" = "Ít quan tâm";
+
+/*  */
+"species_details_label_status_nt" = "Sắp bị đe dọa";
+
+/*  */
+"species_details_label_status_vu" = "sắp nguy cấp";
+
+/*  */
+"species_details_label_status_en" = "Nguy cấp";
+
+/*  */
+"species_details_label_status_cr" = "Rất nguy cấp";
+
+/*  */
+"species_details_label_status_ew" = "Extinct in the Wild";
+
+/*  */
+"species_details_label_status_ex" = "Extinct";
+
+/*  */
+"species_details_label_status_na" = "Không áp dụng";
+
+/*  */
+"species_details_label_warning" = "Cảnh cáo";
+
+/*  */
+"species_details_label_warning_disease_risk" = "nguy cơ mang bệnh";
+
+/*  */
+"species_details_label_warning_disease_risk_low" = "Thấp";
+
+/*  */
+"species_details_label_warning_disease_risk_medium" = "Trung bình";
+
+/*  */
+"species_details_label_warning_disease_risk_high" = "Cao";
+
+/*  */
+"species_details_label_warning_dangerous" = "Nguy hiểm";
+
+/*  */
+"species_details_label_warning_poisonous" = "Độc hại";
+
+/*  */
+"species_details_label_warning_nocturnal" = "Hoạt động về đêm";
+
+/*  */
+"species_details_label_id_clues" = "Đầu mối nhận biết";
+
+/*  */
+"species_details_label_similar" = "Loài vật tương tự";
+
+/*  */
+"species_details_label_enforcement" = "Lời khuyên cho Cán bộ thực thi pháp luật";
+
+/*  */
+"species_details_label_consumer" = "Lời khuyên cho Người tiêu dùng";
+
+/*  */
+"species_details_label_responder" = "Lời khuyên cho Lực lượng Phản ứng kịp thời";
+
+/*  */
+"species_details_label_traded_as" = "Được buôn bán dưới hình thức";
+
+/*  */
+"species_details_label_common_methods" = "Phương thức buôn lậu phổ biến";
+
+/*  */
+"species_details_label_aka" = "Còn được biết đến như";
+
+/*  */
+"species_details_label_distribution" = "Phân phối";
+
+/*  */
+"species_details_label_size" = "Kích thước và Cân nặng trung bình";
+
+/*  */
+"species_details_label_habitat" = "Nơi cư trú";
+
+/*  */
+"species_details_label_diseases" = "Bệnh truyền nhiễm";
+
+/*  */
+"species_details_label_notes" = "Ghi chú";
+
+/*  */
+"species_details_failed_set_fav" = "Thiết lập yêu thích không thành công";
+
+/*  */
+"species_details_photo_license" = "Giấy phép hình ảnh\n%1$s";
+
+/*  */
+"species_details_no_images" = "Không có hình ảnh loài hiện đang có sẵn";
+
+/*  */
+"species_id_wizard_header_title" = "Đặc điểm nhận dạng loài";
+
+/*  */
+"contacts_list_header_title" = "Danh mục thông tin liên hệ";
+
+/*  */
+"contacts_list_search_by_name_hint" = "Nhập tên liên hệ";
+
+/* <string name="contacts_list_label_email">Email</string>
+ <string name="contacts_list_label_phone">Điện thoại</string> */
+"events_list_header_title" = "Liệt kê các sự kiện";
+
+/*  */
+"events_list_header_btn_show_on_map" = "Xem bản đồ";
+
+/*  */
+"events_list_header_btn_view_more" = "Xem chi tiết";
+
+/*  */
+"events_list_fragment_title" = "Sự kiện gần đây";
+
+/*  */
+"events_list_loading_text" = "Truy lại sự kiện…";
+
+/*  */
+"events_list_empty_text" = "Không có sự kiện";
+
+/*  */
+"event_hint_country" = "Quốc gia không rõ";
+
+/*  */
+"event_hint_date" = "Ngày không rõ";
+
+/*  */
+"event_hint_species" = "Loài chưa xác định";
+
+/*  */
+"event_hint_description" = "Không có mô tả sự việc";
+
+/*  */
+"events_map_header_title" = "Bản đồ sự kiện";
+
+/*  */
+"events_map_header_btn_next" = "Tiếp";
+
+/*  */
+"events_map_header_btn_show_list" = "Xem danh sách";
+
+/*  */
+"event_details_offense_label" = "Hành vi vi phạm";
+
+/*  */
+"event_details_address_label" = "Địa chỉ";
+
+/*  */
+"event_details_country_label" = "Quốc gia";
+
+/*  */
+"event_details_datetime_label" = "Ngày tháng năm";
+
+/*  */
+"event_details_species_label" = "Loài";
+
+/*  */
+"event_details_amount_label" = "Số lượng";
+
+/*  */
+"event_details_condition_label" = "Tình trạng";
+
+/*  */
+"event_details_unknown" = "Không rõ";
+
+/*  */
+"report_wizard_screen_1_title" = "Báo cáo sự việc (1) - Ảnh chính";
+
+/*  */
+"report_wizard_screen_2_title" = "Báo cáo sự việc (2) - Thông tin cơ bản";
+
+/*  */
+"report_wizard_screen_3_title" = "Báo cáo sự việc (3) - Thông tin cơ bản";
+
+/*  */
+"report_wizard_screen_4_title" = "Báo cáo sự việc (4) - Xem lại và Nộp báo cáo";
+
+/*  */
+"report_wizard_location_pick_title" = "Báo cáo sự việc - Lựa chọn địa điểm";
+
+/*  */
+"report_wizard_screen_1_capture_label" = "Chụp ảnh";
+
+/*  */
+"report_wizard_screen_1_browse_label" = "Chọn ảnh hiện có";
+
+/*  */
+"report_wizard_screen_2_time_label" = "Ngày & Thời gian";
+
+/*  */
+"report_wizard_screen_2_location_label" = "Địa điểm";
+
+/*  */
+"report_wizard_screen_2_offense_label" = "Hành vi vi phạm";
+
+/*  */
+"report_wizard_screen_2_offense_hint" = "Miêu tả ngắn ngọn hành vi vi phạm. Ví dụ: 'Bán các loài bò sát được bảo vệ'";
+
+/*  */
+"report_wizard_screen_2_species_label" = "Loài";
+
+/*  */
+"report_wizard_screen_2_species_hint" = "Nhập tên thông thường của loài";
+
+/*  */
+"report_wizard_screen_2_amount_label" = "Số lượng";
+
+/*  */
+"report_wizard_screen_2_amount_unit_label" = "Số cá thể loài";
+
+/*  */
+"report_wizard_screen_2_amount_weight_label" = "Khối lượng (Kg)";
+
+/*  */
+"report_wizard_screen_2_condition_label" = "Tình trạng";
+
+/*  */
+"report_wizard_screen_2_condition_alive_label" = "Còn sống";
+
+/*  */
+"report_wizard_screen_2_condition_dead_label" = "Đã chết";
+
+/*  */
+"report_wizard_screen_2_condition_mixed_label" = "Cả hai";
+
+/*  */
+"report_wizard_screen_3_offense_details_label" = "Miêu tả chi tiết hành vi vi phạm";
+
+/*  */
+"report_wizard_screen_3_offense_details_hint" = "Cung cấp miêu tả chi tiết về hành vi vi phạm (tối đa 2048 kí tự)";
+
+/*  */
+"report_wizard_screen_3_method_label" = "Phương pháp";
+
+/*  */
+"report_wizard_screen_3_method_hint" = "Miêu tả các phương pháp được sử dụng để thực hiện hành vi vi phạm";
+
+/*  */
+"report_wizard_screen_3_value_label" = "Ước tính giá trị";
+
+/*  */
+"report_wizard_screen_3_value_usd" = "Đô la Mỹ";
+
+/*  */
+"report_wizard_screen_3_route_label" = "Tuyến đường";
+
+/*  */
+"report_wizard_screen_3_origin_label" = "Nguồn gốc";
+
+/*  */
+"report_wizard_screen_3_destination_label" = "Điểm đến";
+
+/*  */
+"report_wizard_screen_3_vessel_label" = "Chi tiết về phương tiện vi phạm";
+
+/*  */
+"report_wizard_screen_3_vessel_description_label" = "Miêu tả";
+
+/*  */
+"report_wizard_screen_3_vessel_id_label" = "Giấy phép #";
+
+/*  */
+"report_wizard_screen_3_vessel_name_label" = "Tên tàu";
+
+/*  */
+"report_wizard_screen_4_share_title" = "Tùy chọn Chia sẻ";
+
+/*  */
+"report_wizard_screen_4_add_contact" = "Thêm liên hệ";
+
+/*  */
+"report_wizard_screen_4_recipients_label" = "Liên hệ";
+
+/*  */
+"report_wizard_screen_4_share_text" = "Mặc định, báo cáo của bạn sẽ được gửi đến nhóm WildScan và nhóm sẽ chịu trách nhiệm chuyển báo cáo lên cơ quan chức năng có thẩm quyền. Bạn cũng có thể thêm các thông tin liên hệ cụ thể sẽ nhận báo cáo của bạn";
+
+/*  */
+"report_wizard_screen_4_share_email_label" = "Chia sẻ qua email";
+
+/*  */
+"report_wizard_screen_4_share_email_text" = "Nếu chọn mục này, ứng dụng email của bạn sẽ được mở với một thông điệp mới chứa các thông tin chi tiết về báo cáo";
+
+/*  */
+"report_wizard_screen_4_photos_label" = "Ảnh";
+
+/*  */
+"report_wizard_screen_4_add_photo_label" = "Ảnh sẽ được gửi kèm trong báo cáo. Nhấn chọn gửi thêm ảnh khác (tối đa 3 ảnh)";
+
+/*  */
+"report_wizard_screen_4_private_label" = "Đánh dấu báo cáo cá nhân";
+
+/*  */
+"report_wizard_screen_4_private_text" = "Các báo cáo cá nhân sẽ không được chia sẻ cho những người sử dụng WildScan khác";
+
+/*  */
+"report_wizard_confirm_discard_title" = "Hủy báo cáo?";
+
+/*  */
+"report_wizard_confirm_discard_message" = "Tất cả các thông tin sẽ bị hủy";
+
+/*  */
+"report_wizard_warning_dialog_title" = "Cảnh báo!";
+
+/*  */
+"report_wizard_warning_dialog_message" = "Việc thông báo các vụ việc buôn bán và tội phạm về ĐVHD có nguy cơ dẫn đến nguy hiểm cho người thông báo. Người sử dụng phần mềm WildScan luôn thận trọng khi chụp ảnh các vụ việc vi phạm về ĐVHD và không nên đặt mình vào tình huống nguy hiểm khi báo cáo vụ việc đó.";
+
+/*  */
+"report_wizard_location_loading" = "Truy lại địa chỉ…";
+
+/*  */
+"report_wizard_location_hint" = "Nhập vị trí";
+
+/*  */
+"report_submit_dialog_title" = "Nộp báo cáo";
+
+/*  */
+"report_submit_message" = "Nộp báo cáo đến WidScan…";
+
+/*  */
+"report_submit_success" = "Báo cáo được gửi thành công và sẽ được nhóm WildScan xem lại";
+
+/*  */
+"report_submit_fail" = "Không gửi được báo cáo. Báo cáo sẽ được gửi trong lần đồng bộ tiếp theo";
+
+/*  */
+"report_email_title" = "Báo cáo tự động đến ứng dụng WildScan [%1$s]";
+
+/*  */
+"report_email_section_name_datetime" = "Ngày/Thời gian";
+
+/*  */
+"report_email_section_name_location_lat" = "Vĩ độ địa điểm";
+
+/*  */
+"report_email_section_name_location_lon" = "Kinh độ địa điểm";
+
+/*  */
+"report_email_section_name_description" = "Mô tả sự việc";
+
+/*  */
+"report_email_section_name_species" = "Loài";
+
+/*  */
+"report_email_section_name_amount" = "Số";
+
+/*  */
+"report_email_section_name_condition" = "Tình trạng";
+
+/*  */
+"report_email_section_name_details" = "Chi tiết hành vi vi phạm";
+
+/*  */
+"report_email_section_name_method" = "Phương pháp";
+
+/*  */
+"report_email_section_name_value" = "Giá trị ước tính (Đô la Mỹ)";
+
+/*  */
+"report_email_section_name_origin_address" = "Địa chỉ điểm xuất phát";
+
+/*  */
+"report_email_section_name_origin_lat" = "Vĩ độ điểm xuất phát";
+
+/*  */
+"report_email_section_name_origin_lon" = "Kinh độ điểm xuất phát";
+
+/*  */
+"report_email_section_name_dest_address" = "Địa chỉ điểm đến";
+
+/*  */
+"report_email_section_name_dest_lat" = "Vĩ độ điểm đến";
+
+/*  */
+"report_email_section_name_dest_lon" = "Kinh độ điểm đến";
+
+/*  */
+"report_email_section_name_vessel_description" = "Mô tả phương tiện/tàu";
+
+/*  */
+"report_email_section_name_vessel_id" = "Giấy phép lái xe/tàu số";
+
+/*  */
+"report_email_section_name_vessel_name" = "Tên tàu";
+
+/*  */
+"location_picker_map_target_title" = "Địa điểm sự việc";
+
+/*  */
+"date_time_picker_dialog_title" = "Đặt ngày và thời gian";
+
+/*  */
+"sync_wifi_unavailable" = "Không kết nối được với mạng Wifi. Vui lòng kết nối với mạng Wifi để đồng bộ";
+
+/*  */
+"sync_initial_starting_message" = "Thực hiện đồng bộ lần đầu, có thể mất vài phút tùy thuộc vào tốc độ kết nối của bạn";
+
+/*  */
+"sync_starting_message" = "Đồng bộ dữ liệu";
+
+/*  */
+"sign_in_request_message" = "WildScan yêu cầu người dùng đăng nhập vào ứng dụng để đảm bảo sự an toàn thông tin sẽ được gửi thông qua các báo cáo. Hãy xác định danh tính của bạn bằng cách đăng nhập vào tài khoản Google.";
+
+/*  */
+"status_signing_in" = "Đang đăng nhập…";
+
+/*  */
+"status_signed_out" = "Thoát";
+
+/*  */
+"status_signed_in_as" = "Đăng nhập bằng %1$s";
+
+/*  */
+"status_sign_in_hint" = "Tình trạng đăng nhập";
+
+/*  */
+"status_play_services_error" = "Dịch vụ Google Play lỗi!!";
+
+/*  */
+"status_retrieve_id" = "Lấy lại Google ID";
+
+/*  */
+"status_registration_fail" = "Đăng ký tài khoản không thành";
+
+/*  */
+"status_new_user_signin_fail" = "Đăng nhập tài khoản mới không thành công, hãy khởi động lại ứng dụng";
+
+/*  */
+"status_login_failed" = "Đăng nhập thất bại";
+
+/*  */
+"status_server_error" = "Lỗi máy chủ. Vui lòng thử lại sau";
+
+/*  */
+"status_server_error_code" = "Lỗi máy chủ (%1$d)";
+
+/*  */
+"status_registering" = "Đăng ký tài khoản với WildScan";
+
+/*  */
+"status_signup_failed" = "Đăng ký thất bại";
+
+/*  */
+"status_signin_failed_abort" = "Đăng ký thất bại";
+
+/*  */
+"status_verification_failed" = "Xác minh người dùng không thành công";
+
+/*  */
+"status_verify" = "Xác minh tài khoản";
+
+/*  */
+"status_apk_exp_dl_fail_abort" = "Không thể tải tập tin APK mở rộng. Ứng dụng sẽ kết thúc";
+
+/*  */
+"status_apk_exp_download" = "Tải tập tin APK mở rộng (%1$d%%)";
+
+/*  */
+"pref_screen_title" = "Cài đặt Wildscan";
+
+/*  */
+"pref_label_sync" = "Thiết lập đồng bộ";
+
+/*  */
+"pref_summary_sync" = "Chỉ đồng bộ hoá khi kết nối wi-fi";
+
+/*  */
+"pref_label_gallery_view" = "Mặc định";
+
+/*  */
+"pref_summary_gallery_view" = "Chọn các hành vi mặc định của thư viện các loài";
+
+/*  */
+"pref_label_language" = "Chọn ngôn ngữ nội dung";
+
+/*  */
+"pref_summary_language" = "Chọn ngôn ngữ hiện thị nội dung ứng dụng";
+
+/*  */
+"pref_entry_device_language" = "Sử dụng ngôn ngữ của thiết bị";
+
+/*  */
+"pref_entry_current_supported" = "Chỉ %1$s hiện đang có sẵn";
+
+/*  */
+"pref_label_auto_contacts" = "Người nhận báo cáo mặc định";
+
+/*  */
+"pref_summary_auto_contacts" = "Ghi rõ địa chỉ liên lạc sẽ được thêm vào danh sách mặc định nhận báo cáo";
+
+/*  */
+"pref_label_save_report" = "Lưu báo cáo";
+
+/*  */
+"pref_summary_save_report" = "Giữ lại một bản sao của báo cáo sau khi gửi";
+
+/*  */
+"pref_label_show_warning" = "Hiển thị báo cáo cảnh báo";
+
+/*  */
+"pref_summary_show_warning" = "Hiện cửa sổ cảnh báo khi bắt đầu một báo cáo mới";
+
+/*  */
+"msg_map_no_events" = "Không có sự kiện để hiện thị trên bản đồ";
+
+/*  */
+"msg_contact_fav_empty" = "Không có thiết lập yêu thích, hiển thị tất cả các địa chỉ liên lạc";
+
+/*  */
+"msg_species_lib_no_close_events" = "Không có sự kiện có liên quan gần đây, hiển thị tất cả các loài";
+
+/*  */
+"msg_species_lib_no_location" = "Không thể xác định vị trí hiện tại, hiển thị tất cả các loài";
+
+/*  */
+"msg_species_lib_wizard_empty" = "Không có loài phù hợp với câu trả lời của bạn, vui lòng thử lại hoặc gửi báo cáo không rõ loài";
+
+/*  */
+"msg_species_lib_filter_empty" = "Không có loài khớp với bộ lọc lựa chọn, xin vui lòng chọn loài khác";
+
+/*  */
+"msg_species_lib_list_empty" = "Danh sách loài hiện đang trống";
+
+/*  */
+"msg_species_lib_fav_empty" = "Không có thiết lập yêu thích, hiện thị tất cả các loài";
+
+/*  */
+"msg_species_lib_search_not_found" = "Loài không có trong danh sách (bạn có một bộ lọc/thiết lập yêu thích nào?)";
+
+/*  */
+"msg_report_contact_no_email" = "Liên hiên với %1$s không có địa chỉ email và sẽ không được thêm vào email người nhận";
+
+/*  */
+"msg_report_gallery_photo_added" = "Hình ảnh từ bộ sưu tập đã được thêm vào báo cáo";
+
+/*  */
+"msg_no_adress_found" = "Không có địa chỉ";
+
+/*  */
+"msg_no_adress_for_location" = "Không có địa chỉ tìm thấy cho vị trí (lat: %1$5.2f, lon: %2$5.2f)";
+
+/*  */
+"msg_crc_check_fail" = "Fatal: kiểm tra lỗi CRC, huỷ bỏ";
+
+/*  */
+"no_network_connection_toast" = "Không có kết nối mạng";
+
+/*  */
+"OK" = "Chấp nhận";
+
+/*  */
+"yes" = "Đồng ý";
+
+/*  */
+"no" = "Không đồng ý";
+
+/*  */
+"apply" = "Áp dụng";
+
+/*  */
+"cancel" = "Hủy";
+
+/*  */
+"close" = "Đóng";
+
+/*  */
+"skip" = "Bỏ qua";
+
+/*  */
+"next" = "Tiếp";
+
+/*  */
+"capture" = "Chụp ảnh";
+
+/*  */
+"recapture" = "Chụp ảnh khác";
+
+/*  */
+"browse" = "Chọn ảnh hiện có";
+
+/*  */
+"rebrowse" = "Chọn một ảnh hiện có khác";
+
+/*  */
+"identify" = "Nhận dạng";
+
+/*  */
+"back" = "quay lại";
+
+/*  */
+"submit" = "Nộp báo cáo";
+
+/*  */
+"details" = "Chi tiết";
+
+/*  */
+"set" = "Cài đặt";
+
+/*  */
+"done" = "Hoàn thành";
+
+/*  */
+"discard" = "Loại bỏ";
+
+/*  */
+"dismiss" = "Bỏ qua";
+
+/*  */
+"do_not_show" = "Không hiển thị lại thông điệp này";
+
+/*  */
+"error" = "Lỗi";
+
+/*  */
+"exit" = "Thoát";
+
+/*  */
+"retry" = "Thử lại";
+
+/* Region Dialog text */
+"region_dialog_title" = "Choose your Region";
+
+/*  */
+"region_dialog_heading1" = "Khu vực báo cáo của bạn";
+
+/*  */
+"region_dialog_heading2" = "Loài & địa chỉ liên lạc khu vực";
+
+/*  */
+"region_dialog_sub_title" = "Tải thêm Loài khu vực cụ thể và liên hệ";
+
+/*  */
+"region_dialog_global" = "Toàn cầu ( Mặc định)";
+
+/*  */
+"region_dialog_south_asia" = "Đông Nam Á";
+
+/*  */
+"region_dialog_africa" = "Châu phi";
+
+/*  */
+"region_dialog_south_america" = "Nam Mỹ";
+
+/*  */
+"region_species" = "Loài";
+
+/*  */
+"region_contacts" = "Liên hệ";
+
+/*  */
+"text_coming_soon" = "Sắp Có";
+
+/*  */
+"dialog_tutorial_message" = "Bạn có thể tải về các loài bổ sung và liên hệ vào đây .";
+
+
+"species_filters_all" = "Tất cả các loại";
+
+"species_filters_mammal" = "Bộ thú";
+
+"species_filters_bird"  = "Bộ chim";
+
+"species_filters_fish" = "Bộ cá";
+
+"species_filters_reptile" = "Bò sát";
+
+"species_filters_amphibian" = "Động vật lưỡng cư";
+
+"species_filters_invetebrate" = "Động vật không xương sống";
+
+"species_filters_plants"  = "Thực vật";
+
+"species_filters_product"  = "Sản phẩm";
+
+"species_filters_close_species"  = "Đóng mục Thư viện loài";
+
+
+/* Wizard Questions */
+"id_wizard_questions_live_deceased" = "Đây là một cá thể nguyên vẹn (còn sống hoặc đã chết)@ hoặc một Bộ phận/Sản phẩm từ động vật hoang dã?";
+"id_wizard_questions_primary_covering" = "Lớp bao phủ chính trên cơ thể động vật là gì?";
+"id_wizard_questions_legs" = "How many legs does the animal have";
+"id_wizard_questions_color" = "Màu sắc chính của động vật?";
+"id_wizard_questions_size" = "Kích thước của động vật?";
+"id_wizard_questions_special_features" = "Động vật có các đặc điểm đặc biệt không?\n(Đánh dấu tất cả các mục phù hợp)";
+"id_wizard_questions_part_product" = "Mục đích sử dụng chính của bộ phận/sản phẩm ĐVHD?";
+"id_wizard_questions_material" = "Bộ phận/Sản phẩm làm từ chất liệu gì?";
+"id_wizard_questions_body_part" = "Đây là bộ phận nào trên cơ thể ĐVHD?";
+
+/*Intact/Animal */
+"id_wizard_prod_ani_intact_animal" = "Cá thể nguyên vẹn";
+"id_wizard_prod_ani_animal_part_product" = "Bộ phận/Sản phẩm ĐVHD";
+
+
+/* Covering */
+"id_wizard_covering_scales" = "Vảy";
+"id_wizard_covering_fur" = "Lông";
+"id_wizard_covering_feathers" = "Lông vũ";
+"id_wizard_covering_skin" = "Da";
+"id_wizard_covering_not_sure" = "Khác/Không rõ";
+
+/* Colors */
+"id_wizard_color_red" = "Đỏ";
+"id_wizard_color_orange" ="Da cam";
+"id_wizard_color_yellow" ="Vàng";
+"id_wizard_color_green" ="Xanh lá cây";
+"id_wizard_color_blue" ="Xanh nước biển";
+"id_wizard_color_purple" ="Tím";
+"id_wizard_color_gray" ="Xám";
+"id_wizard_color_brown" ="Nâu";
+"id_wizard_color_white" ="Trắng";
+"id_wizard_color_black" ="Đen";
+"id_wizard_color_not_sure" ="Khác/Không rõ";
+
+
+/* Size */
+"id_wizard_size_small_hand" = "Nhỏ hơn tay bạn";
+"id_wizard_size_average_dog" = "Nhỏ hơn một con chó cỡ trung bình";
+"id_wizard_size_smaller_than_you" = "Nhỏ hơn bạn";
+"id_wizard_size_larger_than_you" = "Lớn hơn bạn";
+"id_wizard_size_not_sure" = "Không rõ";
+
+
+
+/* Food Clothing etc */
+"id_wizard_purpose_food" = "Thực phẩm";
+"id_wizard_purpose_clothing" = "Quần áo";
+"id_wizard_purpose_jewelry" = "Trang sức";
+"id_wizard_purpose_trophy" = "Chiến lợi phẩm/Đồ trang trí";
+"id_wizard_purpose_medicine" = "Thuốc";
+"id_wizard_purpose_not_sure" = "Khác/Không rõ";
+
+
+
+
+/*Bone Leather etc */
+"id_wizard_material_bone" = "Xương";
+"id_wizard_material_pelt" = "Vỏ/Da";
+"id_wizard_material_shell" = "Vảy";
+"id_wizard_material_poweder" = "Bột";
+"id_wizard_material_meat" = "Thịt";
+"id_wizard_material_not_sure" = "Khác/Không rõ";
+
+
+
+
+/* Horn Tusk etc */
+"id_wizard_part_horn" = "Sừng";
+"id_wizard_part_tusk" = "Ngà";
+"id_wizard_part_skin" = "Da";
+"id_wizard_part_paw" = "Chân";
+"id_wizard_part_claw" = "Răng/Móng vuốt";
+"id_wizard_part_not_sure" = "Khác/Không rõ";
+
+
+/* Gallery Options */
+"pref_gallery_view_gallery" = "Thư viện ảnh";
+"pref_gallery_view_list" = "Danh sách";
+"pref_gallery_view_as_left" = "Giữ nguyên trạng thái như trước khi đóng ứng dụng";
+
+
+/* Sync Messages */
+"sync_progress_reports" = "Kiểm tra các...";
+"sync_progress_contents" = "Cập nhật nội dung...";
+"sync_progress_contacts" = "Cập nhật liên hệ...";
+"sync_progress_species" = "Cập nhật loài...";
+"sync_progress_sp" = "Cập nhật loài...";
+"sync_progress_events" = "Kiểm tra sự kiện mới....";
+"sync_progress_translations" = "Cập nhật dịch...";
+"sync_progress_photos" = "Xác minh ảnh...";
+"sync_progress_regions" = "vùng cập nhật...";
+"sync_progress_regions_stat" = "Đang cập nhật vùng số liệu thống kê...";

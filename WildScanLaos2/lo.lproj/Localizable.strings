@@ -1,0 +1,944 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Wed, 25 May 2016 15:38:14 +0100
+ */
+
+/*  */
+"blank" = "blank";
+
+/*  */
+"app_name" = "ວາຍສະແກນ ລາວ";
+
+/*  */
+"file_provider_authorities" = "org.freeland.wildscan.fileprovider";
+
+/*  */
+"sync_provider_authorities" = "org.freeland.wildscan.syncprovider";
+
+/*  */
+"sync_account_type" = "org.freeland.wildscan.data.sync";
+
+/*  */
+"action_synchronize" = "ປະສານຂໍ້ມູນ";
+
+/*  */
+"action_info" = "ຊ່ວຍເຫຼືອແລະຂໍ້ມູນ";
+
+/*  */
+"action_settings" = "ການຕັ້ງຄ່າ";
+
+/*  */
+"info_title" = "ຂໍ້ມູນວາຍສະແກນ";
+
+/*  */
+"info_about" = "ກ່ຽວກັບວາຍສະແກນ";
+
+/*  */
+"info_eula" = "ຂໍ້ຕົກລົງສິດການໃຊ້ງານຂອງຜູ້ໃຊ້";
+
+/*  */
+"info_consumer" = "ຄໍາແນະນໍາທົ່ວໄປສໍາລັບຜູ້ບໍລິໂພກ";
+
+/*  */
+"info_responder" = "ຄໍາແນະນໍາທົ່ວໄປສໍາລັບຜູ້ຕອບຄັ້ງທໍາອິດ";
+
+/*  */
+"info_law_enforcement" = "ຄໍາແນະນໍາທົ່ວໄປສໍາລັບເຈົ້າໜ້າທີ່";
+
+/*  */
+"info_national_laws" = "ກົດໝາຍວ່າດ້ວຍສັດປ່າແຫ່ງຊາດ";
+
+/*  */
+"info_contributors" = "ບັນດາອົງການທີ່ປະກອບສ່ວນ";
+
+/*  */
+"info_credits" = "ຄ່າເຄດິດ";
+
+/*  */
+"info_help" = "ຊ່ວຍ";
+
+/*  */
+"info_back" = "ກັບຄືນ";
+
+/*  */
+"home_id_species_btn_desc" = "ປຸ່ມກໍານົດສາຍພັນສັດຢູ່ໜ້າຫຼັກ";
+
+/*  */
+"home_submit_report_btn_desc" = "ປຸ່ມສົ່ງລາຍງານຢູ່ໜ້າຫຼັກ";
+
+/*  */
+"home_species_lib_btn_desc" = "ປຸ່ມຖານຂໍ້ມູນສາຍພັນສັດຢູ່ໜ້າຫຼັກ";
+
+/*  */
+"home_contacts_btn_desc" = "ປຸ່ມລາຍຊື່ຕິດຕໍ່ຢູ່ໜ້າຫຼັກ";
+
+/*  */
+"species_lib_header_title" = "ຖານຂໍ້ມູນສາຍພັນສັດ";
+
+/*  */
+"species_lib_header_btn_favorites" = "ສິ່ງທີ່ມັກ";
+
+/*  */
+"species_lib_header_btn_gallery" = "ເບິ່ງເປັນຮູບພາບ";
+
+/*  */
+"species_lib_header_btn_search" = "ຄົ້ນຫາ";
+
+/*  */
+"species_lib_search_by_name_hint" = "ໃສ່ຊື່ຂອງສາຍພັນ";
+
+/*  */
+"species_lib_search_set_filter" = "ກັ່ນຕອງຕາມປະເພດ";
+
+/*  */
+"species_lib_select_dlg_text" = "ເລືອກສາຍພັນເພື່ອລາຍງານ ຫຼື ເບິ່ງລາຍລະອຽດສາຍພັນ?";
+
+/*  */
+"species_lib_select_dlg_btn_select" = "ເລືອກສາຍພັນ";
+
+/*  */
+"species_lib_select_dlg_btn_details" = "ເບິ່ງລາຍລະອຽດ";
+
+/*  */
+"species_details_label_cites" = "ເອກະສານຊ້ອນທ້າຍ ໄຊເຕດສ";
+
+/*  */
+"species_details_label_cites_appendix_1" = "ເອກະສານຊ້ອນທ້າຍ 1";
+
+/*  */
+"species_details_label_cites_appendix_2" = "ເອກະສານຊ້ອນທ້າຍ 2";
+
+/*  */
+"species_details_label_cites_appendix_3" = "ເອກະສານຊ້ອນທ້າຍ 3";
+
+/*  */
+"species_details_label_status" = "ສະຖານະພາບບັນຊີແດງຂອງ IUCN";
+
+/*  */
+"species_details_label_status_lc" = "ສິ່ງທີ່ກັງວົນໜ້ອຍສຸດ";
+
+/*  */
+"species_details_label_status_nt" = "ໄກ້ຖືກຄຸກຄາມ";
+
+/*  */
+"species_details_label_status_vu" = "ບອບບາງ";
+
+/*  */
+"species_details_label_status_en" = "ໄກ້ຈະສູນພັນ";
+
+/*  */
+"species_details_label_status_cr" = "ໄກ້ຈະສູນພັນທີ່ສຸດ";
+
+/*  */
+"species_details_label_status_ew" = "ສູນພັນແລ້ວໃນທໍາມະຊາດ";
+
+/*  */
+"species_details_label_status_ex" = "ສູນພັນ";
+
+/*  */
+"species_details_label_status_na" = "ບໍ່ໄດ້ປະເມີນ";
+
+/*  */
+"species_details_label_warning" = "ຄໍາເຕືອນ";
+
+/*  */
+"species_details_label_warning_disease_risk" = "ຄວາມສ່ຽງຕໍ່ພະຍາດ";
+
+/*  */
+"species_details_label_warning_disease_risk_low" = "ຕໍ່າ";
+
+/*  */
+"species_details_label_warning_disease_risk_medium" = "ປານກາງ";
+
+/*  */
+"species_details_label_warning_disease_risk_high" = "ສູງ";
+
+/*  */
+"species_details_label_warning_dangerous" = "ອັນຕະລາຍ";
+
+/*  */
+"species_details_label_warning_poisonous" = "ເປັນພິດ";
+
+/*  */
+"species_details_label_warning_nocturnal" = "ເກີດໃນເວລາກາງຄືນ";
+
+/*  */
+"species_details_label_id_clues" = "ການລະບຸເບາະແສ";
+
+/*  */
+"species_details_label_similar" = "ສາຍພັນທີ່ຄ້າຍຄືກັນ";
+
+/*  */
+"species_details_label_enforcement" = "ຄໍາແນະນໍາກ່ຽວກັບການບັງຄັບໃຊ້ກົດໝາຍ";
+
+/*  */
+"species_details_label_consumer" = "ຄໍາແນະນໍາສໍາລັບຜູ້ບໍລິໂພກ";
+
+/*  */
+"species_details_label_responder" = "ຄໍາແນະນໍາສໍາລັບຜູ້ຕອບຄັ້ງທໍາອິດ";
+
+/*  */
+"species_details_label_traded_as" = "ຊື້ຂາຍເປັນ";
+
+/*  */
+"species_details_label_common_methods" = "ວິທີການລັກລອບທີ່ມັກເຮັດ";
+
+/*  */
+"species_details_label_aka" = "ຍັງຮູ້ໃນນາມວ່າ";
+
+/*  */
+"species_details_label_distribution" = "ການກະຈາຍຕົວ";
+
+/*  */
+"species_details_label_size" = "ຂະໜາດ ແລະ ນໍ້າໜັກສະເລ່ຍ";
+
+/*  */
+"species_details_label_habitat" = "ທີ່ຢູ່ອາໄສ";
+
+/*  */
+"species_details_label_diseases" = "ພະຍາດຕິດຕໍ່ຈາກສັດສູ່ຄົນ";
+
+/*  */
+"species_details_label_notes" = "ກົດໝາຍວ່າດ້ວຍສັດນໍ້າ ແລະ ສັດປ່າ";
+
+/*  */
+"species_details_photo_license" = "ໃບອານຸຍາດຖ່າຍພາບ:\n%1$s";
+
+/*  */
+"species_details_failed_set_fav" = "ການຕັ້ງຄ່າລາຍການທີ່ມັກບໍ່ສໍາເລັດ";
+
+/*  */
+"species_details_no_images" = "ບໍ່ມີຮູບພາບຂອງສັດໃນປະຈຸບັນນີ້";
+
+/*  */
+"contacts_list_header_title" = "ລາຍຊື່ຜູ້ຕິດຕໍ່";
+
+/*  */
+"contacts_list_header_btn_favorites" = "ສິ່ງທີ່ມັກ";
+
+/*  */
+"contacts_list_header_btn_search" = "ຄົ້ນຫາ";
+
+/*  */
+"contacts_list_search_by_name_hint" = "ໃສ່ຊື່ຜູ້ຕິດຕໍ່";
+
+/*  */
+"contacts_list_label_email" = "ອີເມວ";
+
+/*  */
+"contacts_list_label_phone" = "ໂທລະສັບ";
+
+/*  */
+"events_list_header_title" = "ລາຍການກິດຈະກໍາ";
+
+/*  */
+"events_list_header_btn_favorites" = "ສິ່ງທີ່ມັກ";
+
+/*  */
+"events_list_header_btn_show_on_map" = "ສະແດງເທິງແຜນທີ່";
+
+/*  */
+"events_list_header_btn_view_more" = "ເບິ່ງເພີ່ມເຕີມ";
+
+/*  */
+"events_list_fragment_title" = "ເຫດການລ້າສຸດ";
+
+/*  */
+"events_list_fragment_tag_on_home" = "EventsListFragmentOnHomeScreen";
+
+/*  */
+"events_list_fragment_tag" = "EventsListFragment";
+
+/*  */
+"events_list_loading_text" = "ກໍາລັງເບິ່ງເຫດການ…";
+
+/*  */
+"events_list_empty_text" = "ບໍ່ມີເຫດການ";
+
+/*  */
+"event_hint_country" = "ບໍ່ຮູ້ປະເທດ";
+
+/*  */
+"event_hint_date" = "ບໍ່ຮູ້ວັນທີ";
+
+/*  */
+"event_hint_species" = "ບໍ່ລະບຸສາຍພັນ";
+
+/*  */
+"event_hint_description" = "ລາຍລະອຽດຂອງເຫດການແມ່ນເປົ່າວ່າງ";
+
+/*  */
+"events_map_header_title" = "ແຜນທີ່ເຫດການ";
+
+/*  */
+"events_map_header_btn_next" = "ຕໍ່ໄປ";
+
+/*  */
+"events_map_header_btn_show_list" = "ສະແດງລາຍການ";
+
+/*  */
+"event_details_offense_label" = "ການກະທໍາຜິດ";
+
+/*  */
+"event_details_address_label" = "ທີ່ຢູ່";
+
+/*  */
+"event_details_country_label" = "ປະເທດ";
+
+/*  */
+"event_details_datetime_label" = "ວັນທີ ແລະ ເວລາ";
+
+/*  */
+"event_details_species_label" = "ສາຍພັນ";
+
+/*  */
+"event_details_amount_label" = "ຈໍານວນ";
+
+/*  */
+"event_details_condition_label" = "ເງື່ອນໄຂ";
+
+/*  */
+"event_details_unknown" = "ບໍ່ຮູ້";
+
+/*  */
+"no_network_connection_toast" = "ບໍ່ພົບມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍອິນເຕີເນັດ";
+
+/*  */
+"species_id_wizard_header_title" = "ກໍານົດສາຍພັນ";
+
+/*  */
+"report_wizard_screen_1_title" = "ບົດລາຍງານເຫດການ(1 - ຮູບພາບຫຼັກ";
+
+/*  */
+"report_wizard_screen_2_title" = "ບົດລາຍງານເຫດການ(2)- ຂໍ້ມູນພື້ນຖານ";
+
+/*  */
+"report_wizard_screen_3_title" = "ບົດລາຍງານເຫດການ(3)- ລາຍລະອຽດເພີ່ມເຕີມ";
+
+/*  */
+"report_wizard_screen_4_title" = "ບົດລາຍງານເຫດການ(4)- ທົບທວນຄືນ ແລະ ສົ່ງ";
+
+/*  */
+"report_wizard_location_pick_title" = "ບົດລາຍງານເຫດການ - ເລືອກເອົາສະຖານທີ່";
+
+/*  */
+"report_wizard_screen_1_capture_label" = "ຖ່າຍ​ຮູບ";
+
+/*  */
+"report_wizard_screen_1_browse_label" = "ເລືອກຮູບທີ່ມີຢູ່ແລ້ວ";
+
+/*  */
+"report_wizard_screen_2_time_label" = "ວັນ ແລະ ເວລາ";
+
+/*  */
+"report_wizard_screen_2_location_label" = "ສະຖານທີ່";
+
+/*  */
+"report_wizard_screen_2_offense_label" = "ການກະທຳຜິດ";
+
+/*  */
+"report_wizard_screen_2_offense_hint" = "ອະທິບາຍໂດຍຫຍໍ້ກ່ຽວກັບການກະທຳຜິດ. ຕົວຢ່າງ: ຂາຍສັດເລືອຄານທີ່ຖືກປົກປ້ອງ";
+
+/*  */
+"report_wizard_screen_2_species_label" = "ສາຍພັນ";
+
+/*  */
+"report_wizard_screen_2_species_hint" = "ພິມຊື່ສາຍພັນທີ່ມັກເອີ້ນ";
+
+/*  */
+"report_wizard_screen_2_amount_label" = "ຈໍານວນ";
+
+/*  */
+"report_wizard_screen_2_amount_unit_label" = "ບຸກຄົນ";
+
+/*  */
+"report_wizard_screen_2_amount_weight_label" = "ກລ";
+
+/*  */
+"report_wizard_screen_2_condition_label" = "ສະພາບ";
+
+/*  */
+"report_wizard_screen_2_condition_alive_label" = "ຍັງມີຊີວິດຢູ່";
+
+/*  */
+"report_wizard_screen_2_condition_dead_label" = "ຕາຍ";
+
+/*  */
+"report_wizard_screen_2_condition_mixed_label" = "ປະສົມ";
+
+/*  */
+"report_wizard_screen_3_offense_details_label" = "ລາຍລະອຽດການກະທໍາຜິດ";
+
+/*  */
+"report_wizard_screen_3_offense_details_hint" = "ໃຫ້ລາຍລະອຽດການກະທໍາຜິດ(ສູງສຸດ 2048 ຕົວອັກສອນ)";
+
+/*  */
+"report_wizard_screen_3_method_label" = "ວິທີ";
+
+/*  */
+"report_wizard_screen_3_method_hint" = "ອະທິບາຍວິທີການທີ່ໃຊ້ໃນການກະທຳຜິດ(ສູງສຸດ 1024 ຕົວອັກສອນ)";
+
+/*  */
+"report_wizard_screen_3_value_label" = "ລາຄາປະມານ";
+
+/*  */
+"report_wizard_screen_3_value_usd" = "ເງິນກີບລາວ";
+
+/*  */
+"report_wizard_screen_3_zero_cents" = ".00";
+
+/*  */
+"report_wizard_screen_3_route_label" = "ເສັ້ນທາງ";
+
+/*  */
+"report_wizard_screen_3_origin_label" = "ຕົ້ນກຳເນີດ";
+
+/*  */
+"report_wizard_screen_3_destination_label" = "ປາຍທາງ";
+
+/*  */
+"report_wizard_screen_3_vessel_label" = "ລາຍລະອຽດພາຫະນະ/ລົດ ໃຊ້ໃນການກະທໍາຜິດ";
+
+/*  */
+"report_wizard_screen_3_vessel_description_label" = "ລາຍລະອຽດ";
+
+/*  */
+"report_wizard_screen_3_vessel_id_label" = "ໃບອະນຸຍາດ #";
+
+/*  */
+"report_wizard_screen_3_vessel_name_label" = "ຊື່ພາຫະນະ";
+
+/*  */
+"report_wizard_screen_4_share_title" = "ແຊທາງເລືອກ";
+
+/*  */
+"report_wizard_screen_4_add_contact" = "ເພີ່ມລາຍຊື່ຜູ້ຕິດຕໍ່";
+
+/*  */
+"report_wizard_screen_4_recipients_label" = "ລາຍຊື່ຜູ້ຕິດຕໍ່";
+
+/*  */
+"report_wizard_screen_4_share_text" = "ຈາກການຕັ້ງຄ່າເບື້ອງຕົ້ນ, ບົດລາຍງານທ່ານຈະຖືກສົ່ງໃຫ້ທີມງານ ວາຍສະແກນ ແລ້ວຈະສົ່ງຕໍ່ໃຫ້ເຈົ້າໜ້າທີ່ ທີ່ກ່ຽວຂ້ອງ. ທ່ານສາມາດຕື່ມລາຍຊື່ຜູ້ຕິດຕໍ່ສະເພາະໃດໜຶ່ງ ທີ່ຈະຮັບບົດລາຍງານນີ້";
+
+/*  */
+"report_wizard_screen_4_share_email_label" = "ແບ່ງປັນບົດລາຍງານທາງອີເມວ";
+
+/*  */
+"report_wizard_screen_4_share_email_text" = "ຖ້າໄດ້ກວດແລ້ວ, ອີເມວແອັບລູກຄ້າຂອງທ່ານຈະເປີດພ້ອມຂໍ້ຄວາມໃໝ່ທີ່ມີລາຍລະອຽດບົດລາຍງານ";
+
+/*  */
+"report_wizard_screen_4_photos_label" = "ຮູບພາບ";
+
+/*  */
+"report_wizard_screen_4_add_photo_label" = "ຮູບພາບເຫຼົ່ານີ້ຈະຖືກລວມເຂົ້າໃນບົດລາຍງານ.ກົດເພື່ອເພີ່ມຮູບອື່ນ(ສູງສຸດທີ 3 ຮູບ)";
+
+/*  */
+"report_wizard_screen_4_private_label" = "ໝາຍ ເອົາລາຍງານວ່າເປັນສ່ວນຕົວ";
+
+/*  */
+"report_wizard_screen_4_private_text" = "ບົດລາຍງານສ່ວນຕົວຈະບໍ່ຖືກຈັດເຂົ້າກັບຜູ້ໃຊ້ WildScan ອື່ນໆ";
+
+/*  */
+"report_wizard_confirm_discard_title" = "ຍົກເລີກການລາຍງານ?";
+
+/*  */
+"report_wizard_confirm_discard_message" = "ຂໍ້ມູນທັງໝົດຈະຖືກຍົກເລີກ";
+
+/*  */
+"report_wizard_warning_dialog_title" = "ຄຳເຕືອນ!";
+
+/*  */
+"report_wizard_warning_dialog_message" = "ກໍາລັງລາຍງານ ມີການລັກລອບຄ້າຂາຍສັດປ່າ ແລະ ອາຊະຍາກຳທີ່ເປັນໄປໄດ້ວ່າ ຈະເປັນອັນຕະລາຍ. ຜູ້ທີ່ໃຊ້ Wildscan ຄວນລະມັດລະວັງສະເໝີ ໃນເວລາຖ່າຍຮູບອາຊະຍາກຳສັດປ່າ/ຜູ້ທີ່ສົງໃສ ແລະ ບໍ່ຄວນໃຫ້ຕົວເອງຕົກຢູ່ໃນອັນຕະລາຍເພື່ອລາຍງານອາຊະຍາກຳ ດັ່ງກ່າວ";
+
+/*  */
+"report_wizard_location_loading" = "ກຳລັງດຶງເອົາທີ່ຢູ່…";
+
+/*  */
+"report_wizard_location_hint" = "ໃສ່ທີ່ຢູ່";
+
+/*  */
+"report_submit_dialog_title" = "ບົດລາຍງານສົ່ງ";
+
+/*  */
+"report_submit_message" = "ສົ່ງລາຍງານໃຫ້ WildScan…";
+
+/*  */
+"report_submit_success" = "ບົດລາຍງານໄດ້ສົ່ງສໍາເລັດແລ້ວ ແລະ ຈະຖືກທົບທວນໂດຍວາຍສະແກນ";
+
+/*  */
+"report_submit_fail" = "ຈະຖືກສົ່ງໃນເວລາມີການປະສານຂໍ້ມູນຄັ້ງຕໍ່ໄປ";
+
+/*  */
+"report_email_title" = "ບົດລາຍງານອັດຕະໂນມັດ Wildscan App [%1$s]";
+
+/*  */
+"report_email_section_name_datetime" = "ວັນທີ/ເວລາ";
+
+/*  */
+"report_email_section_name_location_lat" = "ພິກັດເສັ້ນຂະໜານຂອງທີ່ຕັ້ງ";
+
+/*  */
+"report_email_section_name_location_lon" = "ພິກັດເສັ້ນແວງຂອງທີ່ຕັ້ງ";
+
+/*  */
+"report_email_section_name_description" = "ລາຍລະອຽດຂອງເຫດການ";
+
+/*  */
+"report_email_section_name_species" = "ສາຍພັນ";
+
+/*  */
+"report_email_section_name_amount" = "ຈຳນວນ";
+
+/*  */
+"report_email_section_name_condition" = "ສະພາບ";
+
+/*  */
+"report_email_section_name_details" = "ລາຍລະອຽດການກະທຳຜິດ";
+
+/*  */
+"report_email_section_name_method" = "ວິທີການ";
+
+/*  */
+"report_email_section_name_value" = "ການປະເມີນມູນຄ່າ(ເງິນກີບລາວ)";
+
+/*  */
+"report_email_section_name_origin_address" = "ທີ່ຢູ່ດັ້ງເດີມ";
+
+/*  */
+"report_email_section_name_origin_lat" = "ພິກັດເສັ້ນຂະໜານດັ້ງເດີມ";
+
+/*  */
+"report_email_section_name_origin_lon" = "ພິກັດເສັ້ນແວງດັ້ງເດີມ";
+
+/*  */
+"report_email_section_name_dest_address" = "ທີ່ຢູ່ປາຍທາງ";
+
+/*  */
+"report_email_section_name_dest_lat" = "ພິກັດເສັ້ນຂະໜານປາຍທາງ";
+
+/*  */
+"report_email_section_name_dest_lon" = "ພິກັດເສັ້ນແວງປາຍທາງ";
+
+/*  */
+"report_email_section_name_vessel_description" = "ລາຍລະອຽດພາຫະນະ/ລົດ";
+
+/*  */
+"report_email_section_name_vessel_id" = "ເລກປ້າຍລົດ/ພາຫະນະ";
+
+/*  */
+"report_email_section_name_vessel_name" = "ຊື່ພາຫະນະ";
+
+/*  */
+"location_picker_map_target_title" = "ສະຖານທີ່ເກີດເຫດ";
+
+/*  */
+"date_time_picker_dialog_title" = "ຕັ້ງຄ່າ ວັນທີ ແລະ ເວລາ";
+
+/*  */
+"sync_wifi_unavailable" = "ບໍ່ມີການເຊື່ອມຕໍ່ວາຍຟາຍ. ກະລຸນາເຊື່ອມຕໍ່ເພື່ອປະສານຂໍ້ມູນ";
+
+/*  */
+"sync_initial_starting_message" = "ຈັດການປະສານຂໍ້ມູນຄັ້ງທໍາອິດ, ນີ້ອາດໃຊ້ເວລາຂຶ້ນກັບຄວາມໄວການເຊື່ອມຕໍ່ເນັດ";
+
+/*  */
+"sync_starting_message" = "ປະສານຂໍ້ມູນ";
+
+/*  */
+"sign_in_request_message" = "ວາຍສະແກນ ຢາກໃຫ້ຜູ້ໃຊ້ແຕ່ລະທ່ານ ປ້ອນຂໍ້ມູນເພື່ອເຂົ້າໃຊ້ແອັບ ທີ່ຮັບປະກັນຄວາມປອດໄພຂອງຂໍ້ມູນສົ່ງຜ່ານການລາຍງານ. ກະລຸນາຢັ້ງຢືນຕົວຕົນຂອງທ່ານໂດຍກອກຂໍ້ມູນບັນຊີ ກູໂກ້ ຂອງທ່ານ";
+
+/*  */
+"status_signing_in" = "ກຳ ລັງເຂົ້າສູ່ລະບົບ…";
+
+/*  */
+"status_signed_out" = "ອອກຈາກລະບົບແລ້ວ";
+
+/*  */
+"status_signed_in_as" = "ເຂົ້າໃຊ້ລະບົບໃນນາມ %1$s";
+
+/*  */
+"status_sign_in_hint" = "ສະຖານະການເຂົ້າສູ່ລະບົບ";
+
+/*  */
+"status_play_services_error" = "ຂໍ້ຜິດພາດຂອງ Google Play Services !!";
+
+/*  */
+"status_retrieve_id" = "ກຳ ລັງດຶງເອົາ Google ID";
+
+/*  */
+"status_registration_fail" = "ການລົງທະບຽນບັນຊີລົ້ມເຫລວ";
+
+/*  */
+"status_new_user_signin_fail" = "ການເຂົ້າສູ່ລະບົບຜູ້ໃຊ້ໃໝ່ລົ້ມເຫລວ, ກະລຸນາເລີ່ມຕົ້ນແອັບ ອີກຄັ້ງ";
+
+/*  */
+"status_login_failed" = "ການເຂົ້າລະບົບລົ້ມເຫລວ";
+
+/*  */
+"status_server_error" = "ຂໍ້ຜິດພາດຂອງເຊີບເວີ. ກະລຸນາພະຍາຍາມອີກຄັ້ງ ພາຍຫຼັງ";
+
+/*  */
+"status_server_error_code" = "ຂໍ້ຜິດພາດຂອງເຊີບເວີ (%1$d)";
+
+/*  */
+"status_registering" = "ລົງທະບຽນບັນຊີກັບ WildScan";
+
+/*  */
+"status_signup_failed" = "ການລົງທະບຽນລົ້ມເຫລວ";
+
+/*  */
+"status_signin_failed_abort" = "ການລົງທະບຽນລົ້ມເຫລວ";
+
+/*  */
+"status_verification_failed" = "ການພິສູດຕົວຕົນຜູ້ໃຊ້ລົ້ມເຫລວ";
+
+/*  */
+"status_verify" = "ການຢັ້ງຢືນບັນຊີ";
+
+/*  */
+"status_apk_exp_dl_fail_abort" = "ລົ້ມເຫລວໃນການດາວໂຫລດເອກະສານ ເອພີເຄ. ແອັບຈະຈົບລົງ";
+
+/*  */
+"status_apk_exp_download" = "ການດາວໂຫລດເອກະສານ APK (%1$d%%)";
+
+/*  */
+"pref_screen_title" = "ການຕັ້ງຄ່າ Wildscan";
+
+/*  */
+"pref_label_sync" = "ການຕັ້ງຄ່າການປະສານຂໍ້ມູນ";
+
+/*  */
+"pref_summary_sync" = "ອະນຸຍາດໃຫ້ປະສານຂໍ້ມູນເທົ່ານັ້ນເມື່ອມີການເຊື່ອມຕໍ່ກັບ Wi-Fi";
+
+/*  */
+"pref_label_gallery_view" = "ຮູບໃນຖານຂໍ້ມູນສາຍພັນເບື້ອງຕົ້ນ";
+
+/*  */
+"pref_summary_gallery_view" = "ເລືອກພຶດຕິກໍາເບື້ອງຕົ້ນທີ່ຕັ້ງຄ່າແລ້ວໃນຖານຂໍ້ມູນສາຍພັນ";
+
+/*  */
+"pref_label_language" = "ຕັ້ງຄ່າພາສາຂອງເນື້ອໃນ";
+
+/*  */
+"pref_summary_language" = "ສະແດງຜົນ";
+
+/*  */
+"pref_entry_device_language" = "ໃຊ້ພາສາອຸປະກອນ";
+
+/*  */
+"pref_entry_current_supported" = "ດຽວນີ້ມີພຽງແຕ %1$s ເທົ່ານັ້ນ";
+
+/*  */
+"pref_label_auto_contacts" = "ຜູ້ຮັບບົດລາຍງານທີ່ໄດ້ຕັ້ງຄ່າແຕ່ຕົ້ນ";
+
+/*  */
+"pref_summary_auto_contacts" = "ບອກລາຍຊື່ຜູ້ຕິດຕໍ່ສະເພາະໃດໜຶ່ງ ທີ່ຈະຕື່ມເຂົ້າໃນລາຍຊື່ຜູ້ຮັບບົດລາຍງານທີ່ຕັ້ງຄ່າໄວ້ແຕ່ຕົ້ນ";
+
+/*  */
+"pref_label_save_report" = "ບັນທຶກລາຍງານ";
+
+/*  */
+"pref_summary_save_report" = "ຮັກສາສໍາເນົາບົດລາຍງານສໍາຮອງພາຍຫຼັງສົ່ງລາຍງານສໍາເລັດ";
+
+/*  */
+"pref_label_show_warning" = "ສະແດງ ການເຕືອນບົດລາຍງານ";
+
+/*  */
+"pref_summary_show_warning" = "ສະແດງການເຕືອນ ເມື່ອເລີ່ມສ້າງບົດລາຍງານໃໝ່";
+
+/*  */
+"msg_map_no_events" = "ບໍ່ມີເຫດການໃດທີ່ຈະສະແດງໃນແຜນທີ່";
+
+/*  */
+"msg_contact_fav_empty" = "ບໍ່ໄດ້ຕັ້ງຄ່າ ລາຍຊື່ບຸກຄົນທີ່ມັກຕິດຕໍ່ປະຈໍາ, ສະແດງຜົນການຊອກລາຍຊື່ຕິດຕໍ່ທັງໝົດ";
+
+/*  */
+"msg_species_lib_no_close_events" = "ບໍ່ມີເຫດການຢູ່ບໍລິເວນໄກ້ຄຽງເກີດຂຶ້ນຜ່ານມາ, ສະແດງຜົນການຊອກສາຍພັນທັງໝົດ";
+
+/*  */
+"msg_species_lib_no_location" = "ບໍ່ສາມາດດຶງຂໍ້ມູນ ສະຖານທີ່ປະຈຸບັນ, ສະແດງຜົນການຊອກສາຍພັນທັງໝົດ";
+
+/*  */
+"msg_species_lib_wizard_empty" = "ບໍ່ມີ ສາຍພັນໃດ ຖືກກັບຄໍາຕອບທ່ານ, ກະລຸນາພະຍາຍາມອີກຄັ້ງ ຫຼື ສົ່ງເປັນບົດລາຍງານສາຍພັນທີ່ຍັງບໍ່ທັນຮູ້ຈັກ";
+
+/*  */
+"msg_species_lib_filter_empty" = "ບໍ່ມີສາຍພັນໃດ ຖືກກັບຕົວເລືອກການກັ່ນຕອງຂໍ້ມູນ, ກະລຸນາເລືອກປະເພດອື່ນ";
+
+/*  */
+"msg_species_lib_list_empty" = "ບັນຊີລາຍຊື່ສາຍພັນ ແມ່ນເປົ່າວ່າງ";
+
+/*  */
+"msg_species_lib_fav_empty" = "ບໍ່ໄດ້ຕັ້ງຄ່າ ລາຍຊື່ທີ່ມັກ, ສະແດງຜົນການຊອກສາຍພັນທັງໝົດ";
+
+/*  */
+"msg_species_lib_search_not_found" = "ສາຍພັນບໍ່ພົບໃນບັນຊີ(ທ່ານໄດ້ຕັ້ງຄ່າ ຕົວກັ່ນຕອງ/ສິ່ງທີ່ມັກ ແລ້ວບໍ່?)";
+
+/*  */
+"msg_report_contact_no_email" = "ລາຍຊື່ຜູ້ຕິດຕໍ່ບໍ່ມີອີເມວ ແລະ ຈະບໍ່ສາມາດຕື່ມເຂົ້າໃນບັນຊີອີເມວຜູ້ຮັບ";
+
+/*  */
+"msg_report_gallery_photo_added" = "ລາຍງານ";
+
+/*  */
+"msg_no_adress_found" = "ບໍ່ພົບທີ່ຢູ່";
+
+/*  */
+"msg_no_adress_for_location" = "ບໍ່ພົບທີ່ຢູ່ ສຳ ລັບສະຖານທີ່ \n(lat: %1$5.2f, lon: %2$5.2f)";
+
+/*  */
+"msg_crc_check_fail" = "ອັນຕະລາຍ: ການກວດໂດຍ ຊີອາຊີ ລົ້ມເຫລວ, ຍົກເລີກ";
+
+/* button text labels */
+"OK" = "ຕົກ​ລົງ";
+
+/*  */
+"yes" = "ແມ່ນ";
+
+/*  */
+"no" = "ບໍ່";
+
+/*  */
+"apply" = "ນໍາໃຊ້";
+
+/*  */
+"cancel" = "ຍົກເລີກ";
+
+/*  */
+"close" = "ປິດ";
+
+/*  */
+"skip" = "Skip";
+
+/*  */
+"next" = "ຕໍ່ໄປ";
+
+/*  */
+"capture" = "ຖ່າຍ​ຮູບ";
+
+/*  */
+"recapture" = "ຖ່າຍຮູບອື່ນອີກ";
+
+/*  */
+"browse" = "ເລືອກທີ່ມີຢູ່ແລ້ວ";
+
+/*  */
+"rebrowse" = "ເລືອກທີ່ມີຢູ່ແລ້ວອີກ";
+
+/*  */
+"identify" = "ກໍານົດ";
+
+/*  */
+"back" = "ກັບຄືນ";
+
+/*  */
+"submit" = "ສົ່ງບົດລາຍງານ";
+
+/*  */
+"details" = "ລາຍ​ລະ​ອຽດ​ເພີ່ມ​ເຕີມ";
+
+/*  */
+"set" = "ຕັ້ງຄ່າ";
+
+/*  */
+"done" = "ສໍາເລັດ";
+
+/*  */
+"discard" = "ຍົກເລີກ";
+
+/*  */
+"dismiss" = "ຖິ້ມ";
+
+/*  */
+"do_not_show" = "ຢ່າສະແດງຂໍ້ຄວາມນີ້ອີກ";
+
+/*  */
+"error" = "ຂໍ້ຜິດພາດ";
+
+/*  */
+"exit" = "ອອກ";
+
+/*  */
+"retry" = "ລອງໃໝ່ອີກ";
+
+/* Region Dialog text */
+"region_dialog_title" = "Choose your Region";
+
+/*  */
+"region_dialog_heading1" = "Your Reporting Region";
+
+/*  */
+"region_dialog_heading2" = "Species and Contacts region";
+
+/*  */
+"region_dialog_sub_title" = "Download extra region specific Species and Contacts";
+
+/*  */
+"region_dialog_global" = "Global (Default)";
+
+/*  */
+"region_dialog_south_asia" = "South East Asia";
+
+/*  */
+"region_dialog_africa" = "Africa";
+
+/*  */
+"region_dialog_south_america" = "South America";
+
+/*  */
+"region_species" = "Species";
+
+/*  */
+"region_contacts" = "Contacts";
+
+/*  */
+"text_coming_soon" = "Coming Soon";
+
+/*  */
+"pass1" = "9oB8y2yd17U1nE7217Sq2UoX80ol0I82MB617E2e";
+
+/*  */
+"action_region" = "Change Region";
+
+/*  */
+"region_global" = "Global (Default)";
+
+/*  */
+"region_south_east_asia" = "South East Asia";
+
+/*  */
+"region_africa" = "Africa";
+
+/*  */
+"region_south_america" = "South America";
+
+/*  */
+"dialog_tutorial_message" = "You can download additional species and contacts here.";
+
+"species_filters_all" = "ທັງໝົດ";
+
+"species_filters_mammal" = "ສັດລ້ຽງລູກດ້ວຍນົມ";
+
+"species_filters_bird"  = "ນົກ";
+
+"species_filters_fish" = "ປາ";
+
+"species_filters_reptile" = "ສັດເລືອຄານ";
+
+"species_filters_amphibian" = "ສັດເຄິ່ງບົກເຄິ່ງນໍ້າ";
+
+"species_filters_invetebrate" = "ສັດບໍ່ມີກະດູກສັນຫຼັງ";
+
+"species_filters_plants"  = "ພືດ";
+
+"species_filters_product"  = "ຜະລິດຕະພັັນ";
+
+"species_filters_close_species"  = "ສາຍພັນໄກ້ຄຽງກັນ";
+
+/* Wizard Questions */
+"id_wizard_questions_live_deceased" = "ມັນແມ່ນສັດທີ່ບໍ່ໄດ້ຖືກທໍາຮ້າຍ (ຍັງມີຊີວິດ ຫຼື ຕາຍ), ຫຼື ເປັນຊິ້ນສ່ວນ/ຜະລິດຕະພັນທີ່ໄດ້ຈາກສັດ ບໍ່?";
+"id_wizard_questions_primary_covering" = "ແມ່ນຫຍັງທີ່ປົກຫຸ້ມອັນຕົ້ນຕໍຂອງຕົວສັດ?";
+"id_wizard_questions_legs" = "ສັດມີຈັກຂາ?";
+"id_wizard_questions_color" = "ສີສັນຕົ້ນຕໍຂອງສັດແມ່ນສີຫຍັງ?";
+"id_wizard_questions_size" = "ສັດມີຂະໜາດສໍ່າໃດ?";
+"id_wizard_questions_special_features" = "ສັດມີລັກສະນະພາຍນອກພິເສດໃດບໍ່?(ກວດທຸກຢ່າງ)";
+"id_wizard_questions_part_product" = "ຈຸດປະສົງການນໍາໃຊ້ຊິ້ນສ່ວນ/ຜະລິດຕະພັນແມ່ນຫຍັງ?";
+"id_wizard_questions_material" = "ວັດສະດຸທີ່ເປັນຊິ້ນສ່ວນ/ຜະລິດຕະພັນ ເຮັດມາຈາກຫຍັງ?";
+"id_wizard_questions_body_part" = "ສ່ວນໃດຂອງຕົວສັດ?";
+"id_wizard_questions_plant_form" = "ອົງປະກອບພາຍໃນຂອງມັນແມ່ນຫຍັງ?";
+"id_wizard_questions_plant_purpose" = "ຈຸດປະສົງການນໍາໃຊ້ມັນແມ່ນຫຍັງ?";
+
+
+/*Intact/Animal/Plant */
+"id_wizard_prod_ani_intact_animal" = "ສັດທີ່ບໍ່ຖືກທໍາຮ້າຍ";
+"id_wizard_prod_ani_animal_part_product" = "ຊິ້ນສ່ວນ/ຜະລິດຕະພັນຈາກສັດ";
+"id_wizard_prod_ani_plant" = "ພືດ";
+
+/* Covering */
+"id_wizard_covering_scales" = "ຂະໜາດ";
+"id_wizard_covering_fur" = "ຂົນ";
+"id_wizard_covering_feathers" = "ຂົນ";
+"id_wizard_covering_skin" = "ໜັງ";
+"id_wizard_covering_not_sure" = "ໂຄງກະດູກພາຍນອກ";
+
+/* Colors */
+"id_wizard_color_red" = "ແດງ";
+"id_wizard_color_orange" ="ສົ້ມ";
+"id_wizard_color_yellow" ="ເຫຼືອງ";
+"id_wizard_color_green" ="ຂຽວ";
+"id_wizard_color_blue" ="ຟ້າ";
+"id_wizard_color_purple" ="ມ້ວງ";
+"id_wizard_color_gray" ="ເທົາ";
+"id_wizard_color_brown" ="ນໍ້າຕານ";
+"id_wizard_color_white" ="ຂາວ";
+"id_wizard_color_black" ="ດໍາ";
+"id_wizard_color_not_sure" ="ອື່ນໆ/ບໍ່ແນ່ໃຈ";
+
+/* Size */
+"id_wizard_size_small_hand" = "ນ້ອຍກວ່າມືຂອງທ່ານ";
+"id_wizard_size_average_dog" = "ນ້ອຍກວ່າໂຕໝາທົ່ວໄປ";
+"id_wizard_size_smaller_than_you" = "ນ້ອຍກວ່າທ່ານ";
+"id_wizard_size_larger_than_you" = "ໃຫຍ່ກວ່າທ່ານ";
+"id_wizard_size_not_sure" = "ບໍ່ແນ່ໃຈ";
+
+
+/* Food Clothing etc */
+"id_wizard_purpose_food" = "ອາຫານ";
+"id_wizard_purpose_clothing" = "ເສື້ອຜ້າ";
+"id_wizard_purpose_jewelry" = "ເຄື່ອງປະດັບ";
+"id_wizard_purpose_trophy" = "ລາງວັນ/ເຄື່ອງປະດັບ";
+"id_wizard_purpose_medicine" = "ຢາ";
+"id_wizard_purpose_not_sure" = "ອື່ນໆ/ບໍ່ແນ່ໃຈ";
+
+/*Bone Leather etc */
+"id_wizard_material_bone" = "ກະດູກ";
+"id_wizard_material_pelt" = "ໜັງ/ຂົນ";
+"id_wizard_material_shell" = "ເປືອກຫຸ້ມ";
+"id_wizard_material_poweder" = "ຜົງແປ້ງ";
+"id_wizard_material_meat" = "ຊີ້ນ";
+"id_wizard_material_not_sure" = "ອື່ນໆ/ບໍ່ແນ່ໃຈ";
+
+
+/* Horn Tusk etc */
+"id_wizard_part_horn" = "ເຂົາ";
+"id_wizard_part_tusk" = "ງາ";
+"id_wizard_part_skin" = "ໜັງ";
+"id_wizard_part_paw" = "ອຸ້ງມື";
+"id_wizard_part_claw" = "ແຂ້ວ/ກົງເລັບ";
+"id_wizard_part_not_sure" = "ອື່ນໆ/ບໍ່ແນ່ໃຈ";
+
+/* Plant Form */
+"id_wizard_plant_form_intact" = "ບໍ່ຖືກລົບກວນ";
+"id_wizard_plant_form_timber" = "ໄມ້";
+"id_wizard_plant_form_article" = "ຊິ້ນສ່ວນ";
+"id_wizard_plant_form_other" = "ອື່ນໆ/ບໍ່ແນ່ໃຈ";
+
+/* Plant Purpose */
+"id_wizard_plant_purpose_food" = "ກະດູກ";
+"id_wizard_plant_purpose_furniture" = "Furniture";
+"id_wizard_plant_purpose_ornament" = "ເຄື່ອງປະດັບ";
+"id_wizard_plant_purpose_medicine" = "ຢາ";
+"id_wizard_plant_purpose_article" = "ຊິ້ນສ່ວນ";
+"id_wizard_plant_purpose_other" = "ອື່ນໆ/ບໍ່ແນ່ໃຈ";
+
+
+/* Gallery Options */
+"pref_gallery_view_gallery" = "ຖານຂໍ້ມູນຮູບ";
+"pref_gallery_view_list" = "ລາຍການ";
+"pref_gallery_view_as_left" = "ເມື່ອຂ້ອຍປ່ອຍປະມັນ";
+
+
+/* Sync Messages */
+"sync_progress_reports" = "ກໍາລັງກວດ ຫາບົດລາຍງານທີ່ລໍຖ້າ...";
+"sync_progress_content" = "ກໍາລັງອັບເດດເນື້ອໃນ...";
+"sync_progress_contents" = "ກໍາລັງອັບເດດເນື້ອໃນ...";
+"sync_progress_contacts" = "ກໍາລັງອັບເດດລາຍຊື່ຜູ້ຕິດຕໍ່...";
+"sync_progress_species" = "ກໍາລັງອັບເດດສາຍພັນ...";
+"sync_progress_sp" = "ກໍາລັງອັບເດດສາຍພັນ...";
+"sync_progress_events" = "ກຳລັງກວດຫາເຫດການໃໝ່....";
+"sync_progress_translations" = "ກໍາລັງແປ...";
+"sync_progress_photos" = "ກໍາລັງຢັ້ງຢືນຮູບ...";
+"sync_progress_regions" = "Updating regions...";
+"sync_progress_regions_stat" = "Updating regions stats...";

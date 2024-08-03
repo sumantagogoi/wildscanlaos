@@ -1,0 +1,916 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Thu, 16 Jun 2016 09:39:36 +0100
+ */
+
+/*  */
+"blank" = "blank";
+
+/*  */
+"action_synchronize" = "Sincronizar dados";
+
+/*  */
+"action_info" = "Ajuda & Informações";
+
+/*  */
+"action_settings" = "Configurações";
+
+/*  */
+"info_title" = "Informações do Wildscan";
+
+/*  */
+"info_about" = "Sobre o Wildscan";
+
+/*  */
+"info_eula" = "Acordo de licença do usuário final";
+
+/*  */
+"info_consumer" = "Conselhos gerais para consumidores";
+
+/*  */
+"info_responder" = "Conselhos gerais para equipes de resposta";
+
+/*  */
+"info_law_enforcement" = "Conselhos gerais para forças de segurança";
+
+/*  */
+"info_national_laws" = "Leis nacionais de vida silvestre";
+
+/*  */
+"info_contributors" = "Organizações contribuidoras";
+
+/*  */
+"info_credits" = "Créditos";
+
+/*  */
+"species_lib_header_title" = "Biblioteca de espécies";
+
+/*  */
+"species_lib_header_btn_favorites" = "Favoritos";
+
+/*  */
+"species_lib_header_btn_gallery" = "Galeria";
+
+/*  */
+"species_lib_header_btn_search" = "Buscar";
+
+/*  */
+"species_lib_search_by_name_hint" = "Introduzir nome da espécie";
+
+/*  */
+"species_lib_search_set_filter" = "Filtrar por tipo";
+
+/*  */
+"species_lib_select_dlg_text" = "Selecionar espécies para o relatório ou ver detalhes das espécies?";
+
+/*  */
+"species_lib_select_dlg_btn_select" = "Selecionar espécies";
+
+/*  */
+"species_lib_select_dlg_btn_details" = "Ver detalhes";
+
+/*  */
+"species_details_label_cites" = "CITES";
+
+/*  */
+"species_details_label_cites_appendix_1" = "Apêndice I";
+
+/*  */
+"species_details_label_cites_appendix_2" = "Apêndice II";
+
+/*  */
+"species_details_label_cites_appendix_3" = "Apêndice III";
+"species_details_label_cites_none" = "Nenhum";
+
+/*  */
+"species_details_label_status" = "Status na Lista Vermelha da IUCN";
+
+/*  */
+"species_details_label_status_lc" = "Pouco preocupante";
+
+/*  */
+"species_details_label_status_nt" = "Quase ameaçada";
+
+/*  */
+"species_details_label_status_vu" = "Vulnerável";
+
+/*  */
+"species_details_label_status_en" = "Em perigo";
+
+/*  */
+"species_details_label_status_cr" = "Criticamente em perigo";
+
+/*  */
+"species_details_label_status_ew" = "Extinta na natureza";
+
+/*  */
+"species_details_label_status_ex" = "Extinta";
+
+/*  */
+"species_details_label_status_na" = "Dados Insuficientes";
+
+/*  */
+"species_details_label_warning" = "Advertências";
+
+/*  */
+"species_details_label_warning_disease_risk" = "Risco de doença";
+
+/*  */
+"species_details_label_warning_disease_risk_low" = "Baixo";
+
+/*  */
+"species_details_label_warning_disease_risk_medium" = "Médio";
+
+/*  */
+"species_details_label_warning_disease_risk_high" = "Alto";
+
+/*  */
+"species_details_label_warning_dangerous" = "Perigoso";
+
+/*  */
+"species_details_label_warning_poisonous" = "Venenoso";
+
+/*  */
+"species_details_label_warning_nocturnal" = "Noturno";
+
+/*  */
+"species_details_label_id_clues" = "Dicas para identificação";
+
+/*  */
+"species_details_label_similar" = "Animais similares";
+
+/*  */
+"species_details_label_enforcement" = "Informação para forças de segurança";
+
+/*  */
+"species_details_label_consumer" = "Aviso ao consumidor";
+
+/*  */
+"species_details_label_responder" = "Servicios de primera respuesta (específico a la especie)";
+
+/*  */
+"species_details_label_traded_as" = "Negociado como";
+
+/*  */
+"species_details_label_common_methods" = "Métodos comunes de tráfico";
+
+/*  */
+"species_details_label_aka" = "También conocido como";
+
+/*  */
+"species_details_label_distribution" = "distribuição";
+
+/*  */
+"species_details_label_size" = "Tamanho e peso médios";
+
+/*  */
+"species_details_label_habitat" = "Habitat";
+
+/*  */
+"species_details_label_diseases" = "Zoonoses";
+
+/*  */
+"species_details_label_notes" = "Notas";
+
+/*  */
+"species_details_photo_license" = "licença de foto:\n%1$s";
+
+/*  */
+"species_details_failed_set_fav" = "Erro na configuração dos favoritos";
+
+/*  */
+"species_details_no_images" = "Nenhuma imagem espécies atualmente disponíveis";
+
+
+/*  */
+"contacts_list_header_title" = "Contactos Diretório";
+
+/*  */
+"contacts_list_header_btn_favorites" = "Favoritos";
+
+/*  */
+"contacts_list_header_btn_search" = "Buscar";
+
+/*  */
+"contacts_list_search_by_name_hint" = "Digite o nome do contato";
+
+/*  */
+"contacts_list_label_email" = "Email";
+
+/*  */
+"contacts_list_label_phone" = "Telefone";
+
+/*  */
+"events_list_header_title" = "Eventos Listagem";
+
+/*  */
+"events_list_header_btn_favorites" = "Favoritos";
+
+/*  */
+"events_list_header_btn_show_on_map" = "Mostrar no mapa";
+
+/*  */
+"events_list_header_btn_view_more" = "Veja mais";
+
+/*  */
+"events_list_fragment_title" = "Eventos recentes";
+
+/*  */
+"events_list_fragment_tag_on_home" = "EventsListFragmentOnHomeScreen";
+
+/*  */
+"events_list_fragment_tag" = "EventsListFragment";
+
+/*  */
+"events_list_loading_text" = "Recuperando eventos…";
+
+/*  */
+"events_list_empty_text" = "Não há eventos";
+
+/*  */
+"event_hint_country" = "País desconhecido";
+
+/*  */
+"event_hint_date" = "Data desconhecida";
+
+/*  */
+"event_hint_species" = "Espécies não especificadas";
+
+/*  */
+"event_hint_description" = "A descrição do incidente está vazia";
+
+/*  */
+"events_map_header_title" = "Eventos mapa";
+
+/*  */
+"events_map_header_btn_next" = "Próximo";
+
+/*  */
+"events_map_header_btn_show_list" = "Mostrar Lista";
+
+/*  */
+"event_details_offense_label" = "Infração";
+
+/*  */
+"event_details_address_label" = "Endereço";
+
+/*  */
+"event_details_country_label" = "País";
+
+/*  */
+"event_details_datetime_label" = "Data e hora";
+
+/*  */
+"event_details_species_label" = "Espécie";
+
+/*  */
+"event_details_amount_label" = "Montante";
+
+/*  */
+"event_details_condition_label" = "Condição";
+
+/*  */
+"event_details_unknown" = "Desconhecido";
+
+/*  */
+"no_network_connection_toast" = "Sem conexão à rede";
+
+/*  */
+"species_id_wizard_header_title" = "Identificar as espécies";
+
+/*  */
+"report_wizard_screen_1_title" = "Relatório de Incidente (1) - Foto Principal";
+
+/*  */
+"report_wizard_screen_2_title" = "Relatório de Incidente (2) - Informações básicas";
+
+/*  */
+"report_wizard_screen_3_title" = "Relatório de Incidente (3) - Mais detalhes";
+
+/*  */
+"report_wizard_screen_4_title" = "Relatório de Incidente (4) - Rever e submeter";
+
+/*  */
+"report_wizard_location_pick_title" = "Relatório de incidente - Escolha o local";
+
+/*  */
+"report_wizard_screen_1_capture_label" = "Tirar fotos";
+
+/*  */
+"report_wizard_screen_1_browse_label" = "Escolha Foto Existente";
+
+/*  */
+"report_wizard_screen_2_time_label" = "Data & Hora";
+
+/*  */
+"report_wizard_screen_2_location_label" = "Localização";
+
+/*  */
+"report_wizard_screen_2_offense_label" = "Infração";
+
+/*  */
+"report_wizard_screen_2_offense_hint" = "Offense Faça uma breve descrição do delito. Por exemplo : Vender répteis protegidas.";
+
+/*  */
+"report_wizard_screen_2_species_label" = "Espécies";
+
+/*  */
+"report_wizard_screen_2_species_hint" = "Espécies tipo de nome comum";
+
+/*  */
+"report_wizard_screen_2_amount_label" = "Montante";
+
+/*  */
+"report_wizard_screen_2_amount_unit_label" = "Indivíduos";
+
+/*  */
+"report_wizard_screen_2_amount_weight_label" = "Kg";
+
+/*  */
+"report_wizard_screen_2_condition_label" = "Condição";
+
+/*  */
+"report_wizard_screen_2_condition_alive_label" = "Vivo";
+
+/*  */
+"report_wizard_screen_2_condition_dead_label" = "Morto";
+
+/*  */
+"report_wizard_screen_2_condition_mixed_label" = "Misturado";
+
+/*  */
+"report_wizard_screen_3_offense_details_label" = "Offense descrição detalhada";
+
+/*  */
+"report_wizard_screen_3_offense_details_hint" = "Forneça uma descrição detalhada da infracção ( até 1024 caracteres )";
+
+/*  */
+"report_wizard_screen_3_method_label" = "Método";
+
+/*  */
+"report_wizard_screen_3_method_hint" = "Descrever os métodos utilizados para cometer a infracção ( até 1024 caracteres )";
+
+/*  */
+"report_wizard_screen_3_value_label" = "Valor estimado";
+
+/*  */
+"report_wizard_screen_3_value_usd" = "$US";
+
+/*  */
+"report_wizard_screen_3_zero_cents" = ".00";
+
+/*  */
+"report_wizard_screen_3_route_label" = "Rota";
+
+/*  */
+"report_wizard_screen_3_origin_label" = "Origem";
+
+/*  */
+"report_wizard_screen_3_destination_label" = "Destino";
+
+/*  */
+"report_wizard_screen_3_vessel_label" = "Ofender veículo / embarcação detalhes";
+
+/*  */
+"report_wizard_screen_3_vessel_description_label" = "Descrição";
+
+/*  */
+"report_wizard_screen_3_vessel_id_label" = "a licença #";
+
+/*  */
+"report_wizard_screen_3_vessel_name_label" = "Nome da embarcação";
+
+/*  */
+"report_wizard_screen_4_share_title" = "Opções de ações/ distribuição";
+
+/*  */
+"report_wizard_screen_4_add_contact" = "Adicionar contato";
+
+/*  */
+"report_wizard_screen_4_recipients_label" = "Contactos";
+
+/*  */
+"report_wizard_screen_4_share_text" = "Por padrão, o relatório será enviado para a equipe WildScan que irá encaminhá-lo para as autoridades competentes. Você também pode adicionar contatos específicos que receberão o relatório.";
+
+/*  */
+"report_wizard_screen_4_share_email_label" = "Relatório Compartilhar via e -mail";
+
+/*  */
+"report_wizard_screen_4_share_email_text" = "Se marcada , o aplicativo cliente de e-mail será aberta com uma nova mensagem contendo os detalhes do relatório";
+
+/*  */
+"report_wizard_screen_4_photos_label" = "Fotos";
+
+/*  */
+"report_wizard_screen_4_add_photo_label" = "Essas fotos serão incluídas no relatório. Clique para adicionar outra foto (máximo 3)";
+
+/*  */
+"report_wizard_screen_4_private_label" = "relatório marca como privado";
+
+/*  */
+"report_wizard_screen_4_private_text" = "relatórios privados não será distribuído a outros usuários WildScan";
+
+/*  */
+"report_wizard_confirm_discard_title" = "Descartar o relatório?";
+
+/*  */
+"report_wizard_confirm_discard_message" = "Toda a informação será descartada";
+
+/*  */
+"report_wizard_warning_dialog_title" = "Aviso!";
+
+/*  */
+"report_wizard_warning_dialog_message" = "Relatórios tráfico de vida selvagem e crime tem o potencial de ser perigoso. Os usuários de WildScan deve sempre ter cuidado ao fotografar suspeita de crimes contra a natureza e nunca deve colocar -se em perigo para relatar tal crime.";
+
+/*  */
+"report_wizard_location_loading" = "Recuperando Endereço…";
+
+/*  */
+"report_wizard_location_hint" = "Entrar localização";
+
+/*  */
+"report_submit_dialog_title" = "Enviar relatório";
+
+/*  */
+"report_submit_message" = "Submeter relatório ao WildScan…";
+
+/*  */
+"report_submit_success" = "Relatório apresentado com sucesso e será analisado por WildScan";
+
+/*  */
+"report_submit_fail" = "Submissão falhou. O relatório será resubmetido durante a próxima sincronização";
+
+/*  */
+"report_email_title" = "Relatório automático do aplicativo Wildscan [%1$s]";
+
+/*  */
+"report_email_section_name_datetime" = "Data/hora";
+
+/*  */
+"report_email_section_name_location_lat" = "Latitude do local";
+
+/*  */
+"report_email_section_name_location_lon" = "Longitude do local";
+
+/*  */
+"report_email_section_name_description" = "A descrição do incidente";
+
+/*  */
+"report_email_section_name_species" = "Espécies";
+
+/*  */
+"report_email_section_name_amount" = "Número";
+
+/*  */
+"report_email_section_name_condition" = "Condição";
+
+/*  */
+"report_email_section_name_details" = "Detalhes do delito";
+
+/*  */
+"report_email_section_name_method" = "Método";
+
+/*  */
+"report_email_section_name_value" = "Valor estimado";
+
+/*  */
+"report_email_section_name_origin_address" = "Endereço de origem";
+
+/*  */
+"report_email_section_name_origin_lat" = "Latidude da Origem";
+
+/*  */
+"report_email_section_name_origin_lon" = "Longitude da origem";
+
+/*  */
+"report_email_section_name_dest_address" = "Endereço de destino";
+
+/*  */
+"report_email_section_name_dest_lat" = "Latitude do destino";
+
+/*  */
+"report_email_section_name_dest_lon" = "Longitude do destino";
+
+/*  */
+"report_email_section_name_vessel_description" = "Descrição do veículo / embarcação";
+
+/*  */
+"report_email_section_name_vessel_id" = "Placa do veículo / Número de licença da embarcação";
+
+/*  */
+"report_email_section_name_vessel_name" = "Nome da embarcação";
+
+/*  */
+"location_picker_map_target_title" = "Localização do incidente";
+
+/*  */
+"date_time_picker_dialog_title" = "Definir data e hora";
+
+/*  */
+"sync_wifi_unavailable" = "Rede Wi-fi não disponível. Por favor conectar a uma rede Wi-fi para executar a sincronização.";
+
+/*  */
+"sync_initial_starting_message" = "Realizando a sincronização pela primeira vez, isso pode levar alguns minutos, dependendo da velocidade da conexão";
+
+/*  */
+"sync_starting_message" = "Sincronização de dados";
+
+/*  */
+"sign_in_request_message" = "WildScan requer que cada usuário faça login no aplicativo para garantir a segurança das informações contidas nos relatórios. Por favor, verifique sua identidade fazendo login com sua conta do Google";
+
+/*  */
+"status_signing_in" = "Iniciando sessão…";
+
+/*  */
+"status_signed_out" = "desconectado";
+
+/*  */
+"status_signed_in_as" = "Conectado como %1$s";
+
+/*  */
+"status_sign_in_hint" = "Estatus da conexão";
+
+/*  */
+"status_play_services_error" = "Erro de serviço do Google Play!!";
+
+/*  */
+"status_retrieve_id" = "Recuperando Google ID";
+
+/*  */
+"status_registration_fail" = "Falha no registo da conta";
+
+/*  */
+"status_new_user_signin_fail" = "Falha na conexão do novo usuário, favor reiniciar o aplicativo";
+
+/*  */
+"status_login_failed" = "Erro no login";
+
+/*  */
+"status_server_error" = "Erro de servidor. Por favor, tente novamente mais tarde";
+
+/*  */
+"status_server_error_code" = "Erro de servidor (%1$d)";
+
+/*  */
+"status_registering" = "Registrando conta com WildScan";
+
+/*  */
+"status_signup_failed" = "Falha no registro";
+
+/*  */
+"status_signin_failed_abort" = "Falha no registro";
+
+/*  */
+"status_verification_failed" = "Falha na verificação do usuário";
+
+/*  */
+"status_verify" = "Verificando conta";
+
+/*  */
+"status_apk_exp_dl_fail_abort" = "Falha ao baixar arquivo APK expansão. O aplicativo será fechado";
+
+/*  */
+"status_apk_exp_download" = "Baixando arquivo de expansão APK (%1$d%%)";
+
+/*  */
+"pref_screen_title" = "Configurações do Wildscan";
+
+/*  */
+"pref_label_sync" = "Configurações de sincronização";
+
+/*  */
+"pref_summary_sync" = "Permitir sincronização apenas quando conectado ao Wi-Fi";
+
+/*  */
+"pref_label_gallery_view" = "Exibição padrão da galeria de espécies";
+
+/*  */
+"pref_summary_gallery_view" = "Escolha o comportamento padrão da biblioteca de espécies";
+
+/*  */
+"pref_label_language" = "Definir idioma do conteúdo";
+
+/*  */
+"pref_summary_language" = "Escolha o idioma para a exibição do conteúdodo aplicativo";
+
+/*  */
+"pref_entry_device_language" = "Utilizar o idioma do dispositivo";
+
+/*  */
+"pref_entry_current_supported" = "Apenas %1$s está disponível atualmente";
+
+/*  */
+"pref_label_auto_contacts" = "Destinatários do relatório por default";
+
+/*  */
+"pref_summary_auto_contacts" = "Especifique contatos que serão adicionados por default para a lista de destinatários do relatório";
+
+/*  */
+"pref_label_save_report" = "Salvar relatórios";
+
+/*  */
+"pref_summary_save_report" = "Salvar uma cópia backup dos relatórios após a submissão bem-sucedida";
+
+/*  */
+"pref_label_show_warning" = "Mostrar aviso do relatório";
+
+/*  */
+"pref_summary_show_warning" = "Mostrar aviso pop-up ao iniciar um novo relatório";
+
+/*  */
+"msg_map_no_events" = "Não há eventos para mostrar no mapa";
+
+/*  */
+"msg_contact_fav_empty" = "Não há favoritos definidos, mostrando todos os contatos";
+
+/*  */
+"msg_species_lib_no_close_events" = "Não há eventos recentes por perto, mostrando todas as espécies";
+
+/*  */
+"msg_species_lib_no_location" = "Não é possível recuperar localização atual, mostrando todas as espécies";
+
+/*  */
+"msg_species_lib_wizard_empty" = "Nenhuma espécie corresponde às suas respostas, por favor tente novamente ou envie um relatório de espécie desconhecida";
+
+/*  */
+"msg_species_lib_filter_empty" = "Nenhuma espécie corresponde ao filtro selecionado, por favor, escolha outro tipo";
+
+/*  */
+"msg_species_lib_list_empty" = "Lista de espécies está vazia";
+
+/*  */
+"msg_species_lib_fav_empty" = "Não há favoritos definidos, mostrando todas as espécies";
+
+/*  */
+"msg_species_lib_search_not_found" = "Espécies não encontradas na lista (você tem um conjunto de filtros ativo?)";
+
+/*  */
+"msg_report_contact_no_email" = "Contato %1$s não tem endereço de e-mail e não será adicionado para os destinatários de e-mail";
+
+/*  */
+"msg_report_gallery_photo_added" = "Imagem adicional da galeria incluída no relatório";
+
+/*  */
+"msg_no_adress_found" = "Nenhum endereço encontrado";
+
+/*  */
+"msg_no_adress_for_location" = "Nenhum endereço encontrado para localização\n(lat: %1$5.2f, lon: %2$5.2f)";
+
+/*  */
+"msg_crc_check_fail" = "Fatal: verificação CRC falhou, abortando";
+
+/* button text labels */
+"OK" = "De acordo";
+
+/*  */
+"yes" = "Sim";
+
+/*  */
+"no" = "Não";
+
+/*  */
+"apply" = "Aplicar";
+
+/*  */
+"cancel" = "Cancelar";
+
+/*  */
+"close" = "Fechar";
+
+/*  */
+"skip" = "Pular";
+
+/*  */
+"next" = "Próximo";
+
+/*  */
+"capture" = "Tirar foto";
+
+/*  */
+"recapture" = "Tirar outra foto";
+
+/*  */
+"browse" = "Escolha existente";
+
+/*  */
+"rebrowse" = "Escolha outro existente";
+
+/*  */
+"identify" = "Identificar";
+
+/*  */
+"back" = "Voltar";
+
+/*  */
+"submit" = "Enviar relatório";
+
+/*  */
+"details" = "Mais detalhes";
+
+/*  */
+"set" = "Configurar";
+
+/*  */
+"done" = "Feito";
+
+/*  */
+"discard" = "Descartar";
+
+/*  */
+"dismiss" = "demitir";
+
+/*  */
+"do_not_show" = "Não mostrar esta mensagem novamente";
+
+/*  */
+"error" = "Erro";
+
+/*  */
+"exit" = "Sair";
+
+/*  */
+"retry" = "Tentar novamente";
+
+/* Region Dialog text */
+"region_dialog_title" = "Escolha a sua região";
+
+/*  */
+"region_dialog_heading1" = "Região do relato";
+
+/*  */
+"region_dialog_heading2" = "Espécies & contatos da região";
+
+/*  */
+"region_dialog_sub_title" = "Baixar contatos e espécies específicos da região";
+
+/*  */
+"region_dialog_global" = "Global";
+
+/*  */
+"region_dialog_south_asia" = "Sudeste Asiático";
+
+/*  */
+"region_dialog_africa" = "África";
+
+/*  */
+"region_dialog_south_america" = "América do Sul";
+
+/*  */
+"region_species" = "Espécie";
+
+/*  */
+"region_contacts" = "Contatos";
+
+/*  */
+"text_coming_soon" = "Em breve";
+
+/*  */
+"pass1" = "9oB8y2yd17U1nE7217Sq2UoX80ol0I82MB617E2e";
+
+/*  */
+"action_region" = "Mudar Região";
+
+/*  */
+"region_global" = "Global";
+
+/*  */
+"region_south_east_asia" = "Sudeste Asiático";
+
+/*  */
+"region_africa" = "África";
+
+/*  */
+"region_south_america" = "América do Sul";
+
+/*  */
+"dialog_tutorial_message" = "Você pode baixar espécies e contatos adicionais aqui.";
+
+
+"species_filters_all" = "Todos os tipos";
+
+"species_filters_mammal" = "mamíferos";
+
+"species_filters_bird"  = "aves";
+
+"species_filters_fish" = "Peixe";
+
+"species_filters_reptile" = "répteis";
+
+"species_filters_amphibian" = "anfíbios";
+
+"species_filters_invetebrate" = "invertebrados";
+
+"species_filters_plants"  = "plantas";
+
+"species_filters_product"  = "produtos derivados";
+
+"species_filters_close_species"  = "Fechar Espéciesc";
+
+/* Wizard Questions */
+"id_wizard_questions_live_deceased" = "É um animal intacto ( vivo ou morto ) , ou um animal parte do produto / derivado?";
+"id_wizard_questions_primary_covering" = "O que é o revestimento primário do corpo do animal?";
+"id_wizard_questions_legs" = "How many legs does the animal have?";
+"id_wizard_questions_color" = "Qual é a principal cor do animal?";
+"id_wizard_questions_size" = "O que é o tamanho aproximado do animal?";
+"id_wizard_questions_special_features" = "Será que o animal tem todas as características especiais? (Marque todas que se aplicam)";
+"id_wizard_questions_part_product" = "Qual é o objetivo aparente da peça / produto?";
+"id_wizard_questions_material" = "De que material é o produto feito?";
+"id_wizard_questions_body_part" = "Qual parte do corpo do animal é?";
+"id_wizard_questions_plant_form" = "Qual a forma de apresentação?";
+"id_wizard_questions_plant_purpose" = "Qual é o propósito?";
+
+/*Intact/Animal */
+"id_wizard_prod_ani_intact_animal" = "Animal intacto";
+"id_wizard_prod_ani_animal_part_product" = "Parte animal / Produto";
+
+/* Covering */
+"id_wizard_covering_scales" = "Escalas";
+"id_wizard_covering_fur" = "Pele";
+"id_wizard_covering_feathers" = "pena";
+"id_wizard_covering_skin" = "pele";
+"id_wizard_covering_not_sure" = "Outros / não tenho certeza";
+
+/* Colors */
+"id_wizard_color_red" = "Vermelho";
+"id_wizard_color_orange" ="Laranja";
+"id_wizard_color_yellow" ="Amarelo";
+"id_wizard_color_green" ="Verde";
+"id_wizard_color_blue" ="azul";
+"id_wizard_color_purple" ="Roxa";
+"id_wizard_color_gray" ="cinza";
+"id_wizard_color_brown" ="Marrom";
+"id_wizard_color_white" ="Branco";
+"id_wizard_color_black" ="Preto";
+"id_wizard_color_not_sure" ="Outros / não tenho certeza";
+
+/* Size */
+"id_wizard_size_small_hand" = "Menor do que a sua mão";
+"id_wizard_size_average_dog" = "Menor do que o cão médio";
+"id_wizard_size_smaller_than_you" = "Menor do que você";
+"id_wizard_size_larger_than_you" = "Maior do que você";
+"id_wizard_size_not_sure" = "Não tenho certeza";
+
+
+/* Food Clothing etc */
+"id_wizard_purpose_food" = "Alimentos";
+"id_wizard_purpose_clothing" = "Roupa";
+"id_wizard_purpose_jewelry" = "Jóias";
+"id_wizard_purpose_trophy" = "Troféu / ornamento";
+"id_wizard_purpose_medicine" = "Medicina";
+"id_wizard_purpose_not_sure" = "Outro / Não tenho certeza";
+
+/*Bone Leather etc */
+"id_wizard_material_bone" = "Osso";
+"id_wizard_material_pelt" = "Pele/leather";
+"id_wizard_material_shell" = "Concha";
+"id_wizard_material_poweder" = "Pó";
+"id_wizard_material_meat" = "Carne";
+"id_wizard_material_not_sure" = "Outros";
+
+
+/* Horn Tusk etc */
+"id_wizard_part_horn" = "Corno";
+"id_wizard_part_tusk" = "Tusk";
+"id_wizard_part_skin" = "Pele";
+"id_wizard_part_paw" = "Pata";
+"id_wizard_part_claw" = "Dente / garra";
+"id_wizard_part_not_sure" = "Outro/Não sei";
+
+/* Plant Form */
+"id_wizard_plant_form_intact" = "Intacto";
+"id_wizard_plant_form_timber" = "Madeira";
+"id_wizard_plant_form_article" = "Artigo/objeto/produto";
+"id_wizard_plant_form_other" = "Outro/Não sei";
+
+/* Plant Purpose */
+"id_wizard_plant_purpose_food" = "Alimento";
+"id_wizard_plant_purpose_furniture" = "Móvel";
+"id_wizard_plant_purpose_ornament" = "Ornamento";
+"id_wizard_plant_purpose_medicine" = "Medicina/remédio";
+"id_wizard_plant_purpose_article" = "Artigo/objeto/produto";
+"id_wizard_plant_purpose_other" = "Outro/Não sei";
+
+/* Gallery Options */
+"pref_gallery_view_gallery" = "Galeria";
+"pref_gallery_view_list" = "Lista";
+"pref_gallery_view_as_left" = "Como eu deixei";
+
+
+/* Sync Messages */
+"sync_progress_reports" = "Verificando relatórios pendentes...";
+"sync_progress_content" = "Atualizando conteúdo...";
+"sync_progress_contents" = "Atualizando conteúdo...";
+"sync_progress_contacts" = "Atualizando lista de contatos...";
+"sync_progress_species" = "Atualizando lista de espécies...";
+"sync_progress_sp" = "Atualizando lista de espécies...";
+"sync_progress_events" = "Checando por novos eventos....";
+"sync_progress_translations" = "Atualizando traduções...";
+"sync_progress_photos" = "Verificando fotos...";
+"sync_progress_regions" = "Regiões Atualizando...";
+"sync_progress_regions_stat" = "Atualizando regiões estatísticas...";
+
+

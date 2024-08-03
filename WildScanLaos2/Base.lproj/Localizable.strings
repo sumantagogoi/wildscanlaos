@@ -1,0 +1,946 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Wed, 25 May 2016 15:38:14 +0100
+ */
+
+/*  */
+"blank" = "blank";
+
+/*  */
+"app_name" = "WildScan";
+
+/*  */
+"file_provider_authorities" = "org.freeland.wildscan.fileprovider";
+
+/*  */
+"sync_provider_authorities" = "org.freeland.wildscan.syncprovider";
+
+/*  */
+"sync_account_type" = "org.freeland.wildscan.data.sync";
+
+/*  */
+"action_synchronize" = "Synchronize data";
+
+/*  */
+"action_info" = "Help & Info";
+
+/*  */
+"action_settings" = "Settings";
+
+/*  */
+"info_title" = "Wildscan Info";
+
+/*  */
+"info_about" = "About Wildscan";
+
+/*  */
+"info_eula" = "End User License Agreement";
+
+/*  */
+"info_consumer" = "General Advice for Consumers";
+
+/*  */
+"info_responder" = "General Advice for First Responders";
+
+/*  */
+"info_law_enforcement" = "General Advice for Law Enforcement";
+
+/*  */
+"info_national_laws" = "National Wildlife Laws";
+
+/*  */
+"info_contributors" = "Contributing Organizations";
+
+/*  */
+"info_credits" = "Credits";
+
+/*  */
+"info_help" = "Help";
+
+/*  */
+"info_back" = "Back";
+
+/*  */
+"home_id_species_btn_desc" = "Identify Species Button on Home Screan";
+
+/*  */
+"home_submit_report_btn_desc" = "Submit Report Button on Home Screan";
+
+/*  */
+"home_species_lib_btn_desc" = "Species Library Button on Home Screan";
+
+/*  */
+"home_contacts_btn_desc" = "Contacts Button on Home Screan";
+
+/*  */
+"species_lib_header_title" = "Species Library";
+
+/*  */
+"species_lib_header_btn_favorites" = "Favorites";
+
+/*  */
+"species_lib_header_btn_gallery" = "Gallery View";
+
+/*  */
+"species_lib_header_btn_search" = "Search";
+
+/*  */
+"species_lib_search_by_name_hint" = "Enter species name";
+
+/*  */
+"species_lib_search_set_filter" = "Filter by type";
+
+/*  */
+"species_lib_select_dlg_text" = "Select species for report or view species details?";
+
+/*  */
+"species_lib_select_dlg_btn_select" = "Select species";
+
+/*  */
+"species_lib_select_dlg_btn_details" = "View details";
+
+/*  */
+"species_details_label_cites" = "CITES Appendix";
+
+/*  */
+"species_details_label_cites_appendix_1" = "Appendix I";
+
+/*  */
+"species_details_label_cites_appendix_2" = "Appendix II";
+
+/*  */
+"species_details_label_cites_appendix_3" = "Appendix III";
+
+/*  */
+"species_details_label_status" = "IUCN Red-list Status";
+
+/*  */
+"species_details_label_status_lc" = "Least Concern";
+
+/*  */
+"species_details_label_status_nt" = "Near Threatened";
+
+/*  */
+"species_details_label_status_vu" = "Vulnerable";
+
+/*  */
+"species_details_label_status_en" = "Endangered";
+
+/*  */
+"species_details_label_status_cr" = "Critically Endangered";
+
+/*  */
+"species_details_label_status_ew" = "Extinct in the Wild";
+
+/*  */
+"species_details_label_status_ex" = "Extinct";
+
+/*  */
+"species_details_label_status_na" = "Not Assessed";
+
+/*  */
+"species_details_label_warning" = "Warnings";
+
+/*  */
+"species_details_label_warning_disease_risk" = "disease risk";
+
+/*  */
+"species_details_label_warning_disease_risk_low" = "Low";
+
+/*  */
+"species_details_label_warning_disease_risk_medium" = "Medium";
+
+/*  */
+"species_details_label_warning_disease_risk_high" = "High";
+
+/*  */
+"species_details_label_warning_dangerous" = "Dangerous";
+
+/*  */
+"species_details_label_warning_poisonous" = "Poisonous";
+
+/*  */
+"species_details_label_warning_nocturnal" = "Nocturnal";
+
+/*  */
+"species_details_label_id_clues" = "Identification Clues";
+
+/*  */
+"species_details_label_similar" = "Similar Species";
+
+/*  */
+"species_details_label_enforcement" = "Law Enforcement Advice";
+
+/*  */
+"species_details_label_consumer" = "Consumer Advice";
+
+/*  */
+"species_details_label_responder" = "First Responder Advice";
+
+/*  */
+"species_details_label_traded_as" = "Traded as";
+
+/*  */
+"species_details_label_common_methods" = "Common Trafficking Methods";
+
+/*  */
+"species_details_label_aka" = "Also Known as";
+
+/*  */
+"species_details_label_distribution" = "Distribution";
+
+/*  */
+"species_details_label_size" = "Average Size and Weight";
+
+/*  */
+"species_details_label_habitat" = "Habitat";
+
+/*  */
+"species_details_label_diseases" = "Zoonotic Diseases";
+
+/*  */
+"species_details_label_notes" = "Notes";
+
+/*  */
+"species_details_photo_license" = "Photo license:\n%1$s";
+
+/*  */
+"species_details_failed_set_fav" = "Failed setting favorite";
+
+/*  */
+"species_details_no_images" = "No species image currently available";
+
+/*  */
+"contacts_list_header_title" = "Contacts Directory";
+
+/*  */
+"contacts_list_header_btn_favorites" = "Favorites";
+
+/*  */
+"contacts_list_header_btn_search" = "Search";
+
+/*  */
+"contacts_list_search_by_name_hint" = "Enter contact name";
+
+/*  */
+"contacts_list_label_email" = "Email";
+
+/*  */
+"contacts_list_label_phone" = "Phone";
+
+/*  */
+"events_list_header_title" = "Events Listing";
+
+/*  */
+"events_list_header_btn_favorites" = "Favorites";
+
+/*  */
+"events_list_header_btn_show_on_map" = "Show on map";
+
+/*  */
+"events_list_header_btn_view_more" = "View more";
+
+/*  */
+"events_list_fragment_title" = "Recent Events";
+
+/*  */
+"events_list_fragment_tag_on_home" = "EventsListFragmentOnHomeScreen";
+
+/*  */
+"events_list_fragment_tag" = "EventsListFragment";
+
+/*  */
+"events_list_loading_text" = "Retrieving events…";
+
+/*  */
+"events_list_empty_text" = "No events";
+
+/*  */
+"event_hint_country" = "Unknown Country";
+
+/*  */
+"event_hint_date" = "Unknown Date";
+
+/*  */
+"event_hint_species" = "Unspecified Species";
+
+/*  */
+"event_hint_description" = "Incident description is empty";
+
+/*  */
+"events_map_header_title" = "Events Map";
+
+/*  */
+"events_map_header_btn_next" = "Next";
+
+/*  */
+"events_map_header_btn_show_list" = "Show Listing";
+
+/*  */
+"event_details_offense_label" = "Offense";
+
+/*  */
+"event_details_address_label" = "Address";
+
+/*  */
+"event_details_country_label" = "Country";
+
+/*  */
+"event_details_datetime_label" = "Date and time";
+
+/*  */
+"event_details_species_label" = "Species";
+
+/*  */
+"event_details_amount_label" = "Amount";
+
+/*  */
+"event_details_condition_label" = "Condition";
+
+/*  */
+"event_details_unknown" = "Unknown";
+
+/*  */
+"no_network_connection_toast" = "No network connection found";
+
+/*  */
+"species_id_wizard_header_title" = "Identify Species";
+
+/*  */
+"report_wizard_screen_1_title" = "Incident Report(1) - Main Photo";
+
+/*  */
+"report_wizard_screen_2_title" = "Incident Report(2) - Basic Info";
+
+/*  */
+"report_wizard_screen_3_title" = "Incident Report(3) - More Details";
+
+/*  */
+"report_wizard_screen_4_title" = "Incident Report(4) - Review and Submit";
+
+/*  */
+"report_wizard_location_pick_title" = "Incident Report - Pick Location";
+
+/*  */
+"report_wizard_screen_1_capture_label" = "Take Photo";
+
+/*  */
+"report_wizard_screen_1_browse_label" = "Choose Existing Photo";
+
+/*  */
+"report_wizard_screen_2_time_label" = "Date & Time";
+
+/*  */
+"report_wizard_screen_2_location_label" = "Location";
+
+/*  */
+"report_wizard_screen_2_offense_label" = "Offense";
+
+/*  */
+"report_wizard_screen_2_offense_hint" = "Briefly describe the offense. For example: 'Selling protected reptiles'";
+
+/*  */
+"report_wizard_screen_2_species_label" = "Species";
+
+/*  */
+"report_wizard_screen_2_species_hint" = "Type species common name";
+
+/*  */
+"report_wizard_screen_2_amount_label" = "Amount";
+
+/*  */
+"report_wizard_screen_2_amount_unit_label" = "individuals";
+
+/*  */
+"report_wizard_screen_2_amount_weight_label" = "kg";
+
+/*  */
+"report_wizard_screen_2_condition_label" = "Condition";
+
+/*  */
+"report_wizard_screen_2_condition_alive_label" = "alive";
+
+/*  */
+"report_wizard_screen_2_condition_dead_label" = "dead";
+
+/*  */
+"report_wizard_screen_2_condition_mixed_label" = "mixed";
+
+/*  */
+"report_wizard_screen_3_offense_details_label" = "Offense detailed description";
+
+/*  */
+"report_wizard_screen_3_offense_details_hint" = "Provide a detailed description of the offense (up to 2048 characters)";
+
+/*  */
+"report_wizard_screen_3_method_label" = "Method";
+
+/*  */
+"report_wizard_screen_3_method_hint" = "Describe the methods used to commit the offense (up to 1024 characters)";
+
+/*  */
+"report_wizard_screen_3_value_label" = "Value Estimate";
+
+/*  */
+"report_wizard_screen_3_value_usd" = "$US";
+
+/*  */
+"report_wizard_screen_3_zero_cents" = ".00";
+
+/*  */
+"report_wizard_screen_3_route_label" = "Route";
+
+/*  */
+"report_wizard_screen_3_origin_label" = "Origin";
+
+/*  */
+"report_wizard_screen_3_destination_label" = "Destination";
+
+/*  */
+"report_wizard_screen_3_vessel_label" = "Offending Vehicle/Vessel Details";
+
+/*  */
+"report_wizard_screen_3_vessel_description_label" = "Description";
+
+/*  */
+"report_wizard_screen_3_vessel_id_label" = "License #";
+
+/*  */
+"report_wizard_screen_3_vessel_name_label" = "Vessel Name";
+
+/*  */
+"report_wizard_screen_4_share_title" = "Share options";
+
+/*  */
+"report_wizard_screen_4_add_contact" = "Add contact";
+
+/*  */
+"report_wizard_screen_4_recipients_label" = "Contacts";
+
+/*  */
+"report_wizard_screen_4_share_text" = "By default, your report will be sent to the Wildscan team which will forward it to the relevant authorities. You can add specific contacts that will receive the report.";
+
+/*  */
+"report_wizard_screen_4_share_email_label" = "Share report via e-mail";
+
+/*  */
+"report_wizard_screen_4_share_email_text" = "If checked, your e-mail client app will be opened with a new message containing the report details.";
+
+/*  */
+"report_wizard_screen_4_photos_label" = "Photos";
+
+/*  */
+"report_wizard_screen_4_add_photo_label" = "These photos will be included in the report. Click to add another photo (max. 3)";
+
+/*  */
+"report_wizard_screen_4_private_label" = "Mark report as private";
+
+/*  */
+"report_wizard_screen_4_private_text" = "Private reports will not be syndicated to other WildScan users";
+
+/*  */
+"report_wizard_confirm_discard_title" = "Discard report?";
+
+/*  */
+"report_wizard_confirm_discard_message" = "All the information will be discarded";
+
+/*  */
+"report_wizard_warning_dialog_title" = "Warning!";
+
+/*  */
+"report_wizard_warning_dialog_message" = "Reporting wildlife trafficking and crime has the potential to be dangerous. \n\t    \t\t\t\t\t\t\t\t\t\t\t\tUsers of Wildscan should always exercise caution when photographing suspected \n\t    \t\t\t\t\t\t\t\t\t\t\t\twildlife crime and should never place themselves in danger to report such crime.";
+
+/*  */
+"report_wizard_location_loading" = "Retrieving Address…";
+
+/*  */
+"report_wizard_location_hint" = "Enter Location";
+
+/*  */
+"report_submit_dialog_title" = "Submit Report";
+
+/*  */
+"report_submit_message" = "Submitting report to WildScan…";
+
+/*  */
+"report_submit_success" = "Report submitted successfully and will be reviewed by WildScan";
+
+/*  */
+"report_submit_fail" = "Submission failed. The report will be submitted during the next synchronization";
+
+/*  */
+"report_email_title" = "Wildscan App Automatic Report [%1$s]";
+
+/*  */
+"report_email_section_name_datetime" = "Date/Time";
+
+/*  */
+"report_email_section_name_location_lat" = "Location latitude";
+
+/*  */
+"report_email_section_name_location_lon" = "Location longitude";
+
+/*  */
+"report_email_section_name_description" = "Incident description";
+
+/*  */
+"report_email_section_name_species" = "Species";
+
+/*  */
+"report_email_section_name_amount" = "Number";
+
+/*  */
+"report_email_section_name_condition" = "Condition";
+
+/*  */
+"report_email_section_name_details" = "Offense details";
+
+/*  */
+"report_email_section_name_method" = "Method";
+
+/*  */
+"report_email_section_name_value" = "Value estimate (USD)";
+
+/*  */
+"report_email_section_name_origin_address" = "Origin address";
+
+/*  */
+"report_email_section_name_origin_lat" = "Origin latitude";
+
+/*  */
+"report_email_section_name_origin_lon" = "Origin longitude";
+
+/*  */
+"report_email_section_name_dest_address" = "Destination address";
+
+/*  */
+"report_email_section_name_dest_lat" = "Destination latitude";
+
+/*  */
+"report_email_section_name_dest_lon" = "Destination longitude";
+
+/*  */
+"report_email_section_name_vessel_description" = "Vehicle/Vessel description";
+
+/*  */
+"report_email_section_name_vessel_id" = "Vehicle/Vessel license number";
+
+/*  */
+"report_email_section_name_vessel_name" = "Vessel name";
+
+/*  */
+"location_picker_map_target_title" = "Incident Location";
+
+/*  */
+"date_time_picker_dialog_title" = "Set date and time";
+
+/*  */
+"sync_wifi_unavailable" = "Wifi network not available. Please connect to wifi to perform sync.";
+
+/*  */
+"sync_initial_starting_message" = "Performing first-time synchronization, this may take several minutes depending on your connection speed";
+
+/*  */
+"sync_starting_message" = "Synchronizing data";
+
+/*  */
+"sign_in_request_message" = "WildScan requires each user to sign into the app to ensure the security of the information sent through reports.\nPlease verify your identity by signing in with your Google account";
+
+/*  */
+"status_signing_in" = "Signing in…";
+
+/*  */
+"status_signed_out" = "Signed out";
+
+/*  */
+"status_signed_in_as" = "Signed in as %1$s";
+
+/*  */
+"status_sign_in_hint" = "Sign-in status";
+
+/*  */
+"status_play_services_error" = "Google Play Services Error!!";
+
+/*  */
+"status_retrieve_id" = "Retrieving Google ID";
+
+/*  */
+"status_registration_fail" = "Account registration failed";
+
+/*  */
+"status_new_user_signin_fail" = "New user sign in failed, please try to restart the app";
+
+/*  */
+"status_login_failed" = "Login failed";
+
+/*  */
+"status_server_error" = "Server error. Please try again later";
+
+/*  */
+"status_server_error_code" = "Server error (%1$d)";
+
+/*  */
+"status_registering" = "Registering account with WildScan";
+
+/*  */
+"status_signup_failed" = "Signup failed";
+
+/*  */
+"status_signin_failed_abort" = "Signup failed";
+
+/*  */
+"status_verification_failed" = "User verification failed";
+
+/*  */
+"status_verify" = "Verifying account";
+
+/*  */
+"status_apk_exp_dl_fail_abort" = "Failed to download APK expansion file(s). App will finish";
+
+/*  */
+"status_apk_exp_download" = "Downloading APK expansion file(s) (%1$d%%)";
+
+/*  */
+"pref_screen_title" = "Wildscan Settings";
+
+/*  */
+"pref_label_sync" = "Sync settings";
+
+/*  */
+"pref_summary_sync" = "Allow sync only when connected to Wi-Fi";
+
+/*  */
+"pref_label_gallery_view" = "Default species gallery view";
+
+/*  */
+"pref_summary_gallery_view" = "Choose the default behavior of species library";
+
+/*  */
+"pref_label_language" = "Set content language";
+
+/*  */
+"pref_summary_language" = "Choose language for app content display";
+
+/*  */
+"pref_entry_device_language" = "Use device language";
+
+/*  */
+"pref_entry_current_supported" = "Only %1$s is currently available";
+
+/*  */
+"pref_label_auto_contacts" = "Default report recipients";
+
+/*  */
+"pref_summary_auto_contacts" = "Specify contacts that will be added by default to the list of report recipients";
+
+/*  */
+"pref_label_save_report" = "Save Reports";
+
+/*  */
+"pref_summary_save_report" = "Retain a backup copy of reports after successful submission";
+
+/*  */
+"pref_label_show_warning" = "Show report warning";
+
+/*  */
+"pref_summary_show_warning" = "Show popup warning when starting a new report";
+
+/*  */
+"msg_map_no_events" = "No events to show on map";
+
+/*  */
+"msg_contact_fav_empty" = "No favorites set, showing all contacts";
+
+/*  */
+"msg_species_lib_no_close_events" = "No recent events close by, showing all species";
+
+/*  */
+"msg_species_lib_no_location" = "Unable to retrieve current location, showing all species";
+
+/*  */
+"msg_species_lib_wizard_empty" = "No species matches your answers, please try again or submit an unknown species report";
+
+/*  */
+"msg_species_lib_filter_empty" = "No species matches the selected filter, please choose another type";
+
+/*  */
+"msg_species_lib_list_empty" = "Species list is empty";
+
+/*  */
+"msg_species_lib_fav_empty" = "No favorites set, showing all species";
+
+/*  */
+"msg_species_lib_search_not_found" = "Species not found in list (do you have a filter/favorites set?)";
+
+/*  */
+"msg_report_contact_no_email" = "Contact %1$s has no e-mail address and will not be added to e-mail recipients";
+
+/*  */
+"msg_report_gallery_photo_added" = "Extra image from gallery added to report";
+
+/*  */
+"msg_no_adress_found" = "No address found";
+
+/*  */
+"msg_no_adress_for_location" = "No address found for location\n(lat: %1$5.2f, lon: %2$5.2f)";
+
+/*  */
+"msg_crc_check_fail" = "Fatal: CRC check failed, aborting";
+
+/* button text labels */
+"OK" = "OK";
+
+/*  */
+"yes" = "Yes";
+
+/*  */
+"no" = "No";
+
+/*  */
+"apply" = "Apply";
+
+/*  */
+"cancel" = "Cancel";
+
+/*  */
+"close" = "Close";
+
+/*  */
+"skip" = "Skip";
+
+/*  */
+"next" = "Next";
+
+/*  */
+"capture" = "Take Photo";
+
+/*  */
+"recapture" = "Take Another Photo";
+
+/*  */
+"browse" = "Choose Existing";
+
+/*  */
+"rebrowse" = "Choose Another Existing";
+
+/*  */
+"identify" = "Identify";
+
+/*  */
+"back" = "Back";
+
+/*  */
+"submit" = "Submit Report";
+
+/*  */
+"details" = "More Details";
+
+/*  */
+"set" = "Set";
+
+/*  */
+"done" = "Done";
+
+/*  */
+"discard" = "Discard";
+
+/*  */
+"dismiss" = "Dismiss";
+
+/*  */
+"do_not_show" = "Don't show this message again";
+
+/*  */
+"error" = "Error";
+
+/*  */
+"exit" = "Exit";
+
+/*  */
+"retry" = "Retry";
+
+/* Region Dialog text */
+"region_dialog_title" = "Choose your Region";
+
+/*  */
+"region_dialog_heading1" = "Your Reporting Region";
+
+/*  */
+"region_dialog_heading2" = "Species and Contacts region";
+
+/*  */
+"region_dialog_sub_title" = "Download extra region specific Species and Contacts";
+
+/*  */
+"region_dialog_global" = "Global (Default)";
+
+/*  */
+"region_dialog_south_asia" = "South East Asia";
+
+/*  */
+"region_dialog_africa" = "Africa";
+
+/*  */
+"region_dialog_south_america" = "South America";
+
+/*  */
+"region_species" = "Species";
+
+/*  */
+"region_contacts" = "Contacts";
+
+/*  */
+"text_coming_soon" = "Coming Soon";
+
+/*  */
+"pass1" = "9oB8y2yd17U1nE7217Sq2UoX80ol0I82MB617E2e";
+
+/*  */
+"action_region" = "Change Region";
+
+/*  */
+"region_global" = "Global (Default)";
+
+/*  */
+"region_south_east_asia" = "South East Asia";
+
+/*  */
+"region_africa" = "Africa";
+
+/*  */
+"region_south_america" = "South America";
+
+/*  */
+"dialog_tutorial_message" = "You can download additional species and contacts here.";
+
+"species_filters_all" = "All";
+
+"species_filters_mammal" = "Mammal";
+
+"species_filters_bird"  = "Bird";
+
+"species_filters_fish" = "Fish";
+
+"species_filters_reptile" = "Reptile";
+
+"species_filters_amphibian" = "Amphibian";
+
+"species_filters_invetebrate" = "Invertebrate";
+
+"species_filters_plants"  = "Plant";
+
+"species_filters_product"  = "Derivative products";
+
+"species_filters_close_species"  = "Close Species";
+
+/* Wizard Questions */
+"id_wizard_questions_live_deceased" = "Is it an intact animal (live or deceased), or an animal part/derivative product?";
+"id_wizard_questions_primary_covering" = "What is the primary covering of the animal\'s body?";
+"id_wizard_questions_legs" = "How many legs does the animal have?";
+"id_wizard_questions_color" = "What is the main color of the animal?";
+"id_wizard_questions_size" = "What is the approximate size of the animal?";
+"id_wizard_questions_special_features" = "Does the animal have any special features?\n(check all that apply)";
+"id_wizard_questions_part_product" = "What is the apparent purpose of the part/product?";
+"id_wizard_questions_material" = "What material is the part/product made of?";
+"id_wizard_questions_body_part" = "Which part of the animal\'s body is it?";
+"id_wizard_questions_plant_form" = "What form is it in?";
+"id_wizard_questions_plant_purpose" = "What is its purpose?";
+
+
+/*Intact/Animal/Plant */
+"id_wizard_prod_ani_intact_animal" = "Intact animal";
+"id_wizard_prod_ani_animal_part_product" = "Animal part / product";
+"id_wizard_prod_ani_plant" = "Plant";
+
+/* Covering */
+"id_wizard_covering_scales" = "Scales";
+"id_wizard_covering_fur" = "Fur";
+"id_wizard_covering_feathers" = "Feathers";
+"id_wizard_covering_skin" = "Skin";
+"id_wizard_covering_not_sure" = "Other/Not sure";
+
+/* Colors */
+"id_wizard_color_red" = "Red";
+"id_wizard_color_orange" ="Orange";
+"id_wizard_color_yellow" ="Yellow";
+"id_wizard_color_green" ="Green";
+"id_wizard_color_blue" ="Blue";
+"id_wizard_color_purple" ="Purple";
+"id_wizard_color_gray" ="Gray";
+"id_wizard_color_brown" ="Brown";
+"id_wizard_color_white" ="White";
+"id_wizard_color_black" ="Black";
+"id_wizard_color_not_sure" ="Other/Not sure";
+
+/* Size */
+"id_wizard_size_small_hand" = "Smaller than your hand";
+"id_wizard_size_average_dog" = "Smaller than an average dog";
+"id_wizard_size_smaller_than_you" = "Smaller than you";
+"id_wizard_size_larger_than_you" = "Larger than you";
+"id_wizard_size_not_sure" = "Not sure";
+
+
+/* Food Clothing etc */
+"id_wizard_purpose_food" = "Food";
+"id_wizard_purpose_clothing" = "Clothing";
+"id_wizard_purpose_jewelry" = "Jewelry";
+"id_wizard_purpose_trophy" = "Trophy/ornament";
+"id_wizard_purpose_medicine" = "Medicine";
+"id_wizard_purpose_not_sure" = "Other/Not sure";
+
+/*Bone Leather etc */
+"id_wizard_material_bone" = "Bone";
+"id_wizard_material_pelt" = "Pelt/leather";
+"id_wizard_material_shell" = "Shell";
+"id_wizard_material_poweder" = "Powder";
+"id_wizard_material_meat" = "Meat";
+"id_wizard_material_not_sure" = "Other/Not sure";
+
+
+/* Horn Tusk etc */
+"id_wizard_part_horn" = "Horn";
+"id_wizard_part_tusk" = "Tusk";
+"id_wizard_part_skin" = "Skin";
+"id_wizard_part_paw" = "Paw";
+"id_wizard_part_claw" = "Tooth/claw";
+"id_wizard_part_not_sure" = "Other/Not sure";
+
+/* Plant Form */
+"id_wizard_plant_form_intact" = "Intact";
+"id_wizard_plant_form_timber" = "Timber";
+"id_wizard_plant_form_article" = "Article";
+"id_wizard_plant_form_other" = "Other/Not sure";
+
+/* Plant Purpose */
+"id_wizard_plant_purpose_food" = "Food";
+"id_wizard_plant_purpose_furniture" = "Furniture";
+"id_wizard_plant_purpose_ornament" = "Ornament";
+"id_wizard_plant_purpose_medicine" = "Medicine";
+"id_wizard_plant_purpose_article" = "Article";
+"id_wizard_plant_purpose_other" = "Other/Not sure";
+
+
+/* Gallery Options */
+"pref_gallery_view_gallery" = "Gallery";
+"pref_gallery_view_list" = "List";
+"pref_gallery_view_as_left" = "As I left it";
+
+
+/* Sync Messages */
+"sync_progress_reports" = "Checking for pending reports...";
+"sync_progress_content" = "Updating content...";
+"sync_progress_contents" = "Updating content...";
+"sync_progress_contacts" = "Updating contacts...";
+"sync_progress_species" = "Updating species...";
+"sync_progress_sp" = "Updating species...";
+"sync_progress_events" = "Checking for new events....";
+"sync_progress_translations" = "Updating translations...";
+"sync_progress_photos" = "Verifying photos...";
+"sync_progress_regions" = "Updating regions...";
+"sync_progress_regions_stat" = "Updating regions stats...";
+
+

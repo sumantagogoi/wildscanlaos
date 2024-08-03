@@ -1,0 +1,372 @@
+
+/* Class = "UITextField"; text = "Enter species name"; ObjectID = "03n-Df-QBL"; */
+"03n-Df-QBL.text" = "Enter species name";
+
+/* Class = "UITextView"; text = "Provide a detailed description of the offense (up to 2048 characters)"; ObjectID = "16h-T6-ZiK"; */
+"16h-T6-ZiK.text" = "Provide a detailed description of the offense (up to 2048 characters)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1OE-Lt-nCI"; */
+"1OE-Lt-nCI.text" = "Label";
+
+/* Class = "UILabel"; text = "Share report via e-mail"; ObjectID = "1au-Le-8Um"; */
+"1au-Le-8Um.text" = "Share report via e-mail";
+
+/* Class = "UIButton"; normalTitle = "Take Photo"; ObjectID = "2Gf-1N-NUk"; */
+"2Gf-1N-NUk.normalTitle" = "Take Photo";
+
+/* Class = "UILabel"; text = "License #"; ObjectID = "32a-Rv-LtA"; */
+"32a-Rv-LtA.text" = "License #";
+
+/* Class = "UILabel"; text = "Condition"; ObjectID = "3Ou-dk-WO6"; */
+"3Ou-dk-WO6.text" = "Condition";
+
+/* Class = "UILabel"; text = "Identify Species"; ObjectID = "4RC-YF-IS2"; */
+"4RC-YF-IS2.text" = "Identify Species";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "4Sb-bV-4yr"; */
+"4Sb-bV-4yr.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel"; ObjectID = "4VI-lH-81m"; */
+"4VI-lH-81m.text" = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "4Zu-06-RBZ"; */
+"4Zu-06-RBZ.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Dead"; ObjectID = "5dq-eV-nJ5"; */
+"5dq-eV-nJ5.text" = "Dead";
+
+/* Class = "UIButton"; normalTitle = "Show Listing"; ObjectID = "6VA-mK-jjK"; */
+"6VA-mK-jjK.normalTitle" = "Show Listing";
+
+/* Class = "UIButton"; normalTitle = "Derivative products"; ObjectID = "6dQ-lD-yUO"; */
+"6dQ-lD-yUO.normalTitle" = "Derivative products";
+
+/* Class = "UILabel"; text = "Don't show this message again"; ObjectID = "6qk-Be-9Tk"; */
+"6qk-Be-9Tk.text" = "Don't show this message again";
+
+/* Class = "UILabel"; text = "Tail"; ObjectID = "7Bo-Ai-ux2"; */
+"7Bo-Ai-ux2.text" = "Tail";
+
+/* Class = "UILabel"; text = "Incident Report(2) - Basic Info"; ObjectID = "7ZU-AF-wnd"; */
+"7ZU-AF-wnd.text" = "Incident Report(2) - Basic Info";
+
+/* Class = "UITextField"; text = "Enter contact name"; ObjectID = "7ih-aN-MpT"; */
+"7ih-aN-MpT.text" = "Enter contact name";
+
+/* Class = "UILabel"; text = "Vessel Name"; ObjectID = "7mH-U4-hFE"; */
+"7mH-U4-hFE.text" = "Vessel Name";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "84J-Sx-rYS"; */
+"84J-Sx-rYS.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Birds"; ObjectID = "AY4-hH-c23"; */
+"AY4-hH-c23.normalTitle" = "Birds";
+
+/* Class = "UIButton"; normalTitle = "All types"; ObjectID = "AZ1-5k-iqN"; */
+"AZ1-5k-iqN.normalTitle" = "All types";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AkB-dl-D9D"; */
+"AkB-dl-D9D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reptiles"; ObjectID = "B3x-5t-Nda"; */
+"B3x-5t-Nda.normalTitle" = "Reptiles";
+
+/* Class = "UILabel"; text = "Events Listing"; ObjectID = "B8h-Xa-TED"; */
+"B8h-Xa-TED.text" = "Events Listing";
+
+/* Class = "UITextView"; text = "Describe the methods used to commit the offense (up to 1024 characters)"; ObjectID = "BIO-Y5-xaI"; */
+"BIO-Y5-xaI.text" = "Describe the methods used to commit the offense (up to 1024 characters)";
+
+/* Class = "UITextField"; text = "Enter Location"; ObjectID = "BkY-yt-OX2"; */
+"BkY-yt-OX2.text" = "Enter Location";
+
+/* Class = "UIButton"; normalTitle = "Mammals"; ObjectID = "CF9-MO-aCt"; */
+"CF9-MO-aCt.normalTitle" = "Mammals";
+
+/* Class = "UIButton"; normalTitle = "Choose Another Existing"; ObjectID = "Cyy-Cx-tt5"; */
+"Cyy-Cx-tt5.normalTitle" = "Choose Another Existing";
+
+/* Class = "UILabel"; text = "Take Photo"; ObjectID = "DKF-7l-Rc2"; */
+"DKF-7l-Rc2.text" = "Take Photo";
+
+/* Class = "UILabel"; text = "Offense detailed description"; ObjectID = "DNO-lK-Rub"; */
+"DNO-lK-Rub.text" = "Offense detailed description";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "DQm-xg-H8D"; */
+"DQm-xg-H8D.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Submit Report"; ObjectID = "DTg-fK-28A"; */
+"DTg-fK-28A.normalTitle" = "Submit Report";
+
+/* Class = "UILabel"; text = "ver 1.0"; ObjectID = "E3z-Dn-By3"; */
+"E3z-Dn-By3.text" = "ver 1.0";
+
+/* Class = "UILabel"; text = ".00"; ObjectID = "FEW-c7-VY6"; */
+"FEW-c7-VY6.text" = ".00";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Fyk-48-F40"; */
+"Fyk-48-F40.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Contacts Directory"; ObjectID = "H20-Kc-re2"; */
+"H20-Kc-re2.text" = "Contacts Directory";
+
+/* Class = "UILabel"; text = "Mark report as private"; ObjectID = "H2c-BK-lI2"; */
+"H2c-BK-lI2.text" = "Mark report as private";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "HhH-GM-gQV"; */
+"HhH-GM-gQV.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Your Reporting Region"; ObjectID = "JHE-hC-saw"; */
+"JHE-hC-saw.text" = "Your Reporting Region";
+
+/* Class = "UILabel"; text = "Method"; ObjectID = "JPz-MI-OLe"; */
+"JPz-MI-OLe.text" = "Method";
+
+/* Class = "UILabel"; text = "Species: 114"; ObjectID = "JY9-pU-pVU"; */
+"JY9-pU-pVU.text" = "Species: 114";
+
+/* Class = "UILabel"; text = "Beak"; ObjectID = "KLe-D0-bhR"; */
+"KLe-D0-bhR.text" = "Beak";
+
+/* Class = "UILabel"; text = "You can download additional species and contacts here."; ObjectID = "KRt-sp-dxd"; */
+"KRt-sp-dxd.text" = "You can download additional species and contacts here.";
+
+/* Class = "UITextField"; text = "Enter Location"; ObjectID = "LX6-4X-edi"; */
+"LX6-4X-edi.text" = "Enter Location";
+
+/* Class = "UILabel"; text = "Intact Animal"; ObjectID = "Lu2-uz-9YM"; */
+"Lu2-uz-9YM.text" = "Intact Animal";
+
+/* Class = "UIButton"; normalTitle = "Close Species"; ObjectID = "M2I-6N-NZ8"; */
+"M2I-6N-NZ8.normalTitle" = "Close Species";
+
+/* Class = "UILabel"; text = "$US"; ObjectID = "N1b-BT-MyG"; */
+"N1b-BT-MyG.text" = "$US";
+
+/* Class = "UILabel"; text = "Offense"; ObjectID = "OC5-Nx-vuw"; */
+"OC5-Nx-vuw.text" = "Offense";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OR1-5s-6sA"; */
+"OR1-5s-6sA.text" = "Label";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "R7W-1E-ipW"; */
+"R7W-1E-ipW.text" = "Destination";
+
+/* Class = "UILabel"; text = "Offending Vehicle/Vessel Details"; ObjectID = "RQv-Jl-00c"; */
+"RQv-Jl-00c.text" = "Offending Vehicle/Vessel Details";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "See-pJ-3OL"; */
+"See-pJ-3OL.text" = "Description";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "St6-X1-YNX"; */
+"St6-X1-YNX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Swq-3w-wcN"; */
+"Swq-3w-wcN.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Events Listing"; ObjectID = "TLp-gt-lcl"; */
+"TLp-gt-lcl.text" = "Events Listing";
+
+/* Class = "UIButton"; normalTitle = "Take Another Photo"; ObjectID = "TrI-Wj-dCQ"; */
+"TrI-Wj-dCQ.normalTitle" = "Take Another Photo";
+
+/* Class = "UILabel"; text = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note"; ObjectID = "UGn-Aq-L7S"; */
+"UGn-Aq-L7S.text" = "specaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note\nspecaility note";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "UHK-iv-wBr"; */
+"UHK-iv-wBr.normalTitle" = "Set";
+
+/* Class = "UIButton"; normalTitle = "More Details"; ObjectID = "ULM-J9-hCT"; */
+"ULM-J9-hCT.normalTitle" = "More Details";
+
+/* Class = "UILabel"; text = "Reporting wildlife trafficking and crime has the potential to be dangerous. Users of Wildscan should always exercise caution when photographing suspected wildlife crime and should never place themselves in danger to report such crime."; ObjectID = "ULm-5E-8vy"; */
+"ULm-5E-8vy.text" = "Reporting wildlife trafficking and crime has the potential to be dangerous. Users of Wildscan should always exercise caution when photographing suspected wildlife crime and should never place themselves in danger to report such crime.";
+
+/* Class = "UIButton"; normalTitle = "Amphibians"; ObjectID = "UZR-AM-14A"; */
+"UZR-AM-14A.normalTitle" = "Amphibians";
+
+/* Class = "UIButton"; normalTitle = "Show on map"; ObjectID = "Uwc-tQ-L4Q"; */
+"Uwc-tQ-L4Q.normalTitle" = "Show on map";
+
+/* Class = "UIButton"; normalTitle = "Canel"; ObjectID = "V8i-ul-7if"; */
+"V8i-ul-7if.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "If checked, your e-mail client app will be opened with a new message containing the report details."; ObjectID = "V9m-AI-I5z"; */
+"V9m-AI-I5z.text" = "If checked, your e-mail client app will be opened with a new message containing the report details.";
+
+/* Class = "UILabel"; text = "Individuals"; ObjectID = "WnE-Fu-reX"; */
+"WnE-Fu-reX.text" = "Individuals";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Wt0-g5-jtO"; */
+"Wt0-g5-jtO.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "All types"; ObjectID = "XKR-ff-aaT"; */
+"XKR-ff-aaT.normalTitle" = "All types";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xe6-to-W4X"; */
+"Xe6-to-W4X.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Type species common name"; ObjectID = "Y2n-zI-Brb"; */
+"Y2n-zI-Brb.placeholder" = "Type species common name";
+
+/* Class = "UILabel"; text = "Species Library"; ObjectID = "YQu-Ui-zWI"; */
+"YQu-Ui-zWI.text" = "Species Library";
+
+/* Class = "UILabel"; text = "name \nname"; ObjectID = "YWa-OZ-BHa"; */
+"YWa-OZ-BHa.text" = "name \nname";
+
+/* Class = "UILabel"; text = "imagecopyright"; ObjectID = "Zgt-Hc-HlE"; */
+"Zgt-Hc-HlE.text" = "imagecopyright";
+
+/* Class = "UILabel"; text = "Date & Time"; ObjectID = "Zrj-ta-eCI"; */
+"Zrj-ta-eCI.text" = "Date & Time";
+
+/* Class = "UIButton"; normalTitle = "Choose Existing"; ObjectID = "atg-N1-KJs"; */
+"atg-N1-KJs.normalTitle" = "Choose Existing";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "avo-Gn-9B5"; */
+"avo-Gn-9B5.text" = "Label";
+
+/* Class = "UILabel"; text = "Default report recipients"; ObjectID = "bH8-t5-Iri"; */
+"bH8-t5-Iri.text" = "Default report recipients";
+
+/* Class = "UILabel"; text = "Mixed"; ObjectID = "bR1-If-5ZC"; */
+"bR1-If-5ZC.text" = "Mixed";
+
+/* Class = "UILabel"; text = "CHECKING FOR NEW CONTACTS"; ObjectID = "bWf-Yt-5Kz"; */
+"bWf-Yt-5Kz.text" = "CHECKING FOR NEW CONTACTS";
+
+/* Class = "UILabel"; text = "Events Map"; ObjectID = "bqF-5g-3l2"; */
+"bqF-5g-3l2.text" = "Events Map";
+
+/* Class = "UILabel"; text = "Contacts"; ObjectID = "cCh-PJ-OV8"; */
+"cCh-PJ-OV8.text" = "Contacts";
+
+/* Class = "UILabel"; text = "Global (Default)"; ObjectID = "dFS-Sb-4MH"; */
+"dFS-Sb-4MH.text" = "Global (Default)";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dPT-Cc-ums"; */
+"dPT-Cc-ums.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "do4-gQ-gr5"; */
+"do4-gQ-gr5.text" = "Label";
+
+/* Class = "UILabel"; text = "Origin"; ObjectID = "eDI-gi-Hst"; */
+"eDI-gi-Hst.text" = "Origin";
+
+/* Class = "UILabel"; text = "SYNCHRONIZING DATA"; ObjectID = "efA-Q7-SGd"; */
+"efA-Q7-SGd.text" = "SYNCHRONIZING DATA";
+
+/* Class = "UILabel"; text = "Photos"; ObjectID = "fMs-D3-6vG"; */
+"fMs-D3-6vG.text" = "Photos";
+
+/* Class = "UILabel"; text = "Warning!"; ObjectID = "fet-hI-lmj"; */
+"fet-hI-lmj.text" = "Warning!";
+
+/* Class = "UILabel"; text = "Private reports will not be syndicated to other WildScan users"; ObjectID = "g25-wx-JF8"; */
+"g25-wx-JF8.text" = "Private reports will not be syndicated to other WildScan users";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g2e-vl-n2A"; */
+"g2e-vl-n2A.text" = "Label";
+
+/* Class = "UILabel"; text = "Global (Default)"; ObjectID = "hGV-it-zv0"; */
+"hGV-it-zv0.text" = "Global (Default)";
+
+/* Class = "UILabel"; text = "Value Estimate"; ObjectID = "hUg-r4-O0b"; */
+"hUg-r4-O0b.text" = "Value Estimate";
+
+/* Class = "UILabel"; text = "Incident Report(4) - Review and Submit"; ObjectID = "hiY-Jz-M2O"; */
+"hiY-Jz-M2O.text" = "Incident Report(4) - Review and Submit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j25-vV-NRF"; */
+"j25-vV-NRF.text" = "Label";
+
+/* Class = "UILabel"; text = "Alive"; ObjectID = "kf9-i5-f4Q"; */
+"kf9-i5-f4Q.text" = "Alive";
+
+/* Class = "UILabel"; text = "Shell"; ObjectID = "l2I-yP-8Q2"; */
+"l2I-yP-8Q2.text" = "Shell";
+
+/* Class = "UILabel"; text = "Wings"; ObjectID = "lU7-IS-JqN"; */
+"lU7-IS-JqN.text" = "Wings";
+
+/* Class = "UILabel"; text = "Kg"; ObjectID = "lXi-hm-Dwt"; */
+"lXi-hm-Dwt.text" = "Kg";
+
+/* Class = "UILabel"; text = "Route"; ObjectID = "laT-aB-cTC"; */
+"laT-aB-cTC.text" = "Route";
+
+/* Class = "UILabel"; text = "Species and Contacts Region"; ObjectID = "lff-ln-Nkz"; */
+"lff-ln-Nkz.text" = "Species and Contacts Region";
+
+/* Class = "UIButton"; normalTitle = "Plants"; ObjectID = "lnz-SC-jJA"; */
+"lnz-SC-jJA.normalTitle" = "Plants";
+
+/* Class = "UIButton"; normalTitle = "Identify"; ObjectID = "m9q-kv-N0H"; */
+"m9q-kv-N0H.normalTitle" = "Identify";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "nov-8U-EcS"; */
+"nov-8U-EcS.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oNw-P2-ZkS"; */
+"oNw-P2-ZkS.text" = "Label";
+
+/* Class = "UILabel"; text = "By default, your report will be sent to the Wildscan team which will forward it to relevant authorities. You can add specific contacts that will receive the report."; ObjectID = "ohw-RM-5Gk"; */
+"ohw-RM-5Gk.text" = "By default, your report will be sent to the Wildscan team which will forward it to relevant authorities. You can add specific contacts that will receive the report.";
+
+/* Class = "UIButton"; normalTitle = "Invertebrates"; ObjectID = "oj2-vd-589"; */
+"oj2-vd-589.normalTitle" = "Invertebrates";
+
+/* Class = "UILabel"; text = "Mar 27, 2016 12:18:34 AM"; ObjectID = "rT4-A3-mdQ"; */
+"rT4-A3-mdQ.text" = "Mar 27, 2016 12:18:34 AM";
+
+/* Class = "UILabel"; text = "Contacts: 14"; ObjectID = "uMC-HK-66J"; */
+"uMC-HK-66J.text" = "Contacts: 14";
+
+/* Class = "UILabel"; text = "Default species gallery view"; ObjectID = "vbC-6o-aRA"; */
+"vbC-6o-aRA.text" = "Default species gallery view";
+
+/* Class = "UILabel"; text = "Enter Location"; ObjectID = "vlo-7R-i9W"; */
+"vlo-7R-i9W.text" = "Enter Location";
+
+/* Class = "UIButton"; normalTitle = "Show on map"; ObjectID = "w1X-9e-QGT"; */
+"w1X-9e-QGT.normalTitle" = "Show on map";
+
+/* Class = "UILabel"; text = "Download extra region specific Species and Contacts"; ObjectID = "w7g-vm-V7v"; */
+"w7g-vm-V7v.text" = "Download extra region specific Species and Contacts";
+
+/* Class = "UIButton"; normalTitle = "Choose Existing"; ObjectID = "wLo-zJ-ZEI"; */
+"wLo-zJ-ZEI.normalTitle" = "Choose Existing";
+
+/* Class = "UILabel"; text = "Smaller than your hand"; ObjectID = "wSi-jA-9Ff"; */
+"wSi-jA-9Ff.text" = "Smaller than your hand";
+
+/* Class = "UILabel"; text = "Fins"; ObjectID = "xQA-cp-2Vn"; */
+"xQA-cp-2Vn.text" = "Fins";
+
+/* Class = "UITextView"; text = "Briefly describe the offense. For example: 'Selling protected reptiles'"; ObjectID = "xpw-I4-onO"; */
+"xpw-I4-onO.text" = "Briefly describe the offense. For example: 'Selling protected reptiles'";
+
+/* Class = "UIButton"; normalTitle = "Take Photo"; ObjectID = "xt8-QP-YaD"; */
+"xt8-QP-YaD.normalTitle" = "Take Photo";
+
+/* Class = "UILabel"; text = "Incident Report(1) - Main Photo"; ObjectID = "xxR-Rf-XeI"; */
+"xxR-Rf-XeI.text" = "Incident Report(1) - Main Photo";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "yB8-1M-NlO"; */
+"yB8-1M-NlO.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "yUd-gW-Q9U"; */
+"yUd-gW-Q9U.text" = "Amount";
+
+/* Class = "UIButton"; normalTitle = "View more"; ObjectID = "ygX-CO-Wcu"; */
+"ygX-CO-Wcu.normalTitle" = "View more";
+
+/* Class = "UIButton"; normalTitle = "Fish"; ObjectID = "z7N-RI-hy0"; */
+"z7N-RI-hy0.normalTitle" = "Fish";
+
+/* Class = "UIButton"; normalTitle = "Submit Report"; ObjectID = "zFt-iH-Vbc"; */
+"zFt-iH-Vbc.normalTitle" = "Submit Report";
+
+/* Class = "UILabel"; text = "Species"; ObjectID = "zMw-M7-tKN"; */
+"zMw-M7-tKN.text" = "Species";
